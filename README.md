@@ -72,6 +72,6 @@ A curated list of resources for Delineation
 
 + 2013-CVPR - TLTS:- A Higher-Order CRF Model for Road Network Extraction. [[Paper]](https://ieeexplore.ieee.org/document/6619066)
 
-+ 2018 - APLS:- SpaceNet: A Remote Sensing Dataset and Challenge Series. [[Paper]](https://arxiv.org/abs/1807.01232)[[Dataset]]
++ 2018 - APLS:- SpaceNet: A Remote Sensing Dataset and Challenge Series. [[Paper]](https://arxiv.org/abs/1807.01232)
 
 + 2018-CVPR - Junctin Score:- SpaceNet: A Remote Sensing Dataset and Challenge Series. [[Paper]](https://arxiv.org/abs/1807.01232)
