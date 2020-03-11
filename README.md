@@ -4,11 +4,25 @@ A curated list of resources for Delineation
 
 **Papers**
 
++ 1996-TPAMI - Automatic finding of main roads in aerial images by using geometric-stochastic models and estimation. [[Paper]](https://ieeexplore.ieee.org/document/341090)
+
++ 2000-MVA - Automatic Extraction of Roads from Aerial Images Based on Scale Space and Snakes. [[Paper]](http://www.irisa.fr/vista/Papers/2000_mva_laptev.pdf)
+
++ 2004-IJCV - A Gibbs Point Process for Road Extraction from Remotely Sensed Images. [[Paper]](https://link.springer.com/article/10.1023/B:VISI.0000013086.45688.5d)
+
++ 2010-ECCV - Learning to Detect Roads in High-Resolution Aerial Images. [[Paper]](https://www.cs.toronto.edu/~hinton/absps/road_detection.pdf)
+
++ 2012-ICML - Learning to Label Aerial Images from Noisy Data. [[Paper]](https://www.cs.toronto.edu/~vmnih/docs/noisy_maps.pdf)
+
 + 2013-CVPR - A Higher-Order CRF Model for Road Network Extraction. [[Paper]](https://ieeexplore.ieee.org/document/6619066)
+
++ 2013-CVPR - Reconstructing Loopy Curvilinear Structures Using Integer Programming.[[Paper]](https://ieeexplore.ieee.org/document/6619082)
 
 + 2017-ICCV - DeepRoadMapper: Extracting Road Topology From Aerial Images. [[Paper]](http://openaccess.thecvf.com/content_iccv_2017/html/Mattyus_DeepRoadMapper_Extracting_Road_ICCV_2017_paper.html)
 
 + 2018-CVPR - Beyond the Pixel-Wise Loss for Topology-Aware Delineation. [[Paper]](https://arxiv.org/abs/1712.02190)
+
++ 2018-CVPR - Matching adversarial networks. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Mattyus_Matching_Adversarial_Networks_CVPR_2018_paper.html)
 
 + 2018-CVPR - RoadTracer: Automatic Extraction of Road Networks From Aerial Images. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Bastani_RoadTracer_Automatic_Extraction_CVPR_2018_paper.html)[[Code]](https://github.com/mitroadmaps/roadtracer)[[Project Page]](https://roadmaps.csail.mit.edu/roadtracer/)
 
@@ -32,9 +46,11 @@ A curated list of resources for Delineation
 
 + 2019-ICCV - Recurrent U-Net for Resource-Constrained Segmentation. [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Wang_Recurrent_U-Net_for_Resource-Constrained_Segmentation_ICCV_2019_paper.html)
 
-
++ 2019-ICCV - Topological map extraction from overhead images. [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Li_Topological_Map_Extraction_From_Overhead_Images_ICCV_2019_paper.html)
 
 + 2019-TGRS - Road Detection and Centerline Extraction Via Deep Recurrent Convolutional Neural Network U-Net. [[Paper]](https://ieeexplore.ieee.org/document/8714072)
+
++ 2019-TPAMI - Joint Segmentation and Path Classication of Curvilinear Structures. [[Paper]](https://arxiv.org/abs/1905.03892)
 
 + 2020-WACV - Reconstructing Road Network Graphs from both Aerial Lidar and Images. [[Paper]](http://openaccess.thecvf.com/content_WACV_2020/html/Parajuli_Reconstructing_Road_Network_Graphs_from_both_Aerial_Lidar_and_Images_WACV_2020_paper.html)
 
@@ -43,9 +59,15 @@ A curated list of resources for Delineation
 
 **Datasets**
 
++ 2018 - SpaceNet: A Remote Sensing Dataset and Challenge Series. [[Paper]](https://arxiv.org/abs/1807.01232)[[Dataset]](https://spacenetchallenge.github.io/datasets/datasetHomePage.html)
+
 + 2018-CVPRW - DeepGlobe 2018: A Challenge to Parse the Earth Through Satellite Images. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018_workshops/w4/html/Demir_DeepGlobe_2018_A_CVPR_2018_paper.html)
 
 + 2018-CVPR - RoadTracer: Automatic Extraction of Road Networks From Aerial Images. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Bastani_RoadTracer_Automatic_Extraction_CVPR_2018_paper.html)[[Dataset]](https://github.com/mitroadmaps/roadtracer)[[Project Page]](https://roadmaps.csail.mit.edu/roadtracer/)
 
 **Metrics**
 + 1998: Empirical Evaluation of Automatically Extracted Road Axes.[[Paper]](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.57.5701)
+
++2012 - Holes and Marbles: Inferring road maps from global positioning system traces: Survey and comparative evaluation. [[Paper]](https://www.cs.uic.edu/~jakob/papers/biagioni-trr12.pdf)
+
+
