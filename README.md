@@ -1,4 +1,4 @@
-# Awsome Dilneation
+# Awsome Delineation
 
 A curated list of resources for Dilineation
 
