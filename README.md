@@ -1,6 +1,6 @@
 # Awsome Delineation
 
-A curated list of resources for Dilineation
+A curated list of resources for Delineation
 
 **Papers**
 
