@@ -77,6 +77,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2019-CVPR - PointConv: Deep Convolutional Networks on 3D Point Clouds. [[Paper]](https://arxiv.org/abs/1811.07246)[[Code]](https://github.com/DylanWusee/pointconv)
 
++ 2019-CVPR - Supervised Fitting of Geometric Primitives to 3D Point Clouds. [[Paper]](https://arxiv.org/abs/1811.08988)[[Code]](https://github.com/lingxiaoli94/SPFN)
+
 + 2019-ICCV - DiscoNet: Shapes learning on disconnected manifolds for 3D editing. [[Paper]](http://cedric.cnam.fr/~thomen/papers/Mehr_ICCV19.pdf)
 
 ***Mesh-based***
