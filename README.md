@@ -19,7 +19,7 @@ A curated list of resources for Deep Geometry Learning
 
 ***Voxel-based methods**
 
-**Dense Voxels***
+***Dense Voxels***
 
 ***Sparse Voxels***
 
