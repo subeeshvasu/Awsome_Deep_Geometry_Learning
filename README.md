@@ -103,6 +103,22 @@ A curated list of resources for Deep Geometry Learning
 
 + 2019-ICCV - Pixel2Mesh++: Multi-view 3D mesh generation via deformation. [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wen_Pixel2Mesh_Multi-View_3D_Mesh_Generation_via_Deformation_ICCV_2019_paper.pdf)
 
+**Implicit representation**
+
++ 2019-CVPR - Learning Implicit Fields for Generative Shape Modeling. [[Paper]](https://arxiv.org/abs/1812.02822)
+
++ 2019-CVPR - Occupancy networks: Learning 3D reconstruction in function space. [[Paper]](https://arxiv.org/abs/1812.03828)
+
++ 2019-CVPR - DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation. [[Paper]](https://arxiv.org/abs/1901.05103) [[Code]](https://github.com/facebookresearch/DeepSDF)
+
++ 2019-NIPS - DISN: Deep implicit surface network for high-quality single-view 3D reconstruction. [[Paper]](https://arxiv.org/abs/1905.10711) [[Code]](https://github.com/laughtervv/DISN)
+
++ 2019-NIPS - Learning to infer implicit surfaces without 3D supervision. [[Paper]](https://arxiv.org/abs/1911.00767)
+
++ 2019-Arxiv - Deep structured implicit functions. [[Paper]](https://arxiv.org/abs/1912.06126)
+
++ 2019-Arxiv - Learning shape templates with structured implicit functions. [[Paper]](https://arxiv.org/abs/1904.06447)
+
 **Structure-based representation**
 
 + 2016-CVPR - . [[Paper]]()
@@ -125,7 +141,10 @@ A curated list of resources for Deep Geometry Learning
 + 2016-CVPR - . [[Paper]]()
 
 **Survey Papers**
-29
+
++ 2019-Arxiv - Deep learning for 3D point clouds: A survey. [[Paper]](https://arxiv.org/abs/1912.12033)
+
++ 2020-Arxiv - A Survey on Deep Geometry Learning: From a Representation Perspective. [[Paper]](https://arxiv.org/abs/2002.07995)
 
 **Datasets**
 
