@@ -42,6 +42,7 @@ A curated list of resources for Deep Geometry Learning
 + 2017-BMVC - Orientation-boosted voxel nets for 3d object recognition. [[Paper]](https://arxiv.org/abs/1604.03351)
 
 ***Sparse Voxels***
+
 + 2016-NIPS - Fpnn: Field probing neural networks for 3d data. [[Paper]](https://arxiv.org/abs/1605.06240)
 
 + 2017-3DV - Hierarchical surface prediction for 3d object reconstruction. [[Paper]](https://arxiv.org/abs/1704.00710)
@@ -55,6 +56,28 @@ A curated list of resources for Deep Geometry Learning
 + 2018-TOG - Adaptive O-CNN: A patch-based deep representation of 3D shapes. [[Paper]](https://arxiv.org/abs/1809.07917)
 
 **Surface-based representation**
+
+***Point-based***
+
++ 2017-CVPR - A point set generation network for 3d object reconstruction from a single image. [[Paper]](https://arxiv.org/abs/1612.00603)
+
++ 2017-CVPR - Pointnet: Deep learning on point sets for 3d classification and segmentation. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Qi_PointNet_Deep_Learning_CVPR_2017_paper.pdf)
+
++ 2017-NIPS - PointNet++: Deep hierarchical feature learning on point sets in a metric space. [[Paper]](https://papers.nips.cc/paper/7095-pointnet-deep-hierarchical-feature-learning-on-point-sets-in-a-metric-space.pdf)
+
++ 2017-ICCV - Escape from cells: Deep kd-networks for the recognition of 3D point cloud models. [[Paper]](https://arxiv.org/abs/1704.01222)
+
++ 2018-CVPR - Foldingnet: Point cloud auto-encoder via deep grid deformation. [[Paper]](https://arxiv.org/abs/1712.07262)
+
++ 2019-ICCV - DiscoNet: Shapes learning on disconnected manifolds for 3D editing. [[Paper]](http://cedric.cnam.fr/~thomen/papers/Mehr_ICCV19.pdf)
+
++ 2019-CVPR - Patch-based progressive 3D point set upsampling. [[Paper]](https://arxiv.org/abs/1811.11286)
+
++ 2018-CVPR - Point cloud upsampling network. [[Paper]](https://arxiv.org/abs/1801.06761)
+
++ 2019-CVPR - PU-GAN: a point cloud upsampling adversarial network. [[Paper]](https://arxiv.org/abs/1801.06761)
+
+***Mesh-based***
 
 + 2016-CVPR - . [[Paper]]()
 
@@ -88,6 +111,9 @@ A curated list of resources for Deep Geometry Learning
 + 2016-CVPR - . [[Paper]]()
 
 + 2016-CVPR - . [[Paper]]()
+
+**Survey Papers**
+29
 
 **Datasets**
 
