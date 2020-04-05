@@ -121,24 +121,39 @@ A curated list of resources for Deep Geometry Learning
 
 **Structure-based representation**
 
-+ 2016-CVPR - . [[Paper]]()
++ 2017-ICCV - 3D-PRNN: Generating shape primitives with recurrent neural networks. [[Paper]](https://arxiv.org/abs/1708.01648)
 
-+ 2016-CVPR - . [[Paper]]()
++ 2019-Arxiv - PQ-NET: A Generative Part Seq2Seq Network for 3D Shapes. [[Paper]](https://arxiv.org/abs/1911.10949)
 
-+ 2016-CVPR - . [[Paper]]()
++ 2019-TOG - SDM-NET: Deep generative network for structured deformable mesh. [[Paper]](https://arxiv.org/pdf/1908.04520.pdf)
 
-+ 2016-CVPR - . [[Paper]]()
++ 2017-TOG - GRASS: Generative recursive autoencoders for shape structures. [[Paper]](https://arxiv.org/abs/1705.02090)
 
++ 2019-TOG - StructureNet: hierarchical graph networks for 3D shape generation. [[Paper]](https://arxiv.org/abs/1908.00575)
+
++ 2019-Arxiv - BSP-Net: Generating compact meshes via binary space partitioning.. [[Paper]](https://arxiv.org/abs/1911.06971)
+
++ 2019-TOG - Sagnet: Structure-aware generative network for 3d-shape modeling. [[Paper]](https://arxiv.org/abs/1808.03981)
+
++ 2018-TOG - Global-to-local generative model for 3D shapes. [[Paper]](https://vcc.tech/file/upload_file//image/research/att201810171620/G2L.pdf)
+
++ 2016-NIPS - Learning a probabilistic latent space of object shapes via 3D generativeadversarial modeling. [[Paper]](https://papers.nips.cc/paper/6096-learning-a-probabilistic-latent-space-of-object-shapes-via-3d-generative-adversarial-modeling)
+
++ 2019-TOG - SAGNet: structure-aware generative network for 3Dshape modeling. [[Paper]](https://arxiv.org/abs/1808.03981)
 
 **Deformation-based methods**
 
-+ 2016-CVPR - . [[Paper]]()
++ 2016-TOG - Efficient and flexible deformation representation for data-driven surface modeling. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2908736)
 
-+ 2016-CVPR - . [[Paper]]()
++ 2018-CVPR - Variational autoencoders for deforming 3d mesh models. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Tan_Variational_Autoencoders_for_CVPR_2018_paper.pdf)
 
-+ 2016-CVPR - . [[Paper]]()
++ 2019-TVCG - Sparse data driven mesh deformation. [[Paper]](https://arxiv.org/abs/1709.01250)
 
-+ 2016-CVPR - . [[Paper]]()
++ 2018-AAAI - Mesh-based autoencoders for localized deformation component analysis. [[Paper]](https://arxiv.org/abs/1709.04304)
+
++ 2018-TOG - Automatic unpaired shape deformation transfer. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3272127.3275028)
+
++ 2019-Arxiv - NASA: Neural articulated shape approximation. [[Paper]](https://arxiv.org/abs/1912.03207)
 
 **Survey Papers**
 
