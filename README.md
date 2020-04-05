@@ -165,22 +165,8 @@ A curated list of resources for Deep Geometry Learning
 
 **Datasets**
 
-+ 2018 - SpaceNet: A Remote Sensing Dataset and Challenge Series. [[Paper]](https://arxiv.org/abs/1807.01232)[[Dataset]](https://spacenetchallenge.github.io/datasets/datasetHomePage.html)
++ 2019-CVPR - PartNet: A Large-scale Benchmark for Fine-grained and Hierarchical Part-level 3D Object Understanding. [[Paper]](https://arxiv.org/abs/1812.02713)[[Dataset]](https://github.com/daerduoCarey/partnet_dataset)
 
-+ 2018-CVPRW - DeepGlobe 2018: A Challenge to Parse the Earth Through Satellite Images. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018_workshops/w4/html/Demir_DeepGlobe_2018_A_CVPR_2018_paper.html)[[Project Page]](http://deepglobe.org/)
-
-+ 2018-CVPR - RoadTracer: Automatic Extraction of Road Networks From Aerial Images. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Bastani_RoadTracer_Automatic_Extraction_CVPR_2018_paper.html)[[Dataset]](https://github.com/mitroadmaps/roadtracer)[[Project Page]](https://roadmaps.csail.mit.edu/roadtracer/)
-
-**Metrics**
-+ 1998 - CCQ:- Empirical Evaluation of Automatically Extracted Road Axes.[[Paper]](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.57.5701)
-
-+ 2012 - Holes and Marbles:- Inferring road maps from global positioning system traces: Survey and comparative evaluation. [[Paper]](https://www.cs.uic.edu/~jakob/papers/biagioni-trr12.pdf)
-
-+ 2013-CVPR - TLTS:- A Higher-Order CRF Model for Road Network Extraction. [[Paper]](https://ieeexplore.ieee.org/document/6619066)
-
-+ 2018 - APLS:- SpaceNet: A Remote Sensing Dataset and Challenge Series. [[Paper]](https://arxiv.org/abs/1807.01232)
-
-+ 2018-CVPR - Junctin Score:- SpaceNet: A Remote Sensing Dataset and Challenge Series. [[Paper]](https://arxiv.org/abs/1807.01232)
 
 **Other Resources**
 
