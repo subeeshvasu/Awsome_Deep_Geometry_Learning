@@ -1,6 +1,5 @@
-# Awsome Delineation
+A curated list of resources for Deep Geometry Learning
 
-A curated list of resources for Delineation
 
 **Papers**
 
