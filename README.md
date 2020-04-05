@@ -21,13 +21,25 @@ A curated list of resources for Deep Geometry Learning
 
 ***Dense Voxels***
 
-+ 2016-CVPR - . [[Paper]]()
++ 2015-CVPR - 3d shapenets: A deep representation for volumetric shapes. [[Paper]](https://people.csail.mit.edu/khosla/papers/cvpr2015_wu.pdf)
 
-+ 2016-CVPR - . [[Paper]]()
++ 2015-ICCV - Multi-view convolutional neural networks for 3d shape recognition. [[Paper]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Su_Multi-View_Convolutional_Neural_ICCV_2015_paper.pdf)
 
-+ 2016-CVPR - . [[Paper]]()
++ 2015-IROS - Voxnet: A 3d convolutional neural network for real-time object recognition. [[Paper]](https://www.ri.cmu.edu/pub_files/2015/9/voxnet_maturana_scherer_iros15.pdf)
 
-+ 2016-CVPR - . [[Paper]]()
++ 2015-IROS - VoxNet: A 3D convolutional neural network for realtime object recognition. [[Paper]](https://www.ri.cmu.edu/pub_files/2015/9/voxnet_maturana_scherer_iros15.pdf)
+
++ 2016-CVPR - Volumetric and multi-view cnns for object classification on 3d data. [[Paper]](https://arxiv.org/abs/1604.03265)
+
++ 2016-ECCV - Vconv-DAE: Deep volumetric shape learning without object labels. [[Paper]](https://arxiv.org/abs/1604.03755)
+
++ 2016-ECCV - Learning a predictable and generative vector representation for objects. [[Paper]](https://arxiv.org/abs/1603.08637)
+
++ 2016-ECCV - 3d-r2n2: A unified approach for single and multi-view 3d object reconstruction. [[Paper]](https://arxiv.org/abs/1604.00449)
+
++ 2016-NIPS - Learning a probabilistic latent space of object shapes via 3d generative-adversarial modeling. [[Paper]](https://papers.nips.cc/paper/6096-learning-a-probabilistic-latent-space-of-object-shapes-via-3d-generative-adversarial-modeling)
+
++ 2017-BMVC - Orientation-boosted voxel nets for 3d object recognition. [[Paper]](https://arxiv.org/abs/1604.03351)
 
 ***Sparse Voxels***
 
