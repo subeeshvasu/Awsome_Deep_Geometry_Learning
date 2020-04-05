@@ -42,16 +42,17 @@ A curated list of resources for Deep Geometry Learning
 + 2017-BMVC - Orientation-boosted voxel nets for 3d object recognition. [[Paper]](https://arxiv.org/abs/1604.03351)
 
 ***Sparse Voxels***
++ 2016-NIPS - Fpnn: Field probing neural networks for 3d data. [[Paper]](https://arxiv.org/abs/1605.06240)
 
-+ 2016-CVPR - . [[Paper]]()
++ 2017-3DV - Hierarchical surface prediction for 3d object reconstruction. [[Paper]](https://arxiv.org/abs/1704.00710)
 
-+ 2016-CVPR - . [[Paper]]()
++ 2017-ICCV - Octree generating networks: Efficient convolutional architectures for high-resolution 3d outputs. [[Paper]](https://arxiv.org/abs/1703.09438)
 
-+ 2016-CVPR - . [[Paper]]()
++ 2017-CVPR - Octnet: Learning deep 3d representations at high resolutions. [[Paper]](https://arxiv.org/abs/1611.05009)
 
-+ 2016-CVPR - . [[Paper]]()
++ 2017-TOG - O-cnn: Octree-based convolutional neural networks for 3d shape analysis. [[Paper]](https://arxiv.org/abs/1712.01537)
 
-+ 2016-CVPR - . [[Paper]]()
++ 2018-TOG - Adaptive O-CNN: A patch-based deep representation of 3D shapes. [[Paper]](https://arxiv.org/abs/1809.07917)
 
 **Surface-based representation**
 
