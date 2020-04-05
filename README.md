@@ -17,7 +17,11 @@ A curated list of resources for Deep Geometry Learning
 
 + 2016-CVPR - Volumetric and multi-view cnns for object classification on 3d data. [[Paper]](https://arxiv.org/abs/1604.03265)
 
-**Voxel-based methods**
+***Voxel-based methods**
+
+**Dense Voxels***
+
+***Sparse Voxels***
 
 
 **Surface-based representation**
