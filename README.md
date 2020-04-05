@@ -75,6 +75,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2019-CVPR - PU-GAN: a point cloud upsampling adversarial network. [[Paper]](https://arxiv.org/abs/1801.06761)
 
++ 2019-CVPR - PointConv: Deep Convolutional Networks on 3D Point Clouds. [[Paper]](https://arxiv.org/abs/1811.07246)[[Code]](https://github.com/DylanWusee/pointconv)
+
 + 2019-ICCV - DiscoNet: Shapes learning on disconnected manifolds for 3D editing. [[Paper]](http://cedric.cnam.fr/~thomen/papers/Mehr_ICCV19.pdf)
 
 ***Mesh-based***
