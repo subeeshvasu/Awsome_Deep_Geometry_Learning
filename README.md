@@ -79,17 +79,29 @@ A curated list of resources for Deep Geometry Learning
 
 ***Mesh-based***
 
-+ 2016-CVPR - . [[Paper]]()
++ 2017-TOG - Convolutional neural networks on surfaces via seamless toric covers. [[Paper]](http://www.vovakim.com/papers_small/17_SIGGRAPH_ToricCNN.pdf)
 
-+ 2016-CVPR - . [[Paper]]()
++ 2016-ECCV - Deep learning 3D shape surfaces using geometry images. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-319-46466-4_14)
 
-+ 2016-CVPR - . [[Paper]]()
++ 2018-CVPR - Feastnet: Feature-steered graph convolutions for 3d shape analysis. [[Paper]](https://arxiv.org/abs/1706.05206)
 
-+ 2016-CVPR - . [[Paper]]()
++ 2019-TOG - MeshCNN: a network with an edge. [[Paper]](https://arxiv.org/abs/1809.05910)
 
-+ 2016-CVPR - . [[Paper]]()
++ 2016-NIPS - Learning shape correspondence with anisotropic convolutional neural networks. [[Paper]](https://arxiv.org/abs/1605.06437)
 
-+ 2016-CVPR - . [[Paper]]()
++ 2017-ICCV - Directionally convolutional networks for 3D shape segmentation. [[Paper]](https://arxiv.org/abs/1605.06437)
+
++ 2017-CVPR - Geometric deep learning on graphs and manifolds using mixture model cnns. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Monti_Geometric_Deep_Learning_CVPR_2017_paper.pdf)
+
++ 2018-CVPR - SplineCNN: Fast geometric deep learning with continuous b-spline kernels. [[Paper]](https://arxiv.org/abs/1711.08920)
+
++ 2018-Arxiv - Convolutional neural networks on 3d surfaces using parallel frames. [[Paper]](https://arxiv.org/abs/1808.04952)
+
++ 2018-ECCV - Pixel2Mesh: Generating 3D mesh models from single RGB images. [[Paper]](https://arxiv.org/abs/1804.01654)
+
++ 2019-ICCV - Pixel2Mesh++: Multi-view 3D mesh generation via deformation. [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wen_Pixel2Mesh_Multi-View_3D_Mesh_Generation_via_Deformation_ICCV_2019_paper.pdf)
+
++ 2018-CVPR - AtlasNet: A Papier-Mâché Approach to Learning 3D Surface Generation. [[Paper]](https://arxiv.org/abs/1802.05384)
 
 **Structure-based representation**
 
