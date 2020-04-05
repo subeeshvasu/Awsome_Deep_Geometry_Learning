@@ -83,6 +83,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2019-CVPR - Modeling Local Geometric Structure of 3D Point Clouds using Geo-CNN. [[Paper]](https://arxiv.org/abs/1811.07782)
 
++ 2019-CVPR - PointWeb: Enhancing Local Neighborhood Features for Point Cloud Processing. [[Paper]](http://jiaya.me/papers/pointweb_cvpr19.pdf)[[Code]](https://github.com/hszhao/PointWeb)
+
 + 2019-ICCV - DiscoNet: Shapes learning on disconnected manifolds for 3D editing. [[Paper]](http://cedric.cnam.fr/~thomen/papers/Mehr_ICCV19.pdf)
 
 ***Mesh-based***
