@@ -1,7 +1,32 @@
 A curated list of resources for Deep Geometry Learning
 
 
-**Papers**
+**Image-based methods**
+
++ 2012-NIPS - Convolutional-recursive deep learning for 3d object classification. [[Paper]](https://papers.nips.cc/paper/4773-convolutional-recursive-deep-learning-for-3d-object-classification.pdf)
+
++ 2014-NIPS - Depth map prediction from a single image using a multi-scale deep network. [[Paper]](https://arxiv.org/abs/1406.2283)
+
++ 2014-ECCV - Learning Rich Features from RGB-D Images for Object Detection and Segmentation. [[Paper]](https://arxiv.org/abs/1407.5736)
+
++ 2015-CVPR - Aligning 3D models to RGB-D images of cluttered scenes. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2015/papers/Gupta_Aligning_3D_Models_2015_CVPR_paper.pdf)
+
++ 2015-ICCV - Multi-view convolutional neural networks for 3d shape recognition. [[Paper]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Su_Multi-View_Convolutional_Neural_ICCV_2015_paper.pdf)
+
++ 2016-CVPR - Deep Sliding Shapes for Amodal 3D Object Detection in RGB-D Images. [[Paper]](http://dss.cs.princeton.edu/paper.pdf)
+
++ 2016-CVPR - Volumetric and multi-view cnns for object classification on 3d data. [[Paper]](https://arxiv.org/abs/1604.03265)
+
+**Voxel-based methods**
+
+
+**Surface-based representation**
+
+
+**Structure-based representation**
+
+
+**Deformation-based methods**
 
 + 1996-TPAMI - Automatic finding of main roads in aerial images by using geometric-stochastic models and estimation. [[Paper]](https://ieeexplore.ieee.org/document/341090)
 
