@@ -179,3 +179,7 @@ A curated list of resources for Deep Geometry Learning
 + 2018 - APLS:- SpaceNet: A Remote Sensing Dataset and Challenge Series. [[Paper]](https://arxiv.org/abs/1807.01232)
 
 + 2018-CVPR - Junctin Score:- SpaceNet: A Remote Sensing Dataset and Challenge Series. [[Paper]](https://arxiv.org/abs/1807.01232)
+
+**Other Resources**
+
++ [awesome point cloud analysis](https://github.com/Yochengliu/awesome-point-cloud-analysis)
