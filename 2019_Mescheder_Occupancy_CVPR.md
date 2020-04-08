@@ -25,7 +25,7 @@ Typically based on deforming a template mesh and hence do not allow arbitrary to
 
 + A single batch of training data can include, samples from N different shapes, with M random points sampled from in and out of each shape, with the loss as the cross entropy with respect to the grond truth occupancy values.
 
-+ To generate such point cloud as a function of input data in the form of image or point cloud, one can append features from those along with the input coordinates. (Refer Net arch in supplementary). Features are extracted using different types of encoders depending on the nature of input shape.
++ To generate such point cloud as a function of input data in the form of image or point cloud, one can append features from those along with the input coordinates. (Refer Net arch in supplementary). Features are extracted using different types of encoders depending on the nature of input shape. The fixed-length feature vector generated from the whole input data is used as one of the input, and the other input is randomly sampled M points from the same input shape.
 
 + The performance of the method depends on the sampling scheme that we employ for drawing the random samples. Up on empirical evaluation, they found that sampling uniformly inside the bounding box of the object with an additional small padding yields the best results.
 
