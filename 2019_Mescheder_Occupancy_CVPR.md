@@ -31,6 +31,12 @@ Typically based on deforming a template mesh and hence do not allow arbitrary to
 
 + They also talk about learning a probabilistic latent variable models using their 3D representation, but I didn't understand that part.
 
++ For the inference, Multiresolution IsoSurface Extraction (MISE), a hierarchical isosurface extraction algorithm is proposed. MISE enables to extract high resolution meshes from the occupancy network without densely evaluating all points of a high-dimensional occupancy grid.
+
++ After getting occupancy function an sufficiently finer resolution grid, they apply Marching Cubes algorithm to extract an approximate isosurface. 
+
++ The mesh extracted by the Marching Cubes algorithm is further refined in two additional steps. In a first step, the mesh is simplified using the Fast-Quadric-Mesh-Simplification algorithm. The output of which os refined using first and second order (i.e., gradient) information derived from the network. They sample random points from each face of the output mesh and tweak their position (?) to satisfy the criterion drived from network. But this will again amount to additional processing steps? Can't they increase the output resolution before marching to cube to yield similar results?
+
 
 
 ## Key points from experiments
