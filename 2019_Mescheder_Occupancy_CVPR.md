@@ -21,7 +21,16 @@ Typically based on deforming a template mesh and hence do not allow arbitrary to
 
 ## Key points from method
 
-+ Define occupancy function as a continuous function that will map any arbirary point in space to a real value of 1 or , indicating if the points is inside or outside of the surface?
++ Define occupancy function as a continuous function that will map any arbirary point in space to a real value of 1 or , indicating if the points is inside or outside of the surface?.
+
++ A single batch of training data can include, samples from N different shapes, with M random points sampled from in and out of each shape, with the loss as the cross entropy with respect to the grond truth occupancy values.
+
++ To generate such point cloud as a function of input data in the form of image or point cloud, one can append features from those along with the input coordinates.
+
++ The performance of the method depends on the sampling scheme that we employ for drawing the random samples. Up on empirical evaluation, they found that sampling uniformly inside the bounding box of the object with an additional small padding yields the best results.
+
++ They also talk about learning a probabilistic latent variable models using their 3D representation, but I didn't understand that part.
+
 
 
 ## Key points from experiments
