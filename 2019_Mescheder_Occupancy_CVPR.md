@@ -29,20 +29,19 @@ Typically based on deforming a template mesh and hence do not allow arbitrary to
 
 + The performance of the method depends on the sampling scheme that we employ for drawing the random samples. Up on empirical evaluation, they found that sampling uniformly inside the bounding box of the object with an additional small padding yields the best results.
 
-+ They also talk about learning a probabilistic latent variable models using their 3D representation, but I didn't understand that part.
++ They also talk about learning a probabilistic latent variable models using their 3D representation, but I didn't understand that part. This leanred representation is then used to generate new impressive shapes (shape interpolation).
 
 + For the inference, Multiresolution IsoSurface Extraction (MISE), a hierarchical isosurface extraction algorithm is proposed. MISE enables to extract high resolution meshes from the occupancy network without densely evaluating all points of a high-dimensional occupancy grid.
 
 + After getting occupancy function an sufficiently finer resolution grid, they apply Marching Cubes algorithm to extract an approximate isosurface. 
 
-+ The mesh extracted by the Marching Cubes algorithm is further refined in two additional steps. In a first step, the mesh is simplified using the Fast-Quadric-Mesh-Simplification algorithm. The output of which os refined using first and second order (i.e., gradient) information derived from the network. They sample random points from each face of the output mesh and tweak their position (?) to satisfy the criterion drived from network. But this will again amount to additional processing steps? Can't they increase the output resolution before marching to cube to yield similar results?
-
-
++ The mesh extracted by the Marching Cubes algorithm is further refined in two additional steps. In a first step, the mesh is simplified using the Fast-Quadric-Mesh-Simplification algorithm. The output of which is refined using first and second order (i.e., gradient) information derived from the network. They sample random points from each face of the output mesh and tweak their position (?) to satisfy the criterion drived from network. But this will again amount to additional processing steps? Can't they increase the output resolution before marching to cube to yield similar results?
 
 ## Key points from experiments
 
 + They subdivide the training set into a **training and a validation set** (I should use this) on which we track the loss of our method and the baselines to determine when to stop training.
 
++ For all methods, they track the loss and other metrics on the validation set and **stop training as soon as the target metric reaches its optimum**.
 
 ## key points on Future works
 
