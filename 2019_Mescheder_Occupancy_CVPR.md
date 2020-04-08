@@ -41,6 +41,8 @@ Typically based on deforming a template mesh and hence do not allow arbitrary to
 
 ## Key points from experiments
 
++ They subdivide the training set into a training and a validation set on which we track the loss of our method and the baselines to determine when to stop training.
+
 
 ## key points on Future works
 
