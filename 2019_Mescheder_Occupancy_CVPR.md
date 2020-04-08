@@ -21,6 +21,8 @@ Typically based on deforming a template mesh and hence do not allow arbitrary to
 
 ## Key points from method
 
++ Define occupancy function as a continuous function that will map any arbirary point in space to a real value of 1 or , indicating if the points is inside or outside of the surface?
+
 
 ## Key points from experiments
 
