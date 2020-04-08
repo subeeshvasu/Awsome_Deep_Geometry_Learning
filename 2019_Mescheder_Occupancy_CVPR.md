@@ -4,7 +4,7 @@
 + Many of the state-of-the-art learning based 3D reconstruction approaches can hence only represent very coarse 3D geometry or are limited to a restricted domain.
 + Existing work on learning-based 3D reconstruction can be broadly categorized by the output representation they produce as either voxel-based, point-based or mesh-based.
 
-++
+Voxel based: Due to their simplicity and similarity to the 2D image representation, voxels are the most commonly used representation for discriminative and generative 3D tasks. However, they suffer from the maximum resolution that can be achieved at the output. Even with the most recent multi-resolution reconstruction technique, output resolution is still limited to 256^3 voxel grids
 
 + Propose Occupancy Networks, a new representation for learning-based 3D reconstruction methods.
 + Occupancy networks implicitly represent the 3D surface as the continuous decision boundary of a deep neural network classifier. This representation encodes a description of the 3D output at infinite resolution without excessive memory footprint.
