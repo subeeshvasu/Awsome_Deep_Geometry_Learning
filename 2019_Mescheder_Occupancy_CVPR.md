@@ -44,3 +44,10 @@ Typically based on deforming a template mesh and hence do not allow arbitrary to
 
 ## key points on Future works
 
+
+# What I need to do
+
+Try to use the post-processing mesh refinement on top of deep sdf output to see if the shape can be improvised. Neverthless, the improvisation that they are doing here is to overcome artifacts stems from Marching cube algorithm. So we will need to use something like a gan to improve the shape deformation that's caused by the nature in which we are currently learning the shapes.
+
+
+
