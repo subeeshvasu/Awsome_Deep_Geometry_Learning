@@ -121,6 +121,12 @@ A curated list of resources for Deep Geometry Learning
 
 + 2019-CVPR - DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation. [[Paper]](https://arxiv.org/abs/1901.05103) [[Code]](https://github.com/facebookresearch/DeepSDF)
 
++ 2019-ICCV - PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization. [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Saito_PIFu_Pixel-Aligned_Implicit_Function_for_High-Resolution_Clothed_Human_Digitization_ICCV_2019_paper.pdf)
+
++ 2019-ICCV - Learning Shape Templates with Structured Implicit Functions. [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Genova_Learning_Shape_Templates_With_Structured_Implicit_Functions_ICCV_2019_paper.pdf)
+
++ 2019-NIPS - Scene Representation Networks: Continuous 3D-Structure-Aware Neural Scene Representations. [[Paper]](http://papers.nips.cc/paper/8396-scene-representation-networks-continuous-3d-structure-aware-neural-scene-representations.pdf) (implicity not verified)
+
 + 2019-NIPS - DISN: Deep implicit surface network for high-quality single-view 3D reconstruction. [[Paper]](https://arxiv.org/abs/1905.10711) [[Code]](https://github.com/laughtervv/DISN)
 
 + 2019-NIPS - Learning to infer implicit surfaces without 3D supervision. [[Paper]](https://arxiv.org/abs/1911.00767)
