@@ -87,6 +87,10 @@ A curated list of resources for Deep Geometry Learning
 
 + 2019-ICCV - DiscoNet: Shapes learning on disconnected manifolds for 3D editing. [[Paper]](http://cedric.cnam.fr/~thomen/papers/Mehr_ICCV19.pdf)
 
++ 2019-ICCV - BAE-NET: Branched Autoencoder for Shape Co-Segmentation. [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_BAE-NET_Branched_Autoencoder_for_Shape_Co-Segmentation_ICCV_2019_paper.pdf)
+
++ 2019-TOG - LOGAN: Unpaired Shape Transform in Latent Overcomplete Space. [[Paper]](https://arxiv.org/abs/1903.10170)[[Code]](https://github.com/kangxue/LOGAN)
+
 ***Mesh-based***
 
 + 2016-ECCV - Deep learning 3D shape surfaces using geometry images. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-319-46466-4_14)
@@ -134,6 +138,8 @@ A curated list of resources for Deep Geometry Learning
 + 2019-Arxiv - Deep structured implicit functions. [[Paper]](https://arxiv.org/abs/1912.06126)
 
 + 2019-Arxiv - Learning shape templates with structured implicit functions. [[Paper]](https://arxiv.org/abs/1904.06447)
+
++ 2020-Arxiv - Deep Local Shapes: Learning Local SDF Priors for Detailed 3D Reconstruction. [[Paper]](https://arxiv.org/abs/2003.10983)
 
 **Structure-based representation**
 
