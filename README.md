@@ -91,6 +91,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2019-TOG - LOGAN: Unpaired Shape Transform in Latent Overcomplete Space. [[Paper]](https://arxiv.org/abs/1903.10170)[[Code]](https://github.com/kangxue/LOGAN)
 
++ 2020-Arxiv - Multimodal Shape Completion via Conditional Generative Adversarial Networks. [[Paper]](https://arxiv.org/pdf/2003.07717.pdf)
+
 ***Mesh-based***
 
 + 2016-ECCV - Deep learning 3D shape surfaces using geometry images. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-319-46466-4_14)
