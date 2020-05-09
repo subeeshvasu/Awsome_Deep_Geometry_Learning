@@ -73,6 +73,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2018-ICML - Learning Representations and Generative Models For 3D Point Clouds. [[Paper]](https://arxiv.org/abs/1707.02392) [[Tf-Code]](https://github.com/optas/latent_3d_points)
 
++ 2018 - Point Cloud GAN. [[Paper]](https://arxiv.org/abs/1810.05795) [[Py-Tf-Hybrid-Code]](https://github.com/chunliangli/Point-Cloud-GAN)
+
 + 2019-CVPR - Patch-based progressive 3D point set upsampling. [[Paper]](https://arxiv.org/abs/1811.11286)
 
 + 2019-CVPR - PU-GAN: a point cloud upsampling adversarial network. [[Paper]](https://arxiv.org/abs/1801.06761)
