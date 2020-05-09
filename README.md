@@ -91,6 +91,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2019-TOG - LOGAN: Unpaired Shape Transform in Latent Overcomplete Space. [[Paper]](https://arxiv.org/abs/1903.10170)[[Code]](https://github.com/kangxue/LOGAN)
 
++ 2020-ICLR - Unpaired Point Cloud Completion on Real Scans using Adversarial Training. [[Paper]](https://arxiv.org/pdf/1904.00069.pdf)[[Code]](https://github.com/xuelin-chen/pcl2pcl-gan-pub)
+
 + 2020-Arxiv - Multimodal Shape Completion via Conditional Generative Adversarial Networks. [[Paper]](https://arxiv.org/pdf/2003.07717.pdf)
 
 ***Mesh-based***
