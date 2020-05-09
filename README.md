@@ -147,8 +147,7 @@ A curated list of resources for Deep Geometry Learning
 
 **Structure-based representation**
 
-+ 2016-NIPS - Learning a probabilistic latent space of object shapes via 3D generativeadversarial modeling. [[Paper]](https://papers.nips.cc/paper/6096-learning-a-probabilistic-latent-space-of-object-shapes-via-3d-generative-adversarial-modeling)
-
++ 2016-NIPS - Learning a probabilistic latent space of object shapes via 3D generative adversarial modeling. [[Paper]](https://papers.nips.cc/paper/6096-learning-a-probabilistic-latent-space-of-object-shapes-via-3d-generative-adversarial-modeling)[[Code]](https://github.com/zck119/3dgan-release)
 
 + 2017-ICCV - 3D-PRNN: Generating shape primitives with recurrent neural networks. [[Paper]](https://arxiv.org/abs/1708.01648)
 
