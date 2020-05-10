@@ -161,8 +161,6 @@ A curated list of resources for Deep Geometry Learning
 
 + 2018-TOG - Global-to-local generative model for 3D shapes. [[Paper]](https://vcc.tech/file/upload_file//image/research/att201810171620/G2L.pdf)
 
-+ 2019-Arxiv - PQ-NET: A Generative Part Seq2Seq Network for 3D Shapes. [[Paper]](https://arxiv.org/abs/1911.10949)
-
 + 2019-TOG - SDM-NET: Deep generative network for structured deformable mesh. [[Paper]](https://arxiv.org/pdf/1908.04520.pdf)
 
 + 2019-TOG - SAGNet: Structure-aware generative network for 3d-shape modeling. [[Paper]](https://arxiv.org/abs/1808.03981)
@@ -170,6 +168,8 @@ A curated list of resources for Deep Geometry Learning
 + 2019-TOG - StructureNet: hierarchical graph networks for 3D shape generation. [[Paper]](https://arxiv.org/abs/1908.00575)
 
 + 2020-CVPR - BSP-Net: Generating compact meshes via binary space partitioning.. [[Paper]](https://arxiv.org/abs/1911.06971)
+
++ 2020-CVPR - PQ-NET: A Generative Part Seq2Seq Network for 3D Shapes. [[Paper]](https://arxiv.org/abs/1911.10949)
 
 **Deformation-based methods**
 
