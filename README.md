@@ -169,7 +169,7 @@ A curated list of resources for Deep Geometry Learning
 
 + 2020-CVPR - BSP-Net: Generating compact meshes via binary space partitioning.. [[Paper]](https://arxiv.org/abs/1911.06971)
 
-+ 2020-CVPR - PQ-NET: A Generative Part Seq2Seq Network for 3D Shapes. [[Paper]](https://arxiv.org/abs/1911.10949)
++ 2020-CVPR - PQ-NET: A Generative Part Seq2Seq Network for 3D Shapes. [[Paper]](https://arxiv.org/abs/1911.10949)[[Code]](https://github.com/ChrisWu1997/PQ-NET)
 
 **Deformation-based methods**
 
