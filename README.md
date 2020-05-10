@@ -159,7 +159,7 @@ A curated list of resources for Deep Geometry Learning
 
 + 2018-TOG - Global-to-local generative model for 3D shapes. [[Paper]](https://vcc.tech/file/upload_file//image/research/att201810171620/G2L.pdf)
 
-+ 2019-ICCV - BAE-NET: Branched Autoencoder for Shape Co-Segmentation. [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_BAE-NET_Branched_Autoencoder_for_Shape_Co-Segmentation_ICCV_2019_paper.pdf)[[Py-Code]](https://github.com/czq142857/BAE-NET)
++ 2019-ICCV - BAE-NET: Branched Autoencoder for Shape Co-Segmentation. [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_BAE-NET_Branched_Autoencoder_for_Shape_Co-Segmentation_ICCV_2019_paper.pdf)[[Tf-Code]](https://github.com/czq142857/BAE-NET)
 
 + 2019-TOG - SDM-NET: Deep generative network for structured deformable mesh. [[Paper]](https://arxiv.org/pdf/1908.04520.pdf)
 
