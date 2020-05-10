@@ -93,8 +93,6 @@ A curated list of resources for Deep Geometry Learning
 
 + 2019-ICCV - DiscoNet: Shapes learning on disconnected manifolds for 3D editing. [[Paper]](http://cedric.cnam.fr/~thomen/papers/Mehr_ICCV19.pdf)
 
-+ 2019-ICCV - BAE-NET: Branched Autoencoder for Shape Co-Segmentation. [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_BAE-NET_Branched_Autoencoder_for_Shape_Co-Segmentation_ICCV_2019_paper.pdf)
-
 + 2019-TOG - LOGAN: Unpaired Shape Transform in Latent Overcomplete Space. [[Paper]](https://arxiv.org/abs/1903.10170)[[Code]](https://github.com/kangxue/LOGAN)
 
 + 2020-ICLR - Unpaired Point Cloud Completion on Real Scans using Adversarial Training. [[Paper]](https://arxiv.org/pdf/1904.00069.pdf)[[Code]](https://github.com/xuelin-chen/pcl2pcl-gan-pub)
@@ -160,6 +158,8 @@ A curated list of resources for Deep Geometry Learning
 + 2017-TOG - GRASS: Generative recursive autoencoders for shape structures. [[Paper]](https://arxiv.org/abs/1705.02090)[[Code]](https://github.com/junli-lj/Grass)[[Py-Code]](https://github.com/kevin-kaixu/grass_pytorch)
 
 + 2018-TOG - Global-to-local generative model for 3D shapes. [[Paper]](https://vcc.tech/file/upload_file//image/research/att201810171620/G2L.pdf)
+
++ 2019-ICCV - BAE-NET: Branched Autoencoder for Shape Co-Segmentation. [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_BAE-NET_Branched_Autoencoder_for_Shape_Co-Segmentation_ICCV_2019_paper.pdf)[[Py-Code]](https://github.com/czq142857/BAE-NET)
 
 + 2019-TOG - SDM-NET: Deep generative network for structured deformable mesh. [[Paper]](https://arxiv.org/pdf/1908.04520.pdf)
 
