@@ -165,7 +165,7 @@ A curated list of resources for Deep Geometry Learning
 
 + 2019-TOG - SAGNet: Structure-aware generative network for 3d-shape modeling. [[Paper]](https://arxiv.org/abs/1808.03981)[[Tf-Code]](https://github.com/zhijieW94/SAGNet)
 
-+ 2019-TOG - StructureNet: hierarchical graph networks for 3D shape generation. [[Paper]](https://arxiv.org/abs/1908.00575)
++ 2019-TOG - StructureNet: hierarchical graph networks for 3D shape generation. [[Paper]](https://arxiv.org/abs/1908.00575)[[Tf-Code]](https://github.com/daerduoCarey/structurenet)
 
 + 2020-CVPR - BSP-Net: Generating compact meshes via binary space partitioning.. [[Paper]](https://arxiv.org/abs/1911.06971)
 
