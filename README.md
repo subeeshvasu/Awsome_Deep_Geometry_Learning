@@ -203,6 +203,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2010-TOG - Learning 3D Mesh Segmentation and Labeling. [[Paper]](https://people.cs.umass.edu/~kalo/papers/LabelMeshes/LabelMeshes.pdf)[[Dataset]](https://people.cs.umass.edu/~kalo/papers/LabelMeshes/)
 
++ 2012-TOG - Active Co-Analysis of a Set of Shapes. [[Paper]](http://irc.cs.sdu.edu.cn/~yunhai/public_html/ssl/ssl.pdf)[[Dataset]](http://irc.cs.sdu.edu.cn/~yunhai/public_html/ssl/ssd.htm)[[Project Page]](http://irc.cs.sdu.edu.cn/~yunhai/public_html/ssl/ssl.htm)
+
 + 2016-TOG - A Scalable Active Framework for Region Annotation in 3D Shape Collections. [[Paper]](http://cs.stanford.edu/~ericyi/papers/part_annotation_16.pdf)[[Dataset]](https://cs.stanford.edu/~ericyi/project_page/part_annotation/)
 
 + 2019-CVPR - PartNet: A Large-scale Benchmark for Fine-grained and Hierarchical Part-level 3D Object Understanding. [[Paper]](https://arxiv.org/abs/1812.02713)[[Dataset]](https://github.com/daerduoCarey/partnet_dataset)
