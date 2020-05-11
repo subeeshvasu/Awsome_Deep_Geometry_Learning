@@ -197,9 +197,15 @@ A curated list of resources for Deep Geometry Learning
 
 **Datasets**
 
-+ 2019-CVPR - PartNet: A Large-scale Benchmark for Fine-grained and Hierarchical Part-level 3D Object Understanding. [[Paper]](https://arxiv.org/abs/1812.02713)[[Dataset]](https://github.com/daerduoCarey/partnet_dataset)
+***Part Labels***
+
++ 2009-TOG - A Benchmark for 3D Mesh Segmentation. [[Paper]](https://segeval.cs.princeton.edu/public/paper.pdf)[[Dataset]](https://segeval.cs.princeton.edu/)
 
 + 2016-TOG - A Scalable Active Framework for Region Annotation in 3D Shape Collections. [[Paper]](http://cs.stanford.edu/~ericyi/papers/part_annotation_16.pdf)[[Dataset]](https://cs.stanford.edu/~ericyi/project_page/part_annotation/)
+
++ 2019-CVPR - PartNet: A Large-scale Benchmark for Fine-grained and Hierarchical Part-level 3D Object Understanding. [[Paper]](https://arxiv.org/abs/1812.02713)[[Dataset]](https://github.com/daerduoCarey/partnet_dataset)
+
+
 
 
 **Other Resources**
