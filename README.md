@@ -101,6 +101,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2020-Arxiv - Multimodal Shape Completion via Conditional Generative Adversarial Networks. [[Paper]](https://arxiv.org/pdf/2003.07717.pdf)
 
++ 2020-Arxiv - Point Cloud Completion by Skip-attention Network with Hierarchical Folding. [[Paper]](https://arxiv.org/abs/2005.03871)
+
 ***Mesh-based***
 
 + 2016-ECCV - Deep learning 3D shape surfaces using geometry images. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-319-46466-4_14)
@@ -174,6 +176,10 @@ A curated list of resources for Deep Geometry Learning
 + 2020-CVPR - BSP-Net: Generating compact meshes via binary space partitioning. [[Paper]](https://arxiv.org/abs/1911.06971)[[Code]](https://github.com/czq142857/BSP-NET-original)
 
 + 2020-CVPR - PQ-NET: A Generative Part Seq2Seq Network for 3D Shapes. [[Paper]](https://arxiv.org/abs/1911.10949)[[Code]](https://github.com/ChrisWu1997/PQ-NET)
+
++ 2020-Arxiv - FroDO: From Detections to 3D Objects. [[Paper]](https://arxiv.org/pdf/2005.05125.pdf)
+
++ 2020-Arxiv - A Simple and Scalable Shape Representation for 3D Reconstruction. [[Paper]](https://arxiv.org/pdf/2005.04623.pdf)
 
 **Deformation-based methods**
 
