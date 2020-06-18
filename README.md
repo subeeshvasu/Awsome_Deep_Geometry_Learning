@@ -201,6 +201,10 @@ A curated list of resources for Deep Geometry Learning
 
 + 2019-Arxiv - NASA: Neural articulated shape approximation. [[Paper]](https://arxiv.org/abs/1912.03207)
 
+**Primitve-based methods**
+
+
+
 **Survey Papers**
 
 + 2019-Arxiv - Deep learning for 3D point clouds: A survey. [[Paper]](https://arxiv.org/abs/1912.12033)
