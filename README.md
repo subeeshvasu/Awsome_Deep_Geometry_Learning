@@ -155,6 +155,10 @@ A curated list of resources for Deep Geometry Learning
 
 **Structure-based representation**
 
++ 2011-EG - Symmetry hierarchy of man-made objects. [[Paper]](https://kevinkaixu.net/papers/wang_eg11_symh.pdf)
+
++ 2014-TOG - Structure-aware shape processing. [[Paper]](http://vecg.cs.ucl.ac.uk/Projects/SmartGeometry/structure_survey/paper_docs/StructureAwareShapeProcessing_eg13.pdf)
+
 + 2016-NIPS - Learning a probabilistic latent space of object shapes via 3D generative adversarial modeling. [[Paper]](https://papers.nips.cc/paper/6096-learning-a-probabilistic-latent-space-of-object-shapes-via-3d-generative-adversarial-modeling)[[Code]](https://github.com/zck119/3dgan-release)
 
 + 2017-ICCV - 3D-PRNN: Generating shape primitives with recurrent neural networks. [[Paper]](https://arxiv.org/abs/1708.01648)
@@ -162,6 +166,8 @@ A curated list of resources for Deep Geometry Learning
 + 2017-TOG - GRASS: Generative recursive autoencoders for shape structures. [[Paper]](https://arxiv.org/abs/1705.02090)[[Code]](https://github.com/junli-lj/Grass)[[Py-Code]](https://github.com/kevin-kaixu/grass_pytorch)
 
 + 2018-TOG - Global-to-local generative model for 3D shapes. [[Paper]](https://vcc.tech/file/upload_file//image/research/att201810171620/G2L.pdf)
+
++ 2019 - Learning structural graph layouts and 3d shapes for long span bridges 3d reconstruction. [[Paper]](https://arxiv.org/abs/1907.03387)
 
 +  2019-ICCV - CompoNet: Learning to Generate the Unseen by Part Synthesis and Composition. [[Paper]](https://arxiv.org/pdf/1811.07441.pdf)[[Tf-Code]](https://github.com/nschor/CompoNet)
 
