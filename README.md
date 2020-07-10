@@ -103,6 +103,10 @@ A curated list of resources for Deep Geometry Learning
 
 + 2020-Arxiv - Point Cloud Completion by Skip-attention Network with Hierarchical Folding. [[Paper]](https://arxiv.org/abs/2005.03871)
 
++ 2019-NIPS - Point-Voxel CNN for Efficient 3D Deep Learning. [[Paper]](https://arxiv.org/abs/1907.03739)
+
+
+
 ***Mesh-based***
 
 + 2016-ECCV - Deep learning 3D shape surfaces using geometry images. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-319-46466-4_14)
