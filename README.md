@@ -109,7 +109,7 @@ A curated list of resources for Deep Geometry Learning
 
 + 2018-CVPR - Sparse lattice networks for point cloud processing. [[Paper]](https://arxiv.org/abs/1802.08275)
 
-+ 2018-CVPR - Tangent convolutions for dense prediction in 3d. [[Paper]](https://arxiv.org/abs/1807.02443)
++ 2018-CVPR - Tangent convolutions for dense prediction in 3d. [[Paper]](https://arxiv.org/abs/1807.02443) [[Tf-Code]](https://github.com/tatarchm/tangent_conv)
 
 ***Mesh-based***
 
