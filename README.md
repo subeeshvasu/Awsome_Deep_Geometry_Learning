@@ -105,7 +105,11 @@ A curated list of resources for Deep Geometry Learning
 
 + 2019-NIPS - Point-Voxel CNN for Efficient 3D Deep Learning. [[Paper]](https://arxiv.org/abs/1907.03739)
 
++ 2018-TOG - Point convolutional neural networks by extension operators. [[Paper]](https://arxiv.org/abs/1803.10091)
 
++ 2018-CVPR - Sparse lattice networks for point cloud processing. [[Paper]](https://arxiv.org/abs/1802.08275)
+
++ 2018-CVPR - Tangent convolutions for dense prediction in 3d. [[Paper]](https://arxiv.org/abs/1807.02443)
 
 ***Mesh-based***
 
