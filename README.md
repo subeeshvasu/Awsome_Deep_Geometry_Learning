@@ -111,6 +111,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2018-CVPR - Tangent convolutions for dense prediction in 3d. [[Paper]](https://arxiv.org/abs/1807.02443) [[Tf-Code]](https://github.com/tatarchm/tangent_conv)
 
++ 2019 - ConvPoint: Continuous Convolutions for Point Cloud Processing. [[Paper]](https://arxiv.org/abs/1904.02375) [[Py-Code]](https://github.com/aboulch/ConvPoint)
+
 ***Mesh-based***
 
 + 2016-ECCV - Deep learning 3D shape surfaces using geometry images. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-319-46466-4_14)
