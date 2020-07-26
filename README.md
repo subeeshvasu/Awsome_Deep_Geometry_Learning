@@ -37,7 +37,7 @@ A curated list of resources for Deep Geometry Learning
 
 + 2016-ECCV - 3d-r2n2: A unified approach for single and multi-view 3d object reconstruction. [[Paper]](https://arxiv.org/abs/1604.00449)
 
-+ 2016-NIPS - Learning a probabilistic latent space of object shapes via 3d generative-adversarial modeling. [[Paper]](https://papers.nips.cc/paper/6096-learning-a-probabilistic-latent-space-of-object-shapes-via-3d-generative-adversarial-modeling)
++ 2016-NIPS - Learning a probabilistic latent space of object shapes via 3D generative adversarial modeling. [[Paper]](https://papers.nips.cc/paper/6096-learning-a-probabilistic-latent-space-of-object-shapes-via-3d-generative-adversarial-modeling)[[Code]](https://github.com/zck119/3dgan-release)
 
 + 2017-BMVC - Orientation-boosted voxel nets for 3d object recognition. [[Paper]](https://arxiv.org/abs/1604.03351)
 
@@ -175,8 +175,6 @@ A curated list of resources for Deep Geometry Learning
 + 2014-TOG - Structure-aware shape processing. [[Paper]](http://vecg.cs.ucl.ac.uk/Projects/SmartGeometry/structure_survey/paper_docs/StructureAwareShapeProcessing_eg13.pdf)
 
 + 2015-CGF - Analysis and synthesis of 3d shape families via deep-learned generative models of surfaces. [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.708.5905&rep=rep1&type=pdf)
-
-+ 2016-NIPS - Learning a probabilistic latent space of object shapes via 3D generative adversarial modeling. [[Paper]](https://papers.nips.cc/paper/6096-learning-a-probabilistic-latent-space-of-object-shapes-via-3d-generative-adversarial-modeling)[[Code]](https://github.com/zck119/3dgan-release)
 
 + 2017-ICCV - 3D-PRNN: Generating shape primitives with recurrent neural networks. [[Paper]](https://arxiv.org/abs/1708.01648)
 
