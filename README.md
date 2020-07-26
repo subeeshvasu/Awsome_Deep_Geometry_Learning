@@ -233,7 +233,7 @@ A curated list of resources for Deep Geometry Learning
 
 + 2019-NIPS - Learning elementary structures for 3d shape generation and matching. [[Paper]](https://arxiv.org/abs/1908.04725)
 
-+ 2020-CVPR - Learning Unsupervised Hierarchical Part Decomposition of 3D Objects from a Single RGB Image. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Paschalidou_Learning_Unsupervised_Hierarchical_Part_Decomposition_of_3D_Objects_From_a_CVPR_2020_paper.pdf) (done)
++ 2020-CVPR - Learning Unsupervised Hierarchical Part Decomposition of 3D Objects from a Single RGB Image. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Paschalidou_Learning_Unsupervised_Hierarchical_Part_Decomposition_of_3D_Objects_From_a_CVPR_2020_paper.pdf)
 
 + 2020-CVPR - DualSDF: Semantic Shape Manipulation using a Two-Level Representation. [[Paper]](https://arxiv.org/pdf/2004.02869.pdf)[[Code]](https://github.com/zekunhao1995/DualSDF)
 
