@@ -248,7 +248,7 @@ A curated list of resources for Deep Geometry Learning
 
 + 2018-CVPR - Csgnet: Neural shape parser for constructive solid geometry. [[Paper]](https://arxiv.org/abs/1712.08290)
 
-+ 2018-CVPR Im2struct: Recovering 3d shape structure from a single RGB image. [[Paper]](https://arxiv.org/abs/1804.05469)
++ 2018-CVPR - Im2struct: Recovering 3d shape structure from a single RGB image. [[Paper]](https://arxiv.org/abs/1804.05469)
 
 + 2019-Arxiv - CvxNet: Learnable Convex Decomposition. [[Paper]](https://arxiv.org/pdf/1909.05736.pdf)
 
