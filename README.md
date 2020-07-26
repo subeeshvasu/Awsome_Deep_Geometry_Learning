@@ -41,6 +41,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2017-BMVC - Orientation-boosted voxel nets for 3d object recognition. [[Paper]](https://arxiv.org/abs/1604.03351)
 
++ 2020 - UCLID-Net: Single View Reconstruction in Object Space. [[Paper]](https://arxiv.org/pdf/2006.03817.pdf)
+
 ***Sparse Voxels***
 
 + 2016-NIPS - Fpnn: Field probing neural networks for 3d data. [[Paper]](https://arxiv.org/abs/1605.06240)
@@ -54,6 +56,7 @@ A curated list of resources for Deep Geometry Learning
 + 2017-TOG - O-cnn: Octree-based convolutional neural networks for 3d shape analysis. [[Paper]](https://arxiv.org/abs/1712.01537)
 
 + 2018-TOG - Adaptive O-CNN: A patch-based deep representation of 3D shapes. [[Paper]](https://arxiv.org/abs/1809.07917)
+
 
 **Surface-based representation**
 
@@ -163,11 +166,15 @@ A curated list of resources for Deep Geometry Learning
 
 + 2020-Arxiv - Deep Local Shapes: Learning Local SDF Priors for Detailed 3D Reconstruction. [[Paper]](https://arxiv.org/abs/2003.10983)
 
-**Structure-based representation**
++ 2020 - MeshSDF: Differentiable Iso-Surface Extraction. [[Paper]](https://arxiv.org/pdf/2006.03997.pdf)
+
+**Structure/Part-based representation**
 
 + 2011-EG - Symmetry hierarchy of man-made objects. [[Paper]](https://kevinkaixu.net/papers/wang_eg11_symh.pdf)
 
 + 2014-TOG - Structure-aware shape processing. [[Paper]](http://vecg.cs.ucl.ac.uk/Projects/SmartGeometry/structure_survey/paper_docs/StructureAwareShapeProcessing_eg13.pdf)
+
++ 2015-CGF - Analysis and synthesis of 3d shape families via deep-learned generative models of surfaces. [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.708.5905&rep=rep1&type=pdf)
 
 + 2016-NIPS - Learning a probabilistic latent space of object shapes via 3D generative adversarial modeling. [[Paper]](https://papers.nips.cc/paper/6096-learning-a-probabilistic-latent-space-of-object-shapes-via-3d-generative-adversarial-modeling)[[Code]](https://github.com/zck119/3dgan-release)
 
@@ -175,7 +182,17 @@ A curated list of resources for Deep Geometry Learning
 
 + 2017-TOG - GRASS: Generative recursive autoencoders for shape structures. [[Paper]](https://arxiv.org/abs/1705.02090)[[Code]](https://github.com/junli-lj/Grass)[[Py-Code]](https://github.com/kevin-kaixu/grass_pytorch)
 
++  2017-CGF - The shape variational autoencoder: A deep generative model of part-segmented 3d objects. [[Paper]](https://homepages.inf.ed.ac.uk/ckiw/postscript/sgp2017.pdf)
+
++ 2017-ICCV - 3D-PRNN: Generating shape primitives with recurrent neural networks. [[Paper]](https://arxiv.org/abs/1708.01648)
+
++ 2017-TOG - GRASS: generative recursive autoencoders for shape structures. [[Paper]](https://arxiv.org/abs/1705.02090)[[Code]](https://github.com/junli-lj/Grass)[[Py-Code]](https://github.com/kevin-kaixu/grass_pytorch)(skipped)
+
 + 2018-TOG - Global-to-local generative model for 3D shapes. [[Paper]](https://vcc.tech/file/upload_file//image/research/att201810171620/G2L.pdf)
+
++  2018-TOG - Global-to-local generative model for 3d shapes. [[Paper]](https://vcc.tech/file/upload_file//image/research/att201810171620/G2L.pdf)[[Tf-Code]](https://github.com/Hao-HUST/G2LGAN/tree/master/Part%20Refiner)(imp)
+
++ 2019-ICCV - Composite Shape Modeling via Latent Space Factorization. [[Paper]](https://arxiv.org/abs/1901.02968)
 
 + 2019 - Learning structural graph layouts and 3d shapes for long span bridges 3d reconstruction. [[Paper]](https://arxiv.org/abs/1907.03387)
 
@@ -183,19 +200,31 @@ A curated list of resources for Deep Geometry Learning
 
 + 2019-ICCV - BAE-NET: Branched Autoencoder for Shape Co-Segmentation. [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_BAE-NET_Branched_Autoencoder_for_Shape_Co-Segmentation_ICCV_2019_paper.pdf)[[Tf-Code]](https://github.com/czq142857/BAE-NET)
 
-+ 2019-TOG - SDM-NET: Deep generative network for structured deformable mesh. [[Paper]](https://arxiv.org/pdf/1908.04520.pdf)
++  2019-TOG - Structurenet: Hierarchical graph networks for 3d shape generation. [[Paper]](https://arxiv.org/abs/1908.00575) [[Tf-Code]](https://github.com/daerduoCarey/structurenet)
 
-+ 2019-TOG - SAGNet: Structure-aware generative network for 3d-shape modeling. [[Paper]](https://arxiv.org/abs/1808.03981)[[Tf-Code]](https://github.com/zhijieW94/SAGNet)
++ 2019-TOG - SAGNet: Structure-aware Generative Network for 3D-Shape Modeling. [[Paper]](https://arxiv.org/abs/1808.03981) [[Tf-Code]](https://github.com/zhijieW94/SAGNet)
 
-+ 2019-TOG - StructureNet: hierarchical graph networks for 3D shape generation. [[Paper]](https://arxiv.org/abs/1908.00575)[[Tf-Code]](https://github.com/daerduoCarey/structurenet)
++ 2019-TOG - SDM-NET: Deep generative network for structured deformable mesh. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3355089.3356488) [[Code]](http://geometrylearning.com/sdm-net/)
 
 + 2020-CVPR - BSP-Net: Generating compact meshes via binary space partitioning. [[Paper]](https://arxiv.org/abs/1911.06971)[[Code]](https://github.com/czq142857/BSP-NET-original)
 
 + 2020-CVPR - PQ-NET: A Generative Part Seq2Seq Network for 3D Shapes. [[Paper]](https://arxiv.org/abs/1911.10949)[[Code]](https://github.com/ChrisWu1997/PQ-NET)
 
++ 2020-CVPR - SSRNet: Scalable 3D Surface Reconstruction Network. [Paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Mi_SSRNet_Scalable_3D_Surface_Reconstruction_Network_CVPR_2020_paper.pdf)
+
++ 2020-CVPR - Neural Implicit Embedding for Point Cloud Analysis. [Paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Fujiwara_Neural_Implicit_Embedding_for_Point_Cloud_Analysis_CVPR_2020_paper.pdf)
+
++ 2020-CVPR - Local Deep Implicit Functions for 3D Shape. [Paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Genova_Local_Deep_Implicit_Functions_for_3D_Shape_CVPR_2020_paper.pdf)
+
++ 2020-CVPR - FroDO: From Detections to 3D Objects. [Paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Runz_FroDO_From_Detections_to_3D_Objects_CVPR_2020_paper.pdf)
+
 + 2020-Arxiv - FroDO: From Detections to 3D Objects. [[Paper]](https://arxiv.org/pdf/2005.05125.pdf)
 
 + 2020-Arxiv - A Simple and Scalable Shape Representation for 3D Reconstruction. [[Paper]](https://arxiv.org/pdf/2005.04623.pdf)
+
++ 2020-Arxiv - Topology-Aware Single-Image 3D Shape Reconstruction. [[Paper]](http://pages.ucsd.edu/~ztu/publication/L3DGM20_TPWCoder.pdf)
+
++ 2020-Arxiv - Info3D: Representation Learning on 3D Objects using Mutual Information Maximization and Contrastive Learning. [Paper](https://arxiv.org/pdf/2006.02598.pdf)
 
 **Deformation-based methods**
 
