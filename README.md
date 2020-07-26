@@ -184,9 +184,7 @@ A curated list of resources for Deep Geometry Learning
 
 +  2017-CGF - The shape variational autoencoder: A deep generative model of part-segmented 3d objects. [[Paper]](https://homepages.inf.ed.ac.uk/ckiw/postscript/sgp2017.pdf)
 
-+ 2017-ICCV - 3D-PRNN: Generating shape primitives with recurrent neural networks. [[Paper]](https://arxiv.org/abs/1708.01648)
-
-+ 2017-TOG - GRASS: generative recursive autoencoders for shape structures. [[Paper]](https://arxiv.org/abs/1705.02090)[[Code]](https://github.com/junli-lj/Grass)[[Py-Code]](https://github.com/kevin-kaixu/grass_pytorch)(skipped)
++ 2017-TOG - GRASS: generative recursive autoencoders for shape structures. [[Paper]](https://arxiv.org/abs/1705.02090)[[Code]](https://github.com/junli-lj/Grass)[[Py-Code]](https://github.com/kevin-kaixu/grass_pytorch)
 
 + 2018-TOG - Global-to-local generative model for 3D shapes. [[Paper]](https://vcc.tech/file/upload_file//image/research/att201810171620/G2L.pdf)
 
