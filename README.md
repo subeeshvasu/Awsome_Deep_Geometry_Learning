@@ -182,11 +182,7 @@ A curated list of resources for Deep Geometry Learning
 
 +  2017-CGF - The shape variational autoencoder: A deep generative model of part-segmented 3d objects. [[Paper]](https://homepages.inf.ed.ac.uk/ckiw/postscript/sgp2017.pdf)
 
-+ 2017-TOG - GRASS: generative recursive autoencoders for shape structures. [[Paper]](https://arxiv.org/abs/1705.02090)[[Code]](https://github.com/junli-lj/Grass)[[Py-Code]](https://github.com/kevin-kaixu/grass_pytorch)
-
-+ 2018-TOG - Global-to-local generative model for 3D shapes. [[Paper]](https://vcc.tech/file/upload_file//image/research/att201810171620/G2L.pdf)
-
-+  2018-TOG - Global-to-local generative model for 3d shapes. [[Paper]](https://vcc.tech/file/upload_file//image/research/att201810171620/G2L.pdf)[[Tf-Code]](https://github.com/Hao-HUST/G2LGAN/tree/master/Part%20Refiner)(imp)
++  2018-TOG - Global-to-local generative model for 3d shapes. [[Paper]](https://vcc.tech/file/upload_file//image/research/att201810171620/G2L.pdf)[[Tf-Code]](https://github.com/Hao-HUST/G2LGAN/tree/master/Part%20Refiner)
 
 + 2019-ICCV - Composite Shape Modeling via Latent Space Factorization. [[Paper]](https://arxiv.org/abs/1901.02968)
 
@@ -213,8 +209,6 @@ A curated list of resources for Deep Geometry Learning
 + 2020-CVPR - Local Deep Implicit Functions for 3D Shape. [Paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Genova_Local_Deep_Implicit_Functions_for_3D_Shape_CVPR_2020_paper.pdf)
 
 + 2020-CVPR - FroDO: From Detections to 3D Objects. [Paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Runz_FroDO_From_Detections_to_3D_Objects_CVPR_2020_paper.pdf)
-
-+ 2020-Arxiv - FroDO: From Detections to 3D Objects. [[Paper]](https://arxiv.org/pdf/2005.05125.pdf)
 
 + 2020-Arxiv - A Simple and Scalable Shape Representation for 3D Reconstruction. [[Paper]](https://arxiv.org/pdf/2005.04623.pdf)
 
