@@ -57,6 +57,7 @@ A curated list of resources for Deep Geometry Learning
 
 + 2018-TOG - Adaptive O-CNN: A patch-based deep representation of 3D shapes. [[Paper]](https://arxiv.org/abs/1809.07917)
 
++ 2020-Arxiv - Neural Sparse Voxel Fields. [[Paper]](https://arxiv.org/pdf/2007.11571.pdf)
 
 **Surface-based representation**
 
@@ -167,6 +168,8 @@ A curated list of resources for Deep Geometry Learning
 + 2020-Arxiv - Deep Local Shapes: Learning Local SDF Priors for Detailed 3D Reconstruction. [[Paper]](https://arxiv.org/abs/2003.10983)
 
 + 2020 - MeshSDF: Differentiable Iso-Surface Extraction. [[Paper]](https://arxiv.org/pdf/2006.03997.pdf)
+
++ 2020 - Combining Implicit Function Learning and Parametric Models for 3D Human Reconstruction. [[Paper]](https://arxiv.org/pdf/2007.11432.pdf)
 
 **Structure/Part-based representation**
 
