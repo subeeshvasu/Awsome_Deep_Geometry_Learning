@@ -245,8 +245,6 @@ A curated list of resources for Deep Geometry Learning
 
 + 2018-CVPR - Im2struct: Recovering 3d shape structure from a single RGB image. [[Paper]](https://arxiv.org/abs/1804.05469)
 
-+ 2019-Arxiv - CvxNet: Learnable Convex Decomposition. [[Paper]](https://arxiv.org/pdf/1909.05736.pdf)
-
 + 2019-CVPR - Supervised fitting of geometric primitives to 3d point clouds. [[Paper]](https://arxiv.org/abs/1811.08988)
 
 + 2019-CVPR - Superquadrics Revisited: Learning 3D Shape Parsing Beyond Cuboids. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Paschalidou_Superquadrics_Revisited_Learning_3D_Shape_Parsing_Beyond_Cuboids_CVPR_2019_paper.html)
@@ -258,6 +256,8 @@ A curated list of resources for Deep Geometry Learning
 + 2020-CVPR - Learning Unsupervised Hierarchical Part Decomposition of 3D Objects from a Single RGB Image. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Paschalidou_Learning_Unsupervised_Hierarchical_Part_Decomposition_of_3D_Objects_From_a_CVPR_2020_paper.pdf)
 
 + 2020-CVPR - DualSDF: Semantic Shape Manipulation using a Two-Level Representation. [[Paper]](https://arxiv.org/pdf/2004.02869.pdf)[[Code]](https://github.com/zekunhao1995/DualSDF)
+
++ 2020-CVPR - CvxNet: Learnable Convex Decomposition. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Deng_CvxNet_Learnable_Convex_Decomposition_CVPR_2020_paper.html)[[Code]](https://github.com/tensorflow/graphics/tree/master/tensorflow_graphics/projects/cvxnet)
 
 **Survey Papers**
 
