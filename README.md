@@ -237,21 +237,21 @@ A curated list of resources for Deep Geometry Learning
 
 + 1986-TOG -  Constructive solid geometry for polyhedral objects. [[Paper]](http://cs.brown.edu/people/jhughes/papers/Laidlaw-CSG-1986/paper.pdf)
 
-+ 2017-CVPR -  Learning shape abstractions by assembling volumetric primitives. [[Paper]](https://arxiv.org/abs/1612.00404)
++ 2017-CVPR -  Learning shape abstractions by assembling volumetric primitives. [[Paper]](https://arxiv.org/abs/1612.00404)[[Code]](https://github.com/shubhtuls/volumetricPrimitives)
 
-+ 2017-ICCV -  3dprnn: Generating shape primitives with recurrent neural networks. [[Paper]](https://arxiv.org/abs/1708.01648)
++ 2017-ICCV -  3dprnn: Generating shape primitives with recurrent neural networks. [[Paper]](https://arxiv.org/abs/1708.01648)[[Code]](https://github.com/zouchuhang/3D-PRNN)
 
-+ 2018-CVPR - Csgnet: Neural shape parser for constructive solid geometry. [[Paper]](https://arxiv.org/abs/1712.08290)
++ 2018-CVPR - Csgnet: Neural shape parser for constructive solid geometry. [[Paper]](https://arxiv.org/abs/1712.08290)[[Code]](https://github.com/Hippogriff/3DCSGNet)
 
 + 2018-CVPR - Im2struct: Recovering 3d shape structure from a single RGB image. [[Paper]](https://arxiv.org/abs/1804.05469)[[Code]](Im2Struct: Recovering 3D Shape Structure From a Single RGB Image)
 
-+ 2019-CVPR - Supervised fitting of geometric primitives to 3d point clouds. [[Paper]](https://arxiv.org/abs/1811.08988)
++ 2019-CVPR - Supervised fitting of geometric primitives to 3d point clouds. [[Paper]](https://arxiv.org/abs/1811.08988)[[Code]](https://github.com/lingxiaoli94/SPFN)
 
-+ 2019-CVPR - Superquadrics Revisited: Learning 3D Shape Parsing Beyond Cuboids. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Paschalidou_Superquadrics_Revisited_Learning_3D_Shape_Parsing_Beyond_Cuboids_CVPR_2019_paper.html)
++ 2019-CVPR - Superquadrics Revisited: Learning 3D Shape Parsing Beyond Cuboids. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Paschalidou_Superquadrics_Revisited_Learning_3D_Shape_Parsing_Beyond_Cuboids_CVPR_2019_paper.html)[[Code]](https://github.com/paschalidoud/superquadric_parsing)
 
-+ 2019-ICCV - Learning Shape Templates with Structured Implicit Functions. [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Genova_Learning_Shape_Templates_With_Structured_Implicit_Functions_ICCV_2019_paper.pdf)
++ 2019-ICCV - Learning Shape Templates with Structured Implicit Functions. [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Genova_Learning_Shape_Templates_With_Structured_Implicit_Functions_ICCV_2019_paper.pdf)[[Code]](https://github.com/google/ldif)
 
-+ 2019-NIPS - Learning elementary structures for 3d shape generation and matching. [[Paper]](https://arxiv.org/abs/1908.04725)
++ 2019-NIPS - Learning elementary structures for 3d shape generation and matching. [[Paper]](https://arxiv.org/abs/1908.04725)[[Code]](https://github.com/TheoDEPRELLE/AtlasNetV2)
 
 + 2020-CVPR - Learning Unsupervised Hierarchical Part Decomposition of 3D Objects from a Single RGB Image. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Paschalidou_Learning_Unsupervised_Hierarchical_Part_Decomposition_of_3D_Objects_From_a_CVPR_2020_paper.pdf)
 
