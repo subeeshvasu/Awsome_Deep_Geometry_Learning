@@ -243,7 +243,7 @@ A curated list of resources for Deep Geometry Learning
 
 + 2018-CVPR - Csgnet: Neural shape parser for constructive solid geometry. [[Paper]](https://arxiv.org/abs/1712.08290)[[Code]](https://github.com/Hippogriff/3DCSGNet)
 
-+ 2018-CVPR - Im2struct: Recovering 3d shape structure from a single RGB image. [[Paper]](https://arxiv.org/abs/1804.05469)[[Code]](Im2Struct: Recovering 3D Shape Structure From a Single RGB Image)
++ 2018-CVPR - Im2struct: Recovering 3d shape structure from a single RGB image. [[Paper]](https://arxiv.org/abs/1804.05469)[[Code]](https://github.com/chengjieniu/Im2Struct)
 
 + 2019-CVPR - Supervised fitting of geometric primitives to 3d point clouds. [[Paper]](https://arxiv.org/abs/1811.08988)[[Code]](https://github.com/lingxiaoli94/SPFN)
 
@@ -253,7 +253,7 @@ A curated list of resources for Deep Geometry Learning
 
 + 2019-NIPS - Learning elementary structures for 3d shape generation and matching. [[Paper]](https://arxiv.org/abs/1908.04725)[[Code]](https://github.com/TheoDEPRELLE/AtlasNetV2)
 
-+ 2020-CVPR - Learning Unsupervised Hierarchical Part Decomposition of 3D Objects from a Single RGB Image. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Paschalidou_Learning_Unsupervised_Hierarchical_Part_Decomposition_of_3D_Objects_From_a_CVPR_2020_paper.pdf)
++ 2020-CVPR - Learning Unsupervised Hierarchical Part Decomposition of 3D Objects from a Single RGB Image. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Paschalidou_Learning_Unsupervised_Hierarchical_Part_Decomposition_of_3D_Objects_From_a_CVPR_2020_paper.pdf)[[Code]](https://github.com/paschalidoud/hierarchical_primitives)
 
 + 2020-CVPR - DualSDF: Semantic Shape Manipulation using a Two-Level Representation. [[Paper]](https://arxiv.org/pdf/2004.02869.pdf)[[Code]](https://github.com/zekunhao1995/DualSDF)
 
