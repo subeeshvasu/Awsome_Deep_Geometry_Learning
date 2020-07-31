@@ -97,11 +97,17 @@ A curated list of resources for Deep Geometry Learning
 
 + 2019-ICCV - DiscoNet: Shapes learning on disconnected manifolds for 3D editing. [[Paper]](http://cedric.cnam.fr/~thomen/papers/Mehr_ICCV19.pdf)
 
++ 2019-ICCV - Interpolated Convolutional Networks for 3D Point Cloud Understanding. [[Paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Mao_Interpolated_Convolutional_Networks_for_3D_Point_Cloud_Understanding_ICCV_2019_paper.pdf)
+
 + 2019-TOG - LOGAN: Unpaired Shape Transform in Latent Overcomplete Space. [[Paper]](https://arxiv.org/abs/1903.10170)[[Code]](https://github.com/kangxue/LOGAN)
 
 + 2020-ICLR - Unpaired Point Cloud Completion on Real Scans using Adversarial Training. [[Paper]](https://arxiv.org/pdf/1904.00069.pdf)[[Code]](https://github.com/xuelin-chen/pcl2pcl-gan-pub)
 
 + 2020-CVPR - AdaCoSeg: Adaptive Shape Co-Segmentation with Group Consistency Loss. [[Paper]](https://arxiv.org/pdf/1903.10297.pdf)
+
++ 2020-CVPR - PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Shi_PV-RCNN_Point-Voxel_Feature_Set_Abstraction_for_3D_Object_Detection_CVPR_2020_paper.pdf)[[Code]](https://github.com/open-mmlab/OpenPCDet)
+
++ 2020-ICRA - Dilated Point Convolutions: On the Receptive Field Size of Point Convolutions on 3D Point Clouds. [[Paper]](https://arxiv.org/pdf/1907.12046.pdf)
 
 + 2020-Arxiv - Multimodal Shape Completion via Conditional Generative Adversarial Networks. [[Paper]](https://arxiv.org/pdf/2003.07717.pdf)
 
@@ -280,8 +286,6 @@ A curated list of resources for Deep Geometry Learning
 + 2017-CVPR - Mesh labels on ShapeNet Data - 3D Shape Segmentation with Projective Convolutional Networks. [[Paper]](https://people.cs.umass.edu/~kalo/papers/shapepfcn/ShapePFCN.pdf)[[Dataset]](https://people.cs.umass.edu/~kalo/papers/shapepfcn/index.html)[[Code]](https://github.com/kalov/ShapePFCN)
 
 + 2019-CVPR - PartNet: A Large-scale Benchmark for Fine-grained and Hierarchical Part-level 3D Object Understanding. [[Paper]](https://arxiv.org/abs/1812.02713)[[Dataset]](https://github.com/daerduoCarey/partnet_dataset)
-
-
 
 
 **Other Resources**
