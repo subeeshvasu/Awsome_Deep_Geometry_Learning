@@ -75,9 +75,15 @@ A curated list of resources for Deep Geometry Learning
 
 + 2018-CVPR - Point cloud upsampling network. [[Paper]](https://arxiv.org/abs/1801.06761)
 
++ 2018-CVPR - Sparse lattice networks for point cloud processing. [[Paper]](https://arxiv.org/abs/1802.08275)
+
++ 2018-CVPR - Tangent convolutions for dense prediction in 3d. [[Paper]](https://arxiv.org/abs/1807.02443) [[Tf-Code]](https://github.com/tatarchm/tangent_conv)
+
 + 2018-ICML - Learning Representations and Generative Models For 3D Point Clouds. [[Paper]](https://arxiv.org/abs/1707.02392) [[Tf-Code]](https://github.com/optas/latent_3d_points)
 
 + 2018 - Point Cloud GAN. [[Paper]](https://arxiv.org/abs/1810.05795) [[Py-Tf-Hybrid-Code]](https://github.com/chunliangli/Point-Cloud-GAN)
+
++ 2018-TOG - Point convolutional neural networks by extension operators. [[Paper]](https://arxiv.org/abs/1803.10091)
 
 + 2019-WACV - High Fidelity Semantic Shape Completion for Point Clouds using Latent Optimization. [[Paper]](https://arxiv.org/pdf/1807.03407.pdf)
 
@@ -99,7 +105,11 @@ A curated list of resources for Deep Geometry Learning
 
 + 2019-ICCV - Interpolated Convolutional Networks for 3D Point Cloud Understanding. [[Paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Mao_Interpolated_Convolutional_Networks_for_3D_Point_Cloud_Understanding_ICCV_2019_paper.pdf)
 
++ 2019-NIPS - Point-Voxel CNN for Efficient 3D Deep Learning. [[Paper]](https://arxiv.org/abs/1907.03739)
+
 + 2019-TOG - LOGAN: Unpaired Shape Transform in Latent Overcomplete Space. [[Paper]](https://arxiv.org/abs/1903.10170)[[Code]](https://github.com/kangxue/LOGAN)
+
++ 2019 - ConvPoint: Continuous Convolutions for Point Cloud Processing. [[Paper]](https://arxiv.org/abs/1904.02375) [[Py-Code]](https://github.com/aboulch/ConvPoint)
 
 + 2020-ICLR - Unpaired Point Cloud Completion on Real Scans using Adversarial Training. [[Paper]](https://arxiv.org/pdf/1904.00069.pdf)[[Code]](https://github.com/xuelin-chen/pcl2pcl-gan-pub)
 
@@ -113,15 +123,11 @@ A curated list of resources for Deep Geometry Learning
 
 + 2020-Arxiv - Point Cloud Completion by Skip-attention Network with Hierarchical Folding. [[Paper]](https://arxiv.org/abs/2005.03871)
 
-+ 2019-NIPS - Point-Voxel CNN for Efficient 3D Deep Learning. [[Paper]](https://arxiv.org/abs/1907.03739)
++ 2020-Arxiv - Point Cloud Completion by Learning Shape Priors. [[Paper]](https://arxiv.org/pdf/2008.00394.pdf)
 
-+ 2018-TOG - Point convolutional neural networks by extension operators. [[Paper]](https://arxiv.org/abs/1803.10091)
++ 2020-Arxiv - KAPLAN: A 3D Point Descriptor for Shape Completion. [[Paper]](https://arxiv.org/pdf/2008.00096.pdf)
 
-+ 2018-CVPR - Sparse lattice networks for point cloud processing. [[Paper]](https://arxiv.org/abs/1802.08275)
-
-+ 2018-CVPR - Tangent convolutions for dense prediction in 3d. [[Paper]](https://arxiv.org/abs/1807.02443) [[Tf-Code]](https://github.com/tatarchm/tangent_conv)
-
-+ 2019 - ConvPoint: Continuous Convolutions for Point Cloud Processing. [[Paper]](https://arxiv.org/abs/1904.02375) [[Py-Code]](https://github.com/aboulch/ConvPoint)
++ 2020-Arxiv - Self-Supervised Learning of Point Clouds via Orientation Estimation. [[Paper]](https://arxiv.org/pdf/2008.00305.pdf)
 
 ***Mesh-based***
 
