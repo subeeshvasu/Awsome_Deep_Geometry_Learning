@@ -123,6 +123,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2020-Arxiv - Point Cloud Completion by Skip-attention Network with Hierarchical Folding. [[Paper]](https://arxiv.org/abs/2005.03871)
 
++ 2020-Arxiv - Detail Preserved Point Cloud Completion via Separated Feature Aggregation. [[Paper]](https://arxiv.org/pdf/2007.02374.pdf)
+
 + 2020-Arxiv - Point Cloud Completion by Learning Shape Priors. [[Paper]](https://arxiv.org/pdf/2008.00394.pdf)
 
 + 2020-Arxiv - KAPLAN: A 3D Point Descriptor for Shape Completion. [[Paper]](https://arxiv.org/pdf/2008.00096.pdf)
