@@ -131,6 +131,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2020-Arxiv - Self-Supervised Learning of Point Clouds via Orientation Estimation. [[Paper]](https://arxiv.org/pdf/2008.00305.pdf)
 
++ 2020-Arxiv - CaSPR: Learning Canonical Spatiotemporal Point Cloud Representations. [Paper](https://arxiv.org/pdf/2008.02792.pdf)
+
 ***Mesh-based***
 
 + 2016-ECCV - Deep learning 3D shape surfaces using geometry images. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-319-46466-4_14)
@@ -234,6 +236,8 @@ A curated list of resources for Deep Geometry Learning
 + 2020-Arxiv - Topology-Aware Single-Image 3D Shape Reconstruction. [[Paper]](http://pages.ucsd.edu/~ztu/publication/L3DGM20_TPWCoder.pdf)
 
 + 2020-Arxiv - Info3D: Representation Learning on 3D Objects using Mutual Information Maximization and Contrastive Learning. [Paper](https://arxiv.org/pdf/2006.02598.pdf)
+
++ 2020-Arxiv - COALESCE: Component Assembly by Learning to Synthesize Connections. [Paper](https://arxiv.org/pdf/2008.01936.pdf)
 
 **Deformation-based methods**
 
