@@ -133,6 +133,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2020-Arxiv - CaSPR: Learning Canonical Spatiotemporal Point Cloud Representations. [Paper](https://arxiv.org/pdf/2008.02792.pdf)
 
++ 2020-Arxiv - LPMNet: Latent Part Modification and Generation for 3D Point Clouds. [[Paper]](https://arxiv.org/pdf/2008.03560.pdf)
+
 ***Mesh-based***
 
 + 2016-ECCV - Deep learning 3D shape surfaces using geometry images. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-319-46466-4_14)
