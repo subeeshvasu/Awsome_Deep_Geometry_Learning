@@ -135,6 +135,10 @@ A curated list of resources for Deep Geometry Learning
 
 + 2020-Arxiv - LPMNet: Latent Part Modification and Generation for 3D Point Clouds. [[Paper]](https://arxiv.org/pdf/2008.03560.pdf)
 
++ 2020-ECCV - SoftPoolNet: Shape Descriptor for Point Cloud Completion and Classification. [[Paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480069.pdf)
+
++ 2020-ECCV - Discrete Point Flow Networks for Efficient Point Cloud Generation. [[Paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680681.pdf)
+
 ***Mesh-based***
 
 + 2016-ECCV - Deep learning 3D shape surfaces using geometry images. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-319-46466-4_14)
@@ -160,6 +164,10 @@ A curated list of resources for Deep Geometry Learning
 + 2019-TOG - MeshCNN: a network with an edge. [[Paper]](https://arxiv.org/abs/1809.05910)
 
 + 2019-ICCV - Pixel2Mesh++: Multi-view 3D mesh generation via deformation. [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wen_Pixel2Mesh_Multi-View_3D_Mesh_Generation_via_Deformation_ICCV_2019_paper.pdf)
+
++ 2020-ECCV - DR-KFS: A Differentiable Visual Similarity Metric for 3D Shape Reconstruction. [[Paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660290.pdf)
+
++ 2020-ECCV - Weakly-supervised 3D Shape Completion in the Wild. [[Paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500273.pdf)
 
 **Implicit representation**
 
@@ -190,6 +198,8 @@ A curated list of resources for Deep Geometry Learning
 + 2020 - Combining Implicit Function Learning and Parametric Models for 3D Human Reconstruction. [[Paper]](https://arxiv.org/pdf/2007.11432.pdf)
 
 + 2020 - PatchNets: Patch-Based Generalizable Deep Implicit 3D Shape Representations. [[Paper]](http://gvv.mpi-inf.mpg.de/projects/PatchNets/data/paper.pdf)
+
++ 2020-Arxiv - SkeletonNet: A Topology-Preserving Solution for Learning Mesh Reconstruction of Object Surfaces from RGB Images. [[Paper]](https://arxiv.org/pdf/2008.05742.pdf)
 
 **Structure/Part-based representation**
 
@@ -240,6 +250,10 @@ A curated list of resources for Deep Geometry Learning
 + 2020-Arxiv - Info3D: Representation Learning on 3D Objects using Mutual Information Maximization and Contrastive Learning. [Paper](https://arxiv.org/pdf/2006.02598.pdf)
 
 + 2020-Arxiv - COALESCE: Component Assembly by Learning to Synthesize Connections. [Paper](https://arxiv.org/pdf/2008.01936.pdf)
+
++ 2020-Arxiv - DSM-Net: Disentangled Structured Mesh Net for Controllable Generation of Fine Geometry. [[Paper]](https://arxiv.org/pdf/2008.05440.pdf)
+
++ 2020-ECCV - GSIR: Generalizable 3D Shape Interpretation and Reconstruction. [[Paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580494.pdf)
 
 **Deformation-based methods**
 
