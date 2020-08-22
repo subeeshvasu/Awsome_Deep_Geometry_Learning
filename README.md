@@ -145,6 +145,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2020-ECCV - Intrinsic Point Cloud Interpolation via Dual Latent Space Navigation. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470647.pdf)[[Code]](https://github.com/mrakotosaon/intrinsic_interpolations)
 
++ 2020-ECCV - Quaternion Equivariant Capsule Networks for 3D Point Clouds. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460001.pdf)
+
 ***Mesh-based***
 
 + 2016-ECCV - Deep learning 3D shape surfaces using geometry images. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-319-46466-4_14)
