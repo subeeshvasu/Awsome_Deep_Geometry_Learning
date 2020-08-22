@@ -139,6 +139,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2020-ECCV - Discrete Point Flow Networks for Efficient Point Cloud Generation. [[Paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680681.pdf)
 
++ 2020-ECCV - Learning Gradient Fields for Shape Generation. [[Paper]](https://arxiv.org/pdf/2008.06520.pdf)[[Code]](https://github.com/RuojinCai/ShapeGF)
+
 ***Mesh-based***
 
 + 2016-ECCV - Deep learning 3D shape surfaces using geometry images. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-319-46466-4_14)
