@@ -43,6 +43,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2020 - UCLID-Net: Single View Reconstruction in Object Space. [[Paper]](https://arxiv.org/pdf/2006.03817.pdf)
 
++ 2020-ECCV - CoReNet: Coherent 3D Scene Reconstruction from a Single RGB Image. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470358.pdf)
+
 ***Sparse Voxels***
 
 + 2016-NIPS - Fpnn: Field probing neural networks for 3d data. [[Paper]](https://arxiv.org/abs/1605.06240)
