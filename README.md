@@ -203,9 +203,13 @@ A curated list of resources for Deep Geometry Learning
 
 + 2020-ECCV - Combining Implicit Function Learning and Parametric Models for 3D Human Reconstruction. [[Paper]](https://arxiv.org/pdf/2007.11432.pdf)[[Code]](https://github.com/bharat-b7/IPNet)
 
++ 2020-ECCV - Ladybird: Quasi-Monte Carlo Sampling for Deep Implicit Field Based 3D Reconstruction with Symmetry. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460239.pdf)
+
 + 2020 - PatchNets: Patch-Based Generalizable Deep Implicit 3D Shape Representations. [[Paper]](http://gvv.mpi-inf.mpg.de/projects/PatchNets/data/paper.pdf)
 
 + 2020-Arxiv - SkeletonNet: A Topology-Preserving Solution for Learning Mesh Reconstruction of Object Surfaces from RGB Images. [[Paper]](https://arxiv.org/pdf/2008.05742.pdf)
+
+
 
 **Structure/Part-based representation**
 
@@ -260,8 +264,6 @@ A curated list of resources for Deep Geometry Learning
 + 2020-Arxiv - DSM-Net: Disentangled Structured Mesh Net for Controllable Generation of Fine Geometry. [[Paper]](https://arxiv.org/pdf/2008.05440.pdf)
 
 + 2020-ECCV - GSIR: Generalizable 3D Shape Interpretation and Reconstruction. [[Paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580494.pdf)
-
-+ 2020-ECCV - Ladybird: Quasi-Monte Carlo Sampling for Deep Implicit Field Based 3D Reconstruction with Symmetry. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460239.pdf)
 
 **Deformation-based methods**
 
