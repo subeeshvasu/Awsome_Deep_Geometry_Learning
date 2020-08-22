@@ -261,6 +261,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2020-ECCV - GSIR: Generalizable 3D Shape Interpretation and Reconstruction. [[Paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580494.pdf)
 
++ 2020-ECCV - Ladybird: Quasi-Monte Carlo Sampling for Deep Implicit Field Based 3D Reconstruction with Symmetry. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460239.pdf)
+
 **Deformation-based methods**
 
 + 2016-TOG - Efficient and flexible deformation representation for data-driven surface modeling. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2908736)
