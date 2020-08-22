@@ -199,7 +199,7 @@ A curated list of resources for Deep Geometry Learning
 
 + 2020 - MeshSDF: Differentiable Iso-Surface Extraction. [[Paper]](https://arxiv.org/pdf/2006.03997.pdf)
 
-+ 2020 - Combining Implicit Function Learning and Parametric Models for 3D Human Reconstruction. [[Paper]](https://arxiv.org/pdf/2007.11432.pdf)
++ 2020-ECCV - Combining Implicit Function Learning and Parametric Models for 3D Human Reconstruction. [[Paper]](https://arxiv.org/pdf/2007.11432.pdf)[[Code]](https://github.com/bharat-b7/IPNet)
 
 + 2020 - PatchNets: Patch-Based Generalizable Deep Implicit 3D Shape Representations. [[Paper]](http://gvv.mpi-inf.mpg.de/projects/PatchNets/data/paper.pdf)
 
