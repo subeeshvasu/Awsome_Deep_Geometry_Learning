@@ -121,6 +121,18 @@ A curated list of resources for Deep Geometry Learning
 
 + 2020-ICRA - Dilated Point Convolutions: On the Receptive Field Size of Point Convolutions on 3D Point Clouds. [[Paper]](https://arxiv.org/pdf/1907.12046.pdf)
 
++ 2020-ECCV - SoftPoolNet: Shape Descriptor for Point Cloud Completion and Classification. [[Paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480069.pdf)
+
++ 2020-ECCV - Discrete Point Flow Networks for Efficient Point Cloud Generation. [[Paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680681.pdf)
+
++ 2020-ECCV - Learning Gradient Fields for Shape Generation. [[Paper]](https://arxiv.org/pdf/2008.06520.pdf)[[Code]](https://github.com/RuojinCai/ShapeGF)
+
++ 2020-ECCV - Intrinsic Point Cloud Interpolation via Dual Latent Space Navigation. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470647.pdf)[[Code]](https://github.com/mrakotosaon/intrinsic_interpolations)
+
++ 2020-ECCV - Quaternion Equivariant Capsule Networks for 3D Point Clouds. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460001.pdf)
+
++ 2020-ECCV - SoftPoolNet: Shape Descriptor for Point Cloud Completion and Classification. [[Papeer]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480069.pdf)
+
 + 2020-Arxiv - Multimodal Shape Completion via Conditional Generative Adversarial Networks. [[Paper]](https://arxiv.org/pdf/2003.07717.pdf)
 
 + 2020-Arxiv - Point Cloud Completion by Skip-attention Network with Hierarchical Folding. [[Paper]](https://arxiv.org/abs/2005.03871)
@@ -137,17 +149,7 @@ A curated list of resources for Deep Geometry Learning
 
 + 2020-Arxiv - LPMNet: Latent Part Modification and Generation for 3D Point Clouds. [[Paper]](https://arxiv.org/pdf/2008.03560.pdf)
 
-+ 2020-ECCV - SoftPoolNet: Shape Descriptor for Point Cloud Completion and Classification. [[Paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480069.pdf)
-
-+ 2020-ECCV - Discrete Point Flow Networks for Efficient Point Cloud Generation. [[Paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680681.pdf)
-
-+ 2020-ECCV - Learning Gradient Fields for Shape Generation. [[Paper]](https://arxiv.org/pdf/2008.06520.pdf)[[Code]](https://github.com/RuojinCai/ShapeGF)
-
-+ 2020-ECCV - Intrinsic Point Cloud Interpolation via Dual Latent Space Navigation. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470647.pdf)[[Code]](https://github.com/mrakotosaon/intrinsic_interpolations)
-
-+ 2020-ECCV - Quaternion Equivariant Capsule Networks for 3D Point Clouds. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460001.pdf)
-
-+ 2020-ECCV - SoftPoolNet: Shape Descriptor for Point Cloud Completion and Classification. [[Papeer]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480069.pdf)
++ 2020-Arxiv - Weakly-supervised 3D Shape Completion in the Wild. [[Papr]](https://arxiv.org/pdf/2008.09110.pdf)
 
 ***Mesh-based***
 
