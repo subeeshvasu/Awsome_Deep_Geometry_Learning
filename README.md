@@ -135,7 +135,7 @@ A curated list of resources for Deep Geometry Learning
 
 + 2020-ECCV - DeepFit: 3D Surface Fitting via Neural Network Weighted Least Squares. [[Paper]](https://arxiv.org/pdf/2003.10826.pdf)
 
-+ 2020-Arxiv - Multimodal Shape Completion via Conditional Generative Adversarial Networks. [[Paper]](https://arxiv.org/pdf/2003.07717.pdf)
++ 2020-ECCV - Multimodal Shape Completion via Conditional Generative Adversarial Networks. [[Paper]](https://arxiv.org/pdf/2003.07717.pdf)
 
 + 2020-Arxiv - Point Cloud Completion by Skip-attention Network with Hierarchical Folding. [[Paper]](https://arxiv.org/abs/2005.03871)
 
