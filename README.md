@@ -131,7 +131,9 @@ A curated list of resources for Deep Geometry Learning
 
 + 2020-ECCV - Quaternion Equivariant Capsule Networks for 3D Point Clouds. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460001.pdf)
 
-+ 2020-ECCV - SoftPoolNet: Shape Descriptor for Point Cloud Completion and Classification. [[Papeer]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480069.pdf)
++ 2020-ECCV - SoftPoolNet: Shape Descriptor for Point Cloud Completion and Classification. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480069.pdf)
+
++ 2020-ECCV - DeepFit: 3D Surface Fitting via Neural Network Weighted Least Squares. [[Paper]](https://arxiv.org/pdf/2003.10826.pdf)
 
 + 2020-Arxiv - Multimodal Shape Completion via Conditional Generative Adversarial Networks. [[Paper]](https://arxiv.org/pdf/2003.07717.pdf)
 
