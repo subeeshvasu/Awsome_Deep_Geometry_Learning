@@ -321,6 +321,10 @@ A curated list of resources for Deep Geometry Learning
 
 + 2020-Arxiv - A Survey on Deep Geometry Learning: From a Representation Perspective. [[Paper]](https://arxiv.org/abs/2002.07995)
 
++ 2020-Arxiv - Image-based 3D Object Reconstruction: State-of-the-Art and Trends in the Deep Learning Era. [[Paper]](https://arxiv.org/pdf/1906.06543.pdf)
+
++ 2020-MTA - Single image 3D object reconstruction based on deep learning: A review. [[Paper]](https://link.springer.com/article/10.1007/s11042-020-09722-8)
+
 **Datasets**
 
 ***Part Labels***
