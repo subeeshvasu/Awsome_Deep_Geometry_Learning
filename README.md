@@ -153,6 +153,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2020-Arxiv - Weakly-supervised 3D Shape Completion in the Wild. [[Papr]](https://arxiv.org/pdf/2008.09110.pdf)
 
++ 2020-Arxiv - CAD-PU: A Curvature-Adaptive Deep Learning Solution for Point Set Upsampling. [[Papeer]](https://arxiv.org/pdf/2009.04660.pdf)
+
 ***Mesh-based***
 
 + 2016-ECCV - Deep learning 3D shape surfaces using geometry images. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-319-46466-4_14)
