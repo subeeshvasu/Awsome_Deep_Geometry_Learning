@@ -219,7 +219,9 @@ A curated list of resources for Deep Geometry Learning
 
 + 2020-Arxiv - SkeletonNet: A Topology-Preserving Solution for Learning Mesh Reconstruction of Object Surfaces from RGB Images. [[Paper]](https://arxiv.org/pdf/2008.05742.pdf)
 
++ 2020-Arxiv - Implicit Feature Networks for Texture Completion from Partial 3D Data. [[Paper]](https://arxiv.org/pdf/2009.09458.pdf)
 
++ 2020-Arxiv - Overfit Neural Networks as a Compact Shape Representation. [[Paper]](https://arxiv.org/pdf/2009.09808.pdf)
 
 **Structure/Part-based representation**
 
