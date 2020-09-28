@@ -219,6 +219,10 @@ A curated list of resources for Deep Geometry Learning
 
 + 2020-ECCV - Ladybird: Quasi-Monte Carlo Sampling for Deep Implicit Field Based 3D Reconstruction with Symmetry. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460239.pdf)
 
++ 2020-ECCV - Pix2Surf: Learning Parametric 3D Surface Models of Objects from Images. [[Paper]](https://arxiv.org/abs/2008.07760)
+
++ 2020-ECCV - Points2Surf: Learning Implicit Surfaces from Point Cloud Patches. [[Paper]](https://arxiv.org/abs/2007.10453)
+
 + 2020 - PatchNets: Patch-Based Generalizable Deep Implicit 3D Shape Representations. [[Paper]](http://gvv.mpi-inf.mpg.de/projects/PatchNets/data/paper.pdf)
 
 + 2020-Arxiv - SkeletonNet: A Topology-Preserving Solution for Learning Mesh Reconstruction of Object Surfaces from RGB Images. [[Paper]](https://arxiv.org/pdf/2008.05742.pdf)
@@ -270,6 +274,8 @@ A curated list of resources for Deep Geometry Learning
 + 2020-CVPR - FroDO: From Detections to 3D Objects. [Paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Runz_FroDO_From_Detections_to_3D_Objects_CVPR_2020_paper.pdf)
 
 + 2020-CVPR - StructEdit: Learning Structural Shape Variations. [[Paper]](https://arxiv.org/abs/1911.11098)[[Code]](https://github.com/daerduoCarey/structedit)
+
++ 2020-SigAsia - ShapeAssembly: Learning to Generate Programs for 3D Shape Structure Synthesis. [[Paper]](https://arxiv.org/abs/2009.08026)
 
 + 2020-Arxiv - A Simple and Scalable Shape Representation for 3D Reconstruction. [[Paper]](https://arxiv.org/pdf/2005.04623.pdf)
 
