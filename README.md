@@ -269,6 +269,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2020-CVPR - FroDO: From Detections to 3D Objects. [Paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Runz_FroDO_From_Detections_to_3D_Objects_CVPR_2020_paper.pdf)
 
++ 2020-CVPR - StructEdit: Learning Structural Shape Variations. [[Paper]](https://arxiv.org/abs/1911.11098)[[Code]](https://github.com/daerduoCarey/structedit)
+
 + 2020-Arxiv - A Simple and Scalable Shape Representation for 3D Reconstruction. [[Paper]](https://arxiv.org/pdf/2005.04623.pdf)
 
 + 2020-Arxiv - Topology-Aware Single-Image 3D Shape Reconstruction. [[Paper]](http://pages.ucsd.edu/~ztu/publication/L3DGM20_TPWCoder.pdf)
