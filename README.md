@@ -275,7 +275,7 @@ A curated list of resources for Deep Geometry Learning
 
 + 2020-CVPR - StructEdit: Learning Structural Shape Variations. [[Paper]](https://arxiv.org/abs/1911.11098)[[Code]](https://github.com/daerduoCarey/structedit)
 
-+ 2020-SigAsia - ShapeAssembly: Learning to Generate Programs for 3D Shape Structure Synthesis. [[Paper]](https://arxiv.org/abs/2009.08026)
++ 2020-SigAsia - ShapeAssembly: Learning to Generate Programs for 3D Shape Structure Synthesis. [[Paper]](https://arxiv.org/abs/2009.08026)[[Code]](https://github.com/rkjones4/shapeAssembly)
 
 + 2020-Arxiv - A Simple and Scalable Shape Representation for 3D Reconstruction. [[Paper]](https://arxiv.org/pdf/2005.04623.pdf)
 
