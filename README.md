@@ -87,7 +87,7 @@ A curated list of resources for Deep Geometry Learning
 
 + 2018-TOG - Point convolutional neural networks by extension operators. [[Paper]](https://arxiv.org/abs/1803.10091)
 
-+ 2018-EuroGraph - PCPNet: Learning Local Shape Properties from Raw Point Clouds. [[Paper]](https://arxiv.org/abs/1710.04954)
++ 2018-EuroGraph - PCPNet: Learning Local Shape Properties from Raw Point Clouds. [[Paper]](https://arxiv.org/abs/1710.04954)[[Code]](https://github.com/paulguerrero/pcpnet)
 
 + 2019-WACV - High Fidelity Semantic Shape Completion for Point Clouds using Latent Optimization. [[Paper]](https://arxiv.org/pdf/1807.03407.pdf)
 
@@ -306,6 +306,8 @@ A curated list of resources for Deep Geometry Learning
 + 2018-CVPR - Csgnet: Neural shape parser for constructive solid geometry. [[Paper]](https://arxiv.org/abs/1712.08290)[[Code]](https://github.com/Hippogriff/3DCSGNet)
 
 + 2018-CVPR - Im2struct: Recovering 3d shape structure from a single RGB image. [[Paper]](https://arxiv.org/abs/1804.05469)[[Code]](https://github.com/chengjieniu/Im2Struct)
+
++ 2018-SigAsia - FrankenGAN: Guided Detail Synthesis for Building Mass Models Using Style-Synchonized GANs. [[Paper]](https://arxiv.org/abs/1806.07179)[[Code]](https://github.com/twak/chordatlas)
 
 + 2019-CVPR - Supervised fitting of geometric primitives to 3d point clouds. [[Paper]](https://arxiv.org/abs/1811.08988)[[Code]](https://github.com/lingxiaoli94/SPFN)
 
