@@ -115,6 +115,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2019 - ConvPoint: Continuous Convolutions for Point Cloud Processing. [[Paper]](https://arxiv.org/abs/1904.02375) [[Py-Code]](https://github.com/aboulch/ConvPoint)
 
++ 2019-CGF - PointCleanNet: Learning to Denoise and Remove Outliers from Dense Point Clouds. [[Paper]](https://arxiv.org/abs/1901.01060)[[Code]](https://github.com/mrakotosaon/pointcleannet)
+
 + 2020-ICLR - Unpaired Point Cloud Completion on Real Scans using Adversarial Training. [[Paper]](https://arxiv.org/pdf/1904.00069.pdf)[[Code]](https://github.com/xuelin-chen/pcl2pcl-gan-pub)
 
 + 2020-CVPR - AdaCoSeg: Adaptive Shape Co-Segmentation with Group Consistency Loss. [[Paper]](https://arxiv.org/pdf/1903.10297.pdf)
@@ -138,8 +140,6 @@ A curated list of resources for Deep Geometry Learning
 + 2020-ECCV - DeepFit: 3D Surface Fitting via Neural Network Weighted Least Squares. [[Paper]](https://arxiv.org/pdf/2003.10826.pdf)
 
 + 2020-ECCV - Multimodal Shape Completion via Conditional Generative Adversarial Networks. [[Paper]](https://arxiv.org/pdf/2003.07717.pdf)
-
-+ 2020-EuroGraph - PointCleanNet: Learning to Denoise and Remove Outliers from Dense Point Clouds. [[Paper]](https://arxiv.org/abs/1901.01060)[[Code]](https://github.com/mrakotosaon/pointcleannet)
 
 + 2020-Arxiv - Point Cloud Completion by Skip-attention Network with Hierarchical Folding. [[Paper]](https://arxiv.org/abs/2005.03871)
 
