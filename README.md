@@ -305,6 +305,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2020-ECCV - LIMP: Learning Latent Shape Representations with Metric Preservation Priors. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480018.pdf)
 
++ 2020-Siggraph - Point2Mesh: A Self-Prior for Deformable Meshes. [[Paper]](https://arxiv.org/abs/2005.11084)[[Code]](https://github.com/ranahanocka/point2mesh)
+
 **Primitve-based methods**
 
 + 1986-TOG -  Constructive solid geometry for polyhedral objects. [[Paper]](http://cs.brown.edu/people/jhughes/papers/Laidlaw-CSG-1986/paper.pdf)
