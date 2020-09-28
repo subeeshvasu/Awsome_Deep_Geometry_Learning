@@ -87,6 +87,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2018-TOG - Point convolutional neural networks by extension operators. [[Paper]](https://arxiv.org/abs/1803.10091)
 
++ 2018-EuroGraph - PCPNet: Learning Local Shape Properties from Raw Point Clouds. [[Paper]](https://arxiv.org/abs/1710.04954)
+
 + 2019-WACV - High Fidelity Semantic Shape Completion for Point Clouds using Latent Optimization. [[Paper]](https://arxiv.org/pdf/1807.03407.pdf)
 
 + 2019-CVPR - Patch-based progressive 3D point set upsampling. [[Paper]](https://arxiv.org/abs/1811.11286)
