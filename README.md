@@ -139,6 +139,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2020-ECCV - Multimodal Shape Completion via Conditional Generative Adversarial Networks. [[Paper]](https://arxiv.org/pdf/2003.07717.pdf)
 
++ 2020-EuroGraph - PointCleanNet: Learning to Denoise and Remove Outliers from Dense Point Clouds. [[Paper]](https://arxiv.org/abs/1901.01060)[[Code]](https://github.com/mrakotosaon/pointcleannet)
+
 + 2020-Arxiv - Point Cloud Completion by Skip-attention Network with Hierarchical Folding. [[Paper]](https://arxiv.org/abs/2005.03871)
 
 + 2020-Arxiv - Detail Preserved Point Cloud Completion via Separated Feature Aggregation. [[Paper]](https://arxiv.org/pdf/2007.02374.pdf)
