@@ -335,6 +335,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2020-CVPR - CvxNet: Learnable Convex Decomposition. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Deng_CvxNet_Learnable_Convex_Decomposition_CVPR_2020_paper.html)[[Code]](https://github.com/tensorflow/graphics/tree/master/tensorflow_graphics/projects/cvxnet)
 
++ 2020-IWOBI - Recovery of Superquadrics from Range Images using Deep Learning: A Preliminary Study. [[Paper]](https://arxiv.org/pdf/1904.06585.pdf)
+
 **Survey Papers**
 
 + 2019-Arxiv - Deep learning for 3D point clouds: A survey. [[Paper]](https://arxiv.org/abs/1912.12033)
