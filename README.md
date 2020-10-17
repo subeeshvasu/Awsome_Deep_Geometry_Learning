@@ -291,6 +291,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2020-ECCV - GSIR: Generalizable 3D Shape Interpretation and Reconstruction. [[Paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580494.pdf)
 
++ 2020-Arxiv - TM-NET: Deep Generative Networks for Textured Meshes. [[Paper]](https://arxiv.org/pdf/2010.06217.pdf)
+
 **Deformation-based methods**
 
 + 2016-TOG - Efficient and flexible deformation representation for data-driven surface modeling. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2908736)
