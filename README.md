@@ -233,6 +233,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2020-Arxiv - Overfit Neural Networks as a Compact Shape Representation. [[Paper]](https://arxiv.org/pdf/2009.09808.pdf)
 
++ 2020-MM - Vaccine-style-net: Point Cloud Completion in Implici Continuous Function Space. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3394171.3413648)
+
 **Structure/Part-based representation**
 
 + 2011-EG - Symmetry hierarchy of man-made objects. [[Paper]](https://kevinkaixu.net/papers/wang_eg11_symh.pdf)
