@@ -159,7 +159,9 @@ A curated list of resources for Deep Geometry Learning
 
 + 2020-Arxiv - Weakly-supervised 3D Shape Completion in the Wild. [[Papr]](https://arxiv.org/pdf/2008.09110.pdf)
 
-+ 2020-Arxiv - CAD-PU: A Curvature-Adaptive Deep Learning Solution for Point Set Upsampling. [[Papeer]](https://arxiv.org/pdf/2009.04660.pdf)
++ 2020-Arxiv - CAD-PU: A Curvature-Adaptive Deep Learning Solution for Point Set Upsampling. [[Paper]](https://arxiv.org/pdf/2009.04660.pdf)
+
++ 2020-Arxiv - Skeleton-bridged Point Completion: From Global Inference to Local Adjustment. [[Paper]](https://arxiv.org/pdf/2010.07428.pdf)
 
 ***Mesh-based***
 
@@ -312,6 +314,8 @@ A curated list of resources for Deep Geometry Learning
 + 2020-ECCV - LIMP: Learning Latent Shape Representations with Metric Preservation Priors. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480018.pdf)
 
 + 2020-Siggraph - Point2Mesh: A Self-Prior for Deformable Meshes. [[Paper]](https://arxiv.org/abs/2005.11084)[[Code]](https://github.com/ranahanocka/point2mesh)
+
++ 2020-Arxiv - Better Patch Stitching for Parametric Surface Reconstruction. [[Paper]](https://arxiv.org/pdf/2010.07021.pdf)
 
 **Primitve-based methods**
 
