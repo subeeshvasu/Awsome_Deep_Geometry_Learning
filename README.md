@@ -353,6 +353,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2020-NIPS - Neural Star Domain as Primitive Representation. [[Paper]](https://arxiv.org/pdf/2010.11248.pdf)
 
++ 2020-NIPS - PIE-NET: Parametric Inference of Point Cloud Edges. [[Paper]](https://arxiv.org/pdf/2007.04883.pdf)[[Code]](https://sites.google.com/site/alimahdaviamiri/projects/pie_net)
+
 **Survey Papers**
 
 + 2019-Arxiv - Deep learning for 3D point clouds: A survey. [[Paper]](https://arxiv.org/abs/1912.12033)
