@@ -237,6 +237,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2020-MM - Vaccine-style-net: Point Cloud Completion in Implici Continuous Function Space. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3394171.3413648)
 
++ 2020-Arxiv - Learning Occupancy Function from Point Clouds for Surface Reconstruction. [[Paper]](https://arxiv.org/pdf/2010.11378.pdf)
+
 **Structure/Part-based representation**
 
 + 2011-EG - Symmetry hierarchy of man-made objects. [[Paper]](https://kevinkaixu.net/papers/wang_eg11_symh.pdf)
@@ -346,6 +348,8 @@ A curated list of resources for Deep Geometry Learning
 + 2020-CVPR - CvxNet: Learnable Convex Decomposition. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Deng_CvxNet_Learnable_Convex_Decomposition_CVPR_2020_paper.html)[[Code]](https://github.com/tensorflow/graphics/tree/master/tensorflow_graphics/projects/cvxnet)
 
 + 2020-IWOBI - Recovery of Superquadrics from Range Images using Deep Learning: A Preliminary Study. [[Paper]](https://arxiv.org/pdf/1904.06585.pdf)
+
++ 2020-Arxiv - Neural Star Domain as Primitive Representation. [[Paper]](https://arxiv.org/pdf/2010.11248.pdf)
 
 **Survey Papers**
 
