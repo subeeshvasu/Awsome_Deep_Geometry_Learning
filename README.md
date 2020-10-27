@@ -317,6 +317,10 @@ A curated list of resources for Deep Geometry Learning
 
 + 2020-Arxiv - Better Patch Stitching for Parametric Surface Reconstruction. [[Paper]](https://arxiv.org/pdf/2010.07021.pdf)
 
++ 2020-NIPS - ShapeFlow: Learnable Deformations Among 3D Shapes. [[Paper]](https://arxiv.org/pdf/2006.07982.pdf)
+
++ 2020-ECCV - NASA Neural Articulated Shape Approximation. [[Paper]](https://arxiv.org/pdf/1912.03207.pdf)
+
 **Primitve-based methods**
 
 + 1986-TOG -  Constructive solid geometry for polyhedral objects. [[Paper]](http://cs.brown.edu/people/jhughes/papers/Laidlaw-CSG-1986/paper.pdf)
