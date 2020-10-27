@@ -357,6 +357,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2020-ECCV - Label-Efficient Learning on Point Clouds using Approximate Convex Decompositions. [[Paper]](https://arxiv.org/abs/2003.13834)[[Code]](https://github.com/matheusgadelha/PointCloudLearningACD)
 
++ 2020-BMVC - 3D-GMNet: Single-View 3D Shape Recovery as A Gaussian Mixture. [[Paper]](https://arxiv.org/pdf/1912.04663.pdf)
+
 + 2020-IWOBI - Recovery of Superquadrics from Range Images using Deep Learning: A Preliminary Study. [[Paper]](https://arxiv.org/pdf/1904.06585.pdf)
 
 + 2020-NIPS - Neural Star Domain as Primitive Representation. [[Paper]](https://arxiv.org/pdf/2010.11248.pdf)
