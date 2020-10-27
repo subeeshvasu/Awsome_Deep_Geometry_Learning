@@ -349,7 +349,7 @@ A curated list of resources for Deep Geometry Learning
 
 + 2020-IWOBI - Recovery of Superquadrics from Range Images using Deep Learning: A Preliminary Study. [[Paper]](https://arxiv.org/pdf/1904.06585.pdf)
 
-+ 2020-Arxiv - Neural Star Domain as Primitive Representation. [[Paper]](https://arxiv.org/pdf/2010.11248.pdf)
++ 2020-NIPS - Neural Star Domain as Primitive Representation. [[Paper]](https://arxiv.org/pdf/2010.11248.pdf)
 
 **Survey Papers**
 
