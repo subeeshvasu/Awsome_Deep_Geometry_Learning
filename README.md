@@ -277,8 +277,6 @@ A curated list of resources for Deep Geometry Learning
 
 + 2020-CVPR - Neural Implicit Embedding for Point Cloud Analysis. [Paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Fujiwara_Neural_Implicit_Embedding_for_Point_Cloud_Analysis_CVPR_2020_paper.pdf)
 
-+ 2020-CVPR - Local Deep Implicit Functions for 3D Shape. [Paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Genova_Local_Deep_Implicit_Functions_for_3D_Shape_CVPR_2020_paper.pdf)
-
 + 2020-CVPR - FroDO: From Detections to 3D Objects. [Paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Runz_FroDO_From_Detections_to_3D_Objects_CVPR_2020_paper.pdf)
 
 + 2020-CVPR - StructEdit: Learning Structural Shape Variations. [[Paper]](https://arxiv.org/abs/1911.11098)[[Code]](https://github.com/daerduoCarey/structedit)
@@ -346,6 +344,8 @@ A curated list of resources for Deep Geometry Learning
 + 2020-CVPR - DualSDF: Semantic Shape Manipulation using a Two-Level Representation. [[Paper]](https://arxiv.org/pdf/2004.02869.pdf)[[Code]](https://github.com/zekunhao1995/DualSDF)
 
 + 2020-CVPR - CvxNet: Learnable Convex Decomposition. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Deng_CvxNet_Learnable_Convex_Decomposition_CVPR_2020_paper.html)[[Code]](https://github.com/tensorflow/graphics/tree/master/tensorflow_graphics/projects/cvxnet)
+
++ 2020-CVPR - Local Deep Implicit Functions for 3D Shape. [Paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Genova_Local_Deep_Implicit_Functions_for_3D_Shape_CVPR_2020_paper.pdf)[[Code]](https://github.com/google/ldif)
 
 + 2020-IWOBI - Recovery of Superquadrics from Range Images using Deep Learning: A Preliminary Study. [[Paper]](https://arxiv.org/pdf/1904.06585.pdf)
 
