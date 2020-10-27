@@ -353,6 +353,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2020-CVPR - Deep Parametric Shape Predictions using Distance Fields. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Smirnov_Deep_Parametric_Shape_Predictions_Using_Distance_Fields_CVPR_2020_paper.pdf)[[Code]](https://github.com/dmsm/DeepParametricShapes)
 
++ 2020-ECCV - ParSeNet: A Parametric Surface Fitting Network for 3D Point Clouds. [[Paper]](https://arxiv.org/pdf/2003.12181.pdf)[[Code]](https://github.com/Hippogriff/parsenet-codebase)
+
 + 2020-IWOBI - Recovery of Superquadrics from Range Images using Deep Learning: A Preliminary Study. [[Paper]](https://arxiv.org/pdf/1904.06585.pdf)
 
 + 2020-NIPS - Neural Star Domain as Primitive Representation. [[Paper]](https://arxiv.org/pdf/2010.11248.pdf)
