@@ -365,6 +365,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2020-NIPS - PIE-NET: Parametric Inference of Point Cloud Edges. [[Paper]](https://arxiv.org/pdf/2007.04883.pdf)[[Code]](https://sites.google.com/site/alimahdaviamiri/projects/pie_net)
 
++ 2020 - Unsupervised Deep Learning for Primitive-Based Shape Abstraction [[Paper]](https://www.diva-portal.org/smash/get/diva2:1411556/FULLTEXT01.pdf)
+
 **Survey Papers**
 
 + 2019-Arxiv - Deep learning for 3D point clouds: A survey. [[Paper]](https://arxiv.org/abs/1912.12033)
