@@ -351,6 +351,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2019-ICLR - Learning to Infer and Execute 3D Shape Programs. [[Paper]](https://arxiv.org/abs/1901.02875)[[Code]](https://github.com/HobbitLong/shape2prog)
 
++ 2019-IJCV - Learning Single-Image 3D Reconstruction by Generative Modelling of Shape, Pose and Shading. [[Paper]](file:///Users/vasu/Downloads/Henderson-Ferrari2020_Article_LearningSingle-Image3DReconstr.pdf)[[Code]](https://github.com/pmh47/dirt)
+
 + 2020-CVPR - Learning Unsupervised Hierarchical Part Decomposition of 3D Objects from a Single RGB Image. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Paschalidou_Learning_Unsupervised_Hierarchical_Part_Decomposition_of_3D_Objects_From_a_CVPR_2020_paper.pdf)[[Code]](https://github.com/paschalidoud/hierarchical_primitives)
 
 + 2020-CVPR - DualSDF: Semantic Shape Manipulation using a Two-Level Representation. [[Paper]](https://arxiv.org/pdf/2004.02869.pdf)[[Code]](https://github.com/zekunhao1995/DualSDF)
