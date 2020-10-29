@@ -359,7 +359,11 @@ A curated list of resources for Deep Geometry Learning
 
 + 2019-IJCV - Learning Single-Image 3D Reconstruction by Generative Modelling of Shape, Pose and Shading. [[Paper]](file:///Users/vasu/Downloads/Henderson-Ferrari2020_Article_LearningSingle-Image3DReconstr.pdf)[[Code]](https://github.com/pmh47/dirt)
 
++ 2019-IGARSS - Primitive-Based 3D Building Modeling, Sensor Simulation, and Estimation. [[Paper]](https://arxiv.org/pdf/1901.05554.pdf)
+
 + 2019-TOG - Learning Adaptive Hierarchical Cuboid Abstractions of 3D Shape Collections. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3355089.3356529?casa_token=LKGGa6x3o8oAAAAA:jReNOIlzvfBitCy_9bDr8IOglHxAjPs8fw1qcAIcKo3aGH9x2OP58bdaNKGDfbeBEiG9AmVouOylFw)[[Code]](https://github.com/isunchy/cuboid_abstraction)
+
++ 2019-TPAMI - PRS-Net: Planar Reflective Symmetry Detection Net for 3D Models. [[Paper]](https://arxiv.org/pdf/1910.06511.pdf)
 
 + 2020-CVPR - Learning Unsupervised Hierarchical Part Decomposition of 3D Objects from a Single RGB Image. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Paschalidou_Learning_Unsupervised_Hierarchical_Part_Decomposition_of_3D_Objects_From_a_CVPR_2020_paper.pdf)[[Code]](https://github.com/paschalidoud/hierarchical_primitives)
 
@@ -385,7 +389,11 @@ A curated list of resources for Deep Geometry Learning
 
 + 2020-NIPS - PIE-NET: Parametric Inference of Point Cloud Edges. [[Paper]](https://arxiv.org/pdf/2007.04883.pdf)[[Code]](https://sites.google.com/site/alimahdaviamiri/projects/pie_net)
 
++ 2020-NIPS - UCSG-NET - Unsupervised Discovering of Constructive Solid Geometry Tree. [[Paper]](https://arxiv.org/pdf/2006.09102.pdf)[[Code]](https://github.com/kacperkan/ucsgnet/)
+
 + 2020-CGF - Learning Generative Models of 3D Structures. [[Paper]](https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.14020?casa_token=CPcce40KgkgAAAAA:IK3f0Aof3GE5XQgnCrzVeaFBhxM9jhyOH320rq_DhrHJe517YvbBhKivbXV05IUAhOXRlStCyBC7dIQ)
+
++ 2020 - Geometric Primitives in LiDAR Point Clouds: A Review. [[Paper]](https://ieeexplore.ieee.org/document/8977383)
 
 + 2020 - Unsupervised Deep Learning for Primitive-Based Shape Abstraction. [[Paper]](https://www.diva-portal.org/smash/get/diva2:1411556/FULLTEXT01.pdf)
 
