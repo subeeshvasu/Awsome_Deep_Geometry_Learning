@@ -335,6 +335,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2018-CVPR - Im2struct: Recovering 3d shape structure from a single RGB image. [[Paper]](https://arxiv.org/abs/1804.05469)[[Code]](https://github.com/chengjieniu/Im2Struct)
 
++ 2018-NIPS - Learning to Infer Graphics Programs from Hand-Drawn Images. [[Paper]](https://arxiv.org/pdf/1707.09627.pdf)[[Code]](https://github.com/ellisk42/TikZ)
+
 + 2018-SigAsia - FrankenGAN: Guided Detail Synthesis for Building Mass Models Using Style-Synchonized GANs. [[Paper]](https://arxiv.org/abs/1806.07179)[[Code]](https://github.com/twak/chordatlas)
 
 + 2019-CVPR - Supervised fitting of geometric primitives to 3d point clouds. [[Paper]](https://arxiv.org/abs/1811.08988)[[Code]](https://github.com/lingxiaoli94/SPFN)
@@ -344,6 +346,8 @@ A curated list of resources for Deep Geometry Learning
 + 2019-ICCV - Learning Shape Templates with Structured Implicit Functions. [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Genova_Learning_Shape_Templates_With_Structured_Implicit_Functions_ICCV_2019_paper.pdf)[[Code]](https://github.com/google/ldif)
 
 + 2019-NIPS - Learning elementary structures for 3d shape generation and matching. [[Paper]](https://arxiv.org/abs/1908.04725)[[Code]](https://github.com/TheoDEPRELLE/AtlasNetV2)
+
++ 2019-ICLR - Learning to Infer and Execute 3D Shape Programs. [[Paper]](https://arxiv.org/abs/1901.02875)[[Code]](https://github.com/HobbitLong/shape2prog)
 
 + 2020-CVPR - Learning Unsupervised Hierarchical Part Decomposition of 3D Objects from a Single RGB Image. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Paschalidou_Learning_Unsupervised_Hierarchical_Part_Decomposition_of_3D_Objects_From_a_CVPR_2020_paper.pdf)[[Code]](https://github.com/paschalidoud/hierarchical_primitives)
 
