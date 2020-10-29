@@ -335,11 +335,15 @@ A curated list of resources for Deep Geometry Learning
 
 + 2018-CVPR - Im2struct: Recovering 3d shape structure from a single RGB image. [[Paper]](https://arxiv.org/abs/1804.05469)[[Code]](https://github.com/chengjieniu/Im2Struct)
 
++ 2018-ECCV - Physical Primitive Decomposition. [[Paper]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Zhijian_Liu_Physical_Primitive_Decomposition_ECCV_2018_paper.pdf)
+
 + 2018-NIPS - Learning to Infer Graphics Programs from Hand-Drawn Images. [[Paper]](https://arxiv.org/pdf/1707.09627.pdf)[[Code]](https://github.com/ellisk42/TikZ)
 
 + 2018-SigAsia - FrankenGAN: Guided Detail Synthesis for Building Mass Models Using Style-Synchonized GANs. [[Paper]](https://arxiv.org/abs/1806.07179)[[Code]](https://github.com/twak/chordatlas)
 
 + 2018-TOG - InverseCSG: Automatic Conversion of 3D Models to CSG Trees. [[Paper]](https://people.csail.mit.edu/taodu/csg/csg.pdf)
+
++ 2018-3DV - Parsing Geometry Using Structure-Aware Shape Templates. [[Paper]](https://arxiv.org/pdf/1808.01337.pdf)[[Code]](https://github.com/vigansub/StructureAwareShapeTemplates)
 
 + 2019-CVPR - Supervised fitting of geometric primitives to 3d point clouds. [[Paper]](https://arxiv.org/abs/1811.08988)[[Code]](https://github.com/lingxiaoli94/SPFN)
 
