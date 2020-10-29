@@ -319,6 +319,8 @@ A curated list of resources for Deep Geometry Learning
 
 **Primitve-based methods**
 
++ 1971-CSSC - Visual perception by computer. [[Papeer]]()
+
 + 1986-TOG -  Constructive solid geometry for polyhedral objects. [[Paper]](http://cs.brown.edu/people/jhughes/papers/Laidlaw-CSG-1986/paper.pdf)
 
 + 2016 - Volumetric Hierarchical Approximate Convex Decomposition. [[Paper]](https://www.taylorfrancis.com/books/9780429183911/chapters/10.1201/b21177-15)
