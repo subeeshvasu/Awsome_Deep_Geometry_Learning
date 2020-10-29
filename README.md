@@ -325,7 +325,7 @@ A curated list of resources for Deep Geometry Learning
 
 + 2016 - Volumetric Hierarchical Approximate Convex Decomposition. [[Paper]](https://www.taylorfrancis.com/books/9780429183911/chapters/10.1201/b21177-15)
 
-+ 2017-CVPR -  Learning shape abstractions by assembling volumetric primitives. [[Paper]](https://arxiv.org/abs/1612.00404)[[Code]](https://github.com/shubhtuls/volumetricPrimitives)
++ 2017-CVPR -  Learning shape abstractions by assembling volumetric primitives. [[Paper]](https://arxiv.org/abs/1612.00404)[[Code]](https://github.com/shubhtuls/volumetricPrimitives)[[Py-Code]](https://github.com/nileshkulkarni/volumetricPrimitivesPytorch)
 
 + 2017-ICCV -  3dprnn: Generating shape primitives with recurrent neural networks. [[Paper]](https://arxiv.org/abs/1708.01648)[[Code]](https://github.com/zouchuhang/3D-PRNN)
 
