@@ -329,6 +329,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2017-TOG - GRASS: Generative recursive autoencoders for shape structures. [[Paper]](https://arxiv.org/abs/1705.02090)[[Code]](https://github.com/junli-lj/Grass)[[Py-Code]](https://github.com/kevin-kaixu/grass_pytorch)
 
++ 2017-TOG - ComplementMe: Weakly-Supervised Component Suggestions for 3D Modeling. [[Paper]](https://arxiv.org/pdf/1708.01841.pdf)[[Code]](https://github.com/mhsung/complement-me)
+
 + 2018-CVPR - Csgnet: Neural shape parser for constructive solid geometry. [[Paper]](https://arxiv.org/abs/1712.08290)[[Code]](https://github.com/Hippogriff/3DCSGNet)
 
 + 2018-CVPR - Im2struct: Recovering 3d shape structure from a single RGB image. [[Paper]](https://arxiv.org/abs/1804.05469)[[Code]](https://github.com/chengjieniu/Im2Struct)
