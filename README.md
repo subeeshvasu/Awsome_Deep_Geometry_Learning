@@ -339,6 +339,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2018-SigAsia - FrankenGAN: Guided Detail Synthesis for Building Mass Models Using Style-Synchonized GANs. [[Paper]](https://arxiv.org/abs/1806.07179)[[Code]](https://github.com/twak/chordatlas)
 
++ 2018-TOG - InverseCSG: Automatic Conversion of 3D Models to CSG Trees. [[Paper]](https://people.csail.mit.edu/taodu/csg/csg.pdf)
+
 + 2019-CVPR - Supervised fitting of geometric primitives to 3d point clouds. [[Paper]](https://arxiv.org/abs/1811.08988)[[Code]](https://github.com/lingxiaoli94/SPFN)
 
 + 2019-CVPR - Superquadrics Revisited: Learning 3D Shape Parsing Beyond Cuboids. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Paschalidou_Superquadrics_Revisited_Learning_3D_Shape_Parsing_Beyond_Cuboids_CVPR_2019_paper.html)[[Code]](https://github.com/paschalidoud/superquadric_parsing)
