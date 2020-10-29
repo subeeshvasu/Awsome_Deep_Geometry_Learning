@@ -349,6 +349,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2019-CVPR - Superquadrics Revisited: Learning 3D Shape Parsing Beyond Cuboids. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Paschalidou_Superquadrics_Revisited_Learning_3D_Shape_Parsing_Beyond_Cuboids_CVPR_2019_paper.html)[[Code]](https://github.com/paschalidoud/superquadric_parsing)
 
++ 2019-CVPR - Unsupervised Primitive Discovery for Improved 3D Generative Modeling. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Khan_Unsupervised_Primitive_Discovery_for_Improved_3D_Generative_Modeling_CVPR_2019_paper.pdf)
+
 + 2019-ICCV - Learning Shape Templates with Structured Implicit Functions. [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Genova_Learning_Shape_Templates_With_Structured_Implicit_Functions_ICCV_2019_paper.pdf)[[Code]](https://github.com/google/ldif)
 
 + 2019-NIPS - Learning elementary structures for 3d shape generation and matching. [[Paper]](https://arxiv.org/abs/1908.04725)[[Code]](https://github.com/TheoDEPRELLE/AtlasNetV2)
@@ -356,6 +358,8 @@ A curated list of resources for Deep Geometry Learning
 + 2019-ICLR - Learning to Infer and Execute 3D Shape Programs. [[Paper]](https://arxiv.org/abs/1901.02875)[[Code]](https://github.com/HobbitLong/shape2prog)
 
 + 2019-IJCV - Learning Single-Image 3D Reconstruction by Generative Modelling of Shape, Pose and Shading. [[Paper]](file:///Users/vasu/Downloads/Henderson-Ferrari2020_Article_LearningSingle-Image3DReconstr.pdf)[[Code]](https://github.com/pmh47/dirt)
+
++ 2019-TOG - Learning Adaptive Hierarchical Cuboid Abstractions of 3D Shape Collections. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3355089.3356529?casa_token=LKGGa6x3o8oAAAAA:jReNOIlzvfBitCy_9bDr8IOglHxAjPs8fw1qcAIcKo3aGH9x2OP58bdaNKGDfbeBEiG9AmVouOylFw)[[Code]](https://github.com/isunchy/cuboid_abstraction)
 
 + 2020-CVPR - Learning Unsupervised Hierarchical Part Decomposition of 3D Objects from a Single RGB Image. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Paschalidou_Learning_Unsupervised_Hierarchical_Part_Decomposition_of_3D_Objects_From_a_CVPR_2020_paper.pdf)[[Code]](https://github.com/paschalidoud/hierarchical_primitives)
 
