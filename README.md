@@ -227,6 +227,10 @@ A curated list of resources for Deep Geometry Learning
 
 + 2020-ECCV - Points2Surf: Learning Implicit Surfaces from Point Cloud Patches. [[Paper]](https://arxiv.org/abs/2007.10453)
 
++ 2020-NIPS - Neural Unsigned Distance Fields for Implicit Function Learning. [[Paper]](https://arxiv.org/pdf/2010.13938.pdf)
+
++ 2020-NIPS - Learning Implicit Functions for Topology-Varying Dense 3D Shape Correspondence. [[Paper]](https://arxiv.org/pdf/2010.12320.pdf)
+
 + 2020 - PatchNets: Patch-Based Generalizable Deep Implicit 3D Shape Representations. [[Paper]](http://gvv.mpi-inf.mpg.de/projects/PatchNets/data/paper.pdf)
 
 + 2020-Arxiv - SkeletonNet: A Topology-Preserving Solution for Learning Mesh Reconstruction of Object Surfaces from RGB Images. [[Paper]](https://arxiv.org/pdf/2008.05742.pdf)
