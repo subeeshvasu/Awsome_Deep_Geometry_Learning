@@ -225,7 +225,7 @@ A curated list of resources for Deep Geometry Learning
 
 + 2020-ECCV - Pix2Surf: Learning Parametric 3D Surface Models of Objects from Images. [[Paper]](https://arxiv.org/abs/2008.07760)
 
-+ 2020-ECCV - Points2Surf: Learning Implicit Surfaces from Point Cloud Patches. [[Paper]](https://arxiv.org/abs/2007.10453)
++ 2020-ECCV - Points2Surf: Learning Implicit Surfaces from Point Cloud Patches. [[Paper]](https://arxiv.org/abs/2007.10453)[[Code]](https://github.com/ErlerPhilipp/points2surf)
 
 + 2020-NIPS - Neural Unsigned Distance Fields for Implicit Function Learning. [[Paper]](https://arxiv.org/pdf/2010.13938.pdf)
 
