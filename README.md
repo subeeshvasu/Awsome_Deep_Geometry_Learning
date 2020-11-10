@@ -245,6 +245,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2020-Arxiv - Learning Occupancy Function from Point Clouds for Surface Reconstruction. [[Paper]](https://arxiv.org/pdf/2010.11378.pdf)
 
++ 2020-Arxiv - DUDE: Deep Unsigned Distance Embeddings for Hi-Fidelity Representation of Complex 3D Surfaces. [[Paper]](https://arxiv.org/abs/2011.02570)
+
 **Structure/Part-based representation**
 
 + 2011-EG - Symmetry hierarchy of man-made objects. [[Paper]](https://kevinkaixu.net/papers/wang_eg11_symh.pdf)
