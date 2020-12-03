@@ -353,7 +353,7 @@ A curated list of resources for Deep Geometry Learning
 
 + 2018-SigAsia - FrankenGAN: Guided Detail Synthesis for Building Mass Models Using Style-Synchonized GANs. [[Paper]](https://arxiv.org/abs/1806.07179)[[Code]](https://github.com/twak/chordatlas)
 
-+ 2018-TOG - InverseCSG: Automatic Conversion of 3D Models to CSG Trees. [[Paper]](https://people.csail.mit.edu/taodu/csg/csg.pdf)
++ 2018-TOG - InverseCSG: Automatic Conversion of 3D Models to CSG Trees. [[Paper]](http://people.csail.mit.edu/taodu/csg/paper.pdf)
 
 + 2018-3DV - Parsing Geometry Using Structure-Aware Shape Templates. [[Paper]](https://arxiv.org/pdf/1808.01337.pdf)[[Code]](https://github.com/vigansub/StructureAwareShapeTemplates)
 
