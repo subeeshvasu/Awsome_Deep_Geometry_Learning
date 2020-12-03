@@ -369,7 +369,7 @@ A curated list of resources for Deep Geometry Learning
 
 + 2019-ICLR - Learning to Infer and Execute 3D Shape Programs. [[Paper]](https://arxiv.org/abs/1901.02875)[[Code]](https://github.com/HobbitLong/shape2prog)
 
-+ 2019-IJCV - Learning Single-Image 3D Reconstruction by Generative Modelling of Shape, Pose and Shading. [[Paper]](file:///Users/vasu/Downloads/Henderson-Ferrari2020_Article_LearningSingle-Image3DReconstr.pdf)[[Code]](https://github.com/pmh47/dirt)
++ 2019-IJCV - Learning Single-Image 3D Reconstruction by Generative Modelling of Shape, Pose and Shading. [[Paper]](https://arxiv.org/abs/1901.06447)[[Code]](https://github.com/pmh47/dirt)
 
 + 2019-IGARSS - Primitive-Based 3D Building Modeling, Sensor Simulation, and Estimation. [[Paper]](https://arxiv.org/pdf/1901.05554.pdf)
 
