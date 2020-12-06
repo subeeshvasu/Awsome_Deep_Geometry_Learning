@@ -247,6 +247,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2020-Arxiv - DUDE: Deep Unsigned Distance Embeddings for Hi-Fidelity Representation of Complex 3D Surfaces. [[Paper]](https://arxiv.org/abs/2011.02570)
 
++ 2020-Arxiv - Deep Implicit Templates for 3D Shape Representation. [[Paper]](https://arxiv.org/pdf/2011.14565.pdf)
+
 **Structure/Part-based representation**
 
 + 2011-EG - Symmetry hierarchy of man-made objects. [[Paper]](https://kevinkaixu.net/papers/wang_eg11_symh.pdf)
