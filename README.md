@@ -47,6 +47,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2020-ECCV - CoReNet: Coherent 3D Scene Reconstruction from a Single RGB Image. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470358.pdf)
 
++ 2020-ACCV - DeepVoxels++: Enhancing the Fidelity of Novel View Synthesis from 3D Voxel Embeddings. [[Paper]](https://openaccess.thecvf.com/content/ACCV2020/papers/He_DeepVoxels_Enhancing_the_Fidelity_of_Novel_View_Synthesis_from_3D_ACCV_2020_paper.pdf)
+
 ***Sparse Voxels***
 
 + 2016-NIPS - Fpnn: Field probing neural networks for 3d data. [[Paper]](https://arxiv.org/abs/1605.06240)
@@ -436,6 +438,9 @@ A curated list of resources for Deep Geometry Learning
 **Misc**
 
 + Learning to Generate 3D Training Data - [[Thesis]](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/163240/ydawei_1.pdf?sequence=1&isAllowed=y)
+
++ 2020-Arxiv - Deep Optimized Priors for 3D Shape Modeling and Reconstruction. [[Paper]](https://arxiv.org/pdf/2012.07241.pdf)
+
 
 **Datasets**
 
