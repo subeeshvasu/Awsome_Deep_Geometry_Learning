@@ -417,6 +417,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2020-Arxiv - Learning to Infer Shape Programs Using Latent Execution Self Training. [[Paper]](https://arxiv.org/pdf/2011.13045.pdf)
 
++ 2020-IEEEAccess - Learning to predict superquadric parameters from depth images with explicit and implicit supervision. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9274424)
+
 **Survey Papers**
 
 + 2019-Arxiv - Deep learning for 3D point clouds: A survey. [[Paper]](https://arxiv.org/abs/1912.12033)
