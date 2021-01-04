@@ -165,6 +165,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2020-Arxiv - Skeleton-bridged Point Completion: From Global Inference to Local Adjustment. [[Paper]](https://arxiv.org/pdf/2010.07428.pdf)
 
++ 2020-Arxiv - Hausdorff Point Convolution with Geometric Priors. [[Paper]](https://arxiv.org/pdf/2012.13118.pdf)
+
 ***Mesh-based***
 
 + 2016-ECCV - Deep learning 3D shape surfaces using geometry images. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-319-46466-4_14)
@@ -250,6 +252,8 @@ A curated list of resources for Deep Geometry Learning
 + 2020-Arxiv - DUDE: Deep Unsigned Distance Embeddings for Hi-Fidelity Representation of Complex 3D Surfaces. [[Paper]](https://arxiv.org/abs/2011.02570)
 
 + 2020-Arxiv - Deep Implicit Templates for 3D Shape Representation. [[Paper]](https://arxiv.org/pdf/2011.14565.pdf)
+
++ 2020-Arxiv - NeuralFusion: Online Depth Fusion in Latent Space. [[Paper]](https://arxiv.org/pdf/2011.14791.pdf)
 
 **Structure/Part-based representation**
 
