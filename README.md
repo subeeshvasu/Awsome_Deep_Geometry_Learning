@@ -435,6 +435,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2020-MTA - Single image 3D object reconstruction based on deep learning: A review. [[Paper]](https://link.springer.com/article/10.1007/s11042-020-09722-8)
 
++ 2020-CG - Single-View 3D reconstruction: A Survey of deep learning methods. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0097849320301849)
+
 **Misc**
 
 + Learning to Generate 3D Training Data - [[Thesis]](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/163240/ydawei_1.pdf?sequence=1&isAllowed=y)
