@@ -259,6 +259,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2021-Arxiv - Neural Geometric Level of Detail: Real-time Rendering with Implicit 3D Shapes. [[Paper]](https://arxiv.org/pdf/2101.10994.pdf)[[Code]](https://github.com/nv-tlabs/nglod)
 
++ 2021-Arxiv - Secrets of 3D Implicit Object Shape Reconstruction in the Wild. [[Paper]](https://arxiv.org/pdf/2101.06860.pdf)
+
 **Structure/Part-based representation**
 
 + 2011-EG - Symmetry hierarchy of man-made objects. [[Paper]](https://kevinkaixu.net/papers/wang_eg11_symh.pdf)
