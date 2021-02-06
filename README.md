@@ -317,6 +317,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2020-Arxiv - TM-NET: Deep Generative Networks for Textured Meshes. [[Paper]](https://arxiv.org/pdf/2010.06217.pdf)
 
++ 2021-Arxiv - Towards Generalising Neural Implicit Representations. [[Paper]](https://arxiv.org/pdf/2101.12690.pdf)
+
 **Deformation-based methods**
 
 + 2016-TOG - Efficient and flexible deformation representation for data-driven surface modeling. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2908736)
