@@ -431,6 +431,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2020-IEEEAccess - Learning to predict superquadric parameters from depth images with explicit and implicit supervision. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9274424)
 
++ 2021 - Facilitated editing of generative design geometry in computer aided design user interface. [[Paper]](https://patentimages.storage.googleapis.com/dc/5f/93/dabb0864a9bfaa/US20200151953A1.pdf)
+
 **Survey Papers**
 
 + 2019-Arxiv - Deep learning for 3D point clouds: A survey. [[Paper]](https://arxiv.org/abs/1912.12033)
