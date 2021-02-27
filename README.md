@@ -447,6 +447,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2020-CG - Single-View 3D reconstruction: A Survey of deep learning methods. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0097849320301849)
 
++ 2021-Arxiv - Attention Models for Point Clouds in Deep Learning: A Survey. [[Paper]](https://arxiv.org/pdf/2102.10788.pdf)
+
 **Misc**
 
 + Learning to Generate 3D Training Data - [[Thesis]](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/163240/ydawei_1.pdf?sequence=1&isAllowed=y)
