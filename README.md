@@ -321,6 +321,10 @@ A curated list of resources for Deep Geometry Learning
 
 + 2021-Arxiv - Towards Generalising Neural Implicit Representations. [[Paper]](https://arxiv.org/pdf/2101.12690.pdf)
 
++ 2021- Extending StructureNet to Generate Physically Feasible 3D Shapes. [[Paper]](https://www.scitepress.org/Papers/2021/102567/102567.pdf)
+
++ 2021- How to represent part-whole hierarchies in a neural network. [[Paper]](https://arxiv.org/pdf/2102.12627.pdf)
+
 **Deformation-based methods**
 
 + 2016-TOG - Efficient and flexible deformation representation for data-driven surface modeling. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2908736)
