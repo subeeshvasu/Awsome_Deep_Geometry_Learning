@@ -195,6 +195,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2019-ICCV - Pixel2Mesh++: Multi-view 3D mesh generation via deformation. [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wen_Pixel2Mesh_Multi-View_3D_Mesh_Generation_via_Deformation_ICCV_2019_paper.pdf)
 
++ 2019-ICCVW - Learning to Reconstruct Symmetric Shapes using Planar Parameterization of 3D Surface. [[Paper]](https://openaccess.thecvf.com/content_ICCVW_2019/papers/GMDL/Jain_Learning_to_Reconstruct_Symmetric_Shapes_using_Planar_Parameterization_of_3D_ICCVW_2019_paper.pdf)
+
 + 2020-ECCV - DR-KFS: A Differentiable Visual Similarity Metric for 3D Shape Reconstruction. [[Paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660290.pdf)
 
 + 2020-ECCV - Weakly-supervised 3D Shape Completion in the Wild. [[Paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500273.pdf)
