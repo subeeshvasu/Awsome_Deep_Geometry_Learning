@@ -455,6 +455,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2021-Arxiv - Attention Models for Point Clouds in Deep Learning: A Survey. [[Paper]](https://arxiv.org/pdf/2102.10788.pdf)
 
++ 2021-MTA - A survey of recent 3D scene analysis and processing methods. [[Paper]](https://link.springer.com/article/10.1007/s11042-021-10615-7)
+
 **Misc**
 
 + Learning to Generate 3D Training Data - [[Thesis]](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/163240/ydawei_1.pdf?sequence=1&isAllowed=y)
