@@ -445,6 +445,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2021-Arxiv - EllipsoidNet: Ellipsoid Representation for Point Cloud Classification and Segmentation. [[Paper]](https://arxiv.org/pdf/2103.02517.pdf)
 
++ 2021- A deep neural network based shape unification to define a 3-Dimensional shape. [[Paper]](https://www.sciencedirect.com/science/article/pii/S221478532040848X)
+
 **Survey Papers**
 
 + 2019-Arxiv - Deep learning for 3D point clouds: A survey. [[Paper]](https://arxiv.org/abs/1912.12033)
@@ -460,6 +462,8 @@ A curated list of resources for Deep Geometry Learning
 + 2021-Arxiv - Attention Models for Point Clouds in Deep Learning: A Survey. [[Paper]](https://arxiv.org/pdf/2102.10788.pdf)
 
 + 2021-MTA - A survey of recent 3D scene analysis and processing methods. [[Paper]](https://link.springer.com/article/10.1007/s11042-021-10615-7)
+
++ 2021-Arxiv - A comprehensive survey on point cloud registration. [[Paper]](https://arxiv.org/pdf/2103.02690.pdf)
 
 **Misc**
 
