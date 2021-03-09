@@ -443,6 +443,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2021 - Mixture of Volumetric Primitives for Efficient Neural Rendering. [[Paper]](https://arxiv.org/pdf/2103.01954.pdf)
 
++ 2021-Arxiv - EllipsoidNet: Ellipsoid Representation for Point Cloud Classification and Segmentation. [[Paper]](https://arxiv.org/pdf/2103.02517.pdf)
+
 **Survey Papers**
 
 + 2019-Arxiv - Deep learning for 3D point clouds: A survey. [[Paper]](https://arxiv.org/abs/1912.12033)
