@@ -265,6 +265,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2021-Arxiv - Generative Models as Distributions of Functions. [[paper]](https://arxiv.org/pdf/2102.04776.pdf)
 
++ 2021-Arxiv - Shelf-Supervised Mesh Prediction in the Wild. [[Paper]](https://arxiv.org/pdf/2102.06195.pdf)
+
 **Structure/Part-based representation**
 
 + 2011-EG - Symmetry hierarchy of man-made objects. [[Paper]](https://kevinkaixu.net/papers/wang_eg11_symh.pdf)
