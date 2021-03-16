@@ -267,6 +267,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2021-Arxiv - Shelf-Supervised Mesh Prediction in the Wild. [[Paper]](https://arxiv.org/pdf/2102.06195.pdf)
 
++ 2021-Arxiv - Holistic 3D Scene Understanding from a Single Image with Implicit Representation. [[Paper]](https://arxiv.org/abs/2103.06422)
+
 **Structure/Part-based representation**
 
 + 2011-EG - Symmetry hierarchy of man-made objects. [[Paper]](https://kevinkaixu.net/papers/wang_eg11_symh.pdf)
@@ -447,7 +449,9 @@ A curated list of resources for Deep Geometry Learning
 
 + 2021-Arxiv - EllipsoidNet: Ellipsoid Representation for Point Cloud Classification and Segmentation. [[Paper]](https://arxiv.org/pdf/2103.02517.pdf)
 
-+ 2021- A deep neural network based shape unification to define a 3-Dimensional shape. [[Paper]](https://www.sciencedirect.com/science/article/pii/S221478532040848X)
++ 2021- A deep neural network based shape unification to define a 3-Dimensional shape. [[Paper]](https://www.sciencedirect.com/science/article/pii/S221478532040848X). [[Paper]]()
+
++ 2021-Arxiv - On the Complexity of the CSG Tree Extraction Problem. [[Paper]](https://arxiv.org/abs/2103.06139)
 
 **Survey Papers**
 
