@@ -169,6 +169,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2020-Arxiv - Hausdorff Point Convolution with Geometric Priors. [[Paper]](https://arxiv.org/pdf/2012.13118.pdf)
 
++ 2021-Arxiv - Cycle4Completion: Unpaired Point Cloud Completion using Cycle Transformation with Missing Region Coding. [[Paper]](https://arxiv.org/abs/2103.07838)
+
 ***Mesh-based***
 
 + 2016-ECCV - Deep learning 3D shape surfaces using geometry images. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-319-46466-4_14)
