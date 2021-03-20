@@ -63,7 +63,7 @@ A curated list of resources for Deep Geometry Learning
 
 + 2018-TOG - Adaptive O-CNN: A patch-based deep representation of 3D shapes. [[Paper]](https://arxiv.org/abs/1809.07917)
 
-+ 2020-Arxiv - Neural Sparse Voxel Fields. [[Paper]](https://arxiv.org/pdf/2007.11571.pdf)
++ 2020-NIPS - Neural Sparse Voxel Fields. [[Paper]](https://arxiv.org/pdf/2007.11571.pdf)[[Code]](https://github.com/facebookresearch/NSVF)
 
 + 2020-TPAMI - Generative VoxelNet: Learning Energy-Based Models for 3D Shape Synthesis and Analysis. [[Paper]](https://arxiv.org/abs/2012.13522)[[Code]](https://github.com/jianwen-xie/3DDescriptorNet)
 
