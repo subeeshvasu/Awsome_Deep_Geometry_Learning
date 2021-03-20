@@ -129,6 +129,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2020-CVPR - PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Shi_PV-RCNN_Point-Voxel_Feature_Set_Abstraction_for_3D_Object_Detection_CVPR_2020_paper.pdf)[[Code]](https://github.com/open-mmlab/OpenPCDet)
 
++ 2020-CVPR - Point Cloud Completion by Skip-attention Network with Hierarchical Folding. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Wen_Point_Cloud_Completion_by_Skip-Attention_Network_With_Hierarchical_Folding_CVPR_2020_paper.html)
+
 + 2020-ICRA - Dilated Point Convolutions: On the Receptive Field Size of Point Convolutions on 3D Point Clouds. [[Paper]](https://arxiv.org/pdf/1907.12046.pdf)
 
 + 2020-ECCV - SoftPoolNet: Shape Descriptor for Point Cloud Completion and Classification. [[Paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480069.pdf)
@@ -146,8 +148,6 @@ A curated list of resources for Deep Geometry Learning
 + 2020-ECCV - DeepFit: 3D Surface Fitting via Neural Network Weighted Least Squares. [[Paper]](https://arxiv.org/pdf/2003.10826.pdf)
 
 + 2020-ECCV - Multimodal Shape Completion via Conditional Generative Adversarial Networks. [[Paper]](https://arxiv.org/pdf/2003.07717.pdf)
-
-+ 2020-CVPR - Point Cloud Completion by Skip-attention Network with Hierarchical Folding. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Wen_Point_Cloud_Completion_by_Skip-Attention_Network_With_Hierarchical_Folding_CVPR_2020_paper.html)
 
 + 2020-ECCV - Detail Preserved Point Cloud Completion via Separated Feature Aggregation. [[Paper]](https://arxiv.org/pdf/2007.02374.pdf)[[Code]](https://github.com/XLechter/Detail-Preserved-Point-Cloud-Completion-via-SFA)
 
