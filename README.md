@@ -147,27 +147,27 @@ A curated list of resources for Deep Geometry Learning
 
 + 2020-ECCV - Multimodal Shape Completion via Conditional Generative Adversarial Networks. [[Paper]](https://arxiv.org/pdf/2003.07717.pdf)
 
-+ 2020-Arxiv - Point Cloud Completion by Skip-attention Network with Hierarchical Folding. [[Paper]](https://arxiv.org/abs/2005.03871)
++ 2020-CVPR - Point Cloud Completion by Skip-attention Network with Hierarchical Folding. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Wen_Point_Cloud_Completion_by_Skip-Attention_Network_With_Hierarchical_Folding_CVPR_2020_paper.html)
 
-+ 2020-Arxiv - Detail Preserved Point Cloud Completion via Separated Feature Aggregation. [[Paper]](https://arxiv.org/pdf/2007.02374.pdf)
++ 2020-ECCV - Detail Preserved Point Cloud Completion via Separated Feature Aggregation. [[Paper]](https://arxiv.org/pdf/2007.02374.pdf)[[Code]](https://github.com/XLechter/Detail-Preserved-Point-Cloud-Completion-via-SFA)
 
-+ 2020-Arxiv - Point Cloud Completion by Learning Shape Priors. [[Paper]](https://arxiv.org/pdf/2008.00394.pdf)
++ 2020-ECCV - Weakly-supervised 3D Shape Completion in the Wild. [[Papr]](https://arxiv.org/pdf/2008.09110.pdf)
 
-+ 2020-Arxiv - KAPLAN: A 3D Point Descriptor for Shape Completion. [[Paper]](https://arxiv.org/pdf/2008.00096.pdf)
++ 2020-3DV - KAPLAN: A 3D Point Descriptor for Shape Completion. [[Paper]](https://arxiv.org/pdf/2008.00096.pdf)
 
-+ 2020-Arxiv - Self-Supervised Learning of Point Clouds via Orientation Estimation. [[Paper]](https://arxiv.org/pdf/2008.00305.pdf)
++ 2020-3DV - Self-Supervised Learning of Point Clouds via Orientation Estimation. [[Paper]](https://arxiv.org/pdf/2008.00305.pdf)[[Code]](https://github.com/OmidPoursaeed/Self_supervised_Learning_Point_Clouds)
 
-+ 2020-Arxiv - CaSPR: Learning Canonical Spatiotemporal Point Cloud Representations. [Paper](https://arxiv.org/pdf/2008.02792.pdf)
++ 2020-NIPS - CaSPR: Learning Canonical Spatiotemporal Point Cloud Representations. [Paper](https://arxiv.org/pdf/2008.02792.pdf)[[Code]](https://github.com/davrempe/caspr)
 
-+ 2020-Arxiv - LPMNet: Latent Part Modification and Generation for 3D Point Clouds. [[Paper]](https://arxiv.org/pdf/2008.03560.pdf)
++ 2020-NIPS - Skeleton-bridged Point Completion: From Global Inference to Local Adjustment. [[Paper]](https://arxiv.org/pdf/2010.07428.pdf)
 
-+ 2020-Arxiv - Weakly-supervised 3D Shape Completion in the Wild. [[Papr]](https://arxiv.org/pdf/2008.09110.pdf)
++ 2020-Arxiv - Point Cloud Completion by Learning Shape Priors. [[Paper]](https://arxiv.org/pdf/2008.00394.pdf)[[Code]](https://github.com/xiaogangw/point-cloud-completion-shape-prior)
 
-+ 2020-Arxiv - CAD-PU: A Curvature-Adaptive Deep Learning Solution for Point Set Upsampling. [[Paper]](https://arxiv.org/pdf/2009.04660.pdf)
-
-+ 2020-Arxiv - Skeleton-bridged Point Completion: From Global Inference to Local Adjustment. [[Paper]](https://arxiv.org/pdf/2010.07428.pdf)
++ 2020-Arxiv - CAD-PU: A Curvature-Adaptive Deep Learning Solution for Point Set Upsampling. [[Paper]](https://arxiv.org/pdf/2009.04660.pdf)[[Code]](https://github.com/JiehongLin/CAD-PU)
 
 + 2020-Arxiv - Hausdorff Point Convolution with Geometric Priors. [[Paper]](https://arxiv.org/pdf/2012.13118.pdf)
+
++ 2021-CG - LPMNet: Latent Part Modification and Generation for 3D Point Clouds. [[Paper]](https://arxiv.org/pdf/2008.03560.pdf)
 
 + 2021-Arxiv - Cycle4Completion: Unpaired Point Cloud Completion using Cycle Transformation with Missing Region Coding. [[Paper]](https://arxiv.org/abs/2103.07838)
 
