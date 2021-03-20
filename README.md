@@ -473,6 +473,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2021-Arxiv - A comprehensive survey on point cloud registration. [[Paper]](https://arxiv.org/pdf/2103.02690.pdf)
 
++ 2021-Arxiv - 3D Semantic Scene Completion: a Survey. [[Paper]](https://arxiv.org/pdf/2103.07466.pdf)
+
 **Misc**
 
 + Learning to Generate 3D Training Data - [[Thesis]](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/163240/ydawei_1.pdf?sequence=1&isAllowed=y)
