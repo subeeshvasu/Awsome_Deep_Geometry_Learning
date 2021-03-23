@@ -447,7 +447,9 @@ A curated list of resources for Deep Geometry Learning
 
 + 2021 - Facilitated editing of generative design geometry in computer aided design user interface. [[Paper]](https://patentimages.storage.googleapis.com/dc/5f/93/dabb0864a9bfaa/US20200151953A1.pdf)
 
-+ 2021 - Mixture of Volumetric Primitives for Efficient Neural Rendering. [[Paper]](https://arxiv.org/pdf/2103.01954.pdf)
++ 2021-CVPR - Neural Parts: Learning Expressive 3D Shape Abstractions with Invertible Neural Networks. [[Paper]](https://arxiv.org/pdf/2103.10429.pdf)[[Code]](https://paschalidoud.github.io/neural_parts)
+
++ 2021-Arxiv - Mixture of Volumetric Primitives for Efficient Neural Rendering. [[Paper]](https://arxiv.org/pdf/2103.01954.pdf)
 
 + 2021-Arxiv - EllipsoidNet: Ellipsoid Representation for Point Cloud Classification and Segmentation. [[Paper]](https://arxiv.org/pdf/2103.02517.pdf)
 
