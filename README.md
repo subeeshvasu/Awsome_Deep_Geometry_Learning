@@ -512,7 +512,7 @@ A curated list of resources for Deep Geometry Learning
 
 **Merics**
 
-+ Earth Mover Distance (EMD) - [[Sparse]](https://github.com/daerduoCarey/PyTorchEMD)[[Dense]](https://github.com/Colin97/MSN-Point-Cloud-Completion)
++ Earth Mover Distance (EMD) - [[Sparse]](https://github.com/daerduoCarey/PyTorchEMD)[[Dense]](https://github.com/Colin97/MSN-Point-Cloud-Completion/tree/master/emd)
 + Chamfer Distance (CD) - [[Code]](https://github.com/facebookresearch/DeepSDF/blob/master/deep_sdf/metrics/chamfer.py)
 
 
