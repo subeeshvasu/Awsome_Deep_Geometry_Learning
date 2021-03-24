@@ -247,6 +247,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2020-NIPS - Implicit Neural Representations with Periodic Activation Functions. [[Paper]](https://arxiv.org/abs/2006.09661)[[Code]](https://github.com/vsitzmann/siren)
 
++ 2020-NIPS - Fourier features let networks learn high frequency functions in low dimensional domains. [[Paper]](https://arxiv.org/pdf/2006.10739.pdf)[[Code]](https://github.com/tancik/fourier-feature-networks)
+
 + 2020 - PatchNets: Patch-Based Generalizable Deep Implicit 3D Shape Representations. [[Paper]](http://gvv.mpi-inf.mpg.de/projects/PatchNets/data/paper.pdf)
 
 + 2020-Arxiv - SkeletonNet: A Topology-Preserving Solution for Learning Mesh Reconstruction of Object Surfaces from RGB Images. [[Paper]](https://arxiv.org/pdf/2008.05742.pdf)
