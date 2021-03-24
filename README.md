@@ -229,6 +229,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2020-CVPR - Dist: Rendering deep implicit signed distance function with differentiable sphere tracing. [[Paper]](http://b1ueber2y.me/projects/DIST-Renderer/dist-paper.pdf)[[Code]](https://github.com/B1ueber2y/DIST-Renderer)
 
++ 2020-CVPR - Implicit Functions in Feature Space for 3D Shape Reconstruction and Completion. [[Paper]](https://virtualhumans.mpi-inf.mpg.de/papers/chibane20ifnet/chibane20ifnet.pdf)[[Code]](https://github.com/jchibane/if-net)
+
 + 2020-Arxiv - Deep Local Shapes: Learning Local SDF Priors for Detailed 3D Reconstruction. [[Paper]](https://arxiv.org/abs/2003.10983)
 
 + 2020 - MeshSDF: Differentiable Iso-Surface Extraction. [[Paper]](https://arxiv.org/pdf/2006.03997.pdf)
