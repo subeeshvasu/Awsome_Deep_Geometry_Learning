@@ -510,6 +510,11 @@ A curated list of resources for Deep Geometry Learning
 
 + 2019-CVPR - PartNet: A Large-scale Benchmark for Fine-grained and Hierarchical Part-level 3D Object Understanding. [[Paper]](https://arxiv.org/abs/1812.02713)[[Dataset]](https://github.com/daerduoCarey/partnet_dataset)
 
+**Merics**
+
++ Earth Mover Distance (EMD) - [[Code]](https://github.com/daerduoCarey/PyTorchEMD)
++ Chamfer Distance (CD) - [[Code]](https://github.com/facebookresearch/DeepSDF/blob/master/deep_sdf/metrics/chamfer.py)
+
 
 **Other Resources**
 
