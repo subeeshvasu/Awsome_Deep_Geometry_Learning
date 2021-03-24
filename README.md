@@ -225,6 +225,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2019-Arxiv - Learning shape templates with structured implicit functions. [[Paper]](https://arxiv.org/abs/1904.06447)
 
++ 2020-CVPR -  Differentiable Volumetric Rendering: Learning Implicit 3D Representations without 3D Supervision. [[Paper]](http://www.cvlibs.net/publications/Niemeyer2020CVPR.pdf)[[Code]](https://github.com/autonomousvision/differentiable_volumetric_rendering)
+
 + 2020-Arxiv - Deep Local Shapes: Learning Local SDF Priors for Detailed 3D Reconstruction. [[Paper]](https://arxiv.org/abs/2003.10983)
 
 + 2020 - MeshSDF: Differentiable Iso-Surface Extraction. [[Paper]](https://arxiv.org/pdf/2006.03997.pdf)
