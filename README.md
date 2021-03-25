@@ -237,6 +237,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2020-CVPR - Pifuhd: Multi-level pixel-aligned implicit function for high-resolution 3d human digitization. [[Paper]](https://arxiv.org/abs/2004.00452)[[Code]](https://shunsukesaito.github.io/PIFuHD/)
 
++ 2020-CVPR - SDFDiff: Differentiable Rendering of Signed Distance Fields for 3D Shape Optimization. [[Paper]](https://arxiv.org/abs/1912.07109)[[Code]](https://github.com/YueJiang-nj/CVPR2020-SDFDiff)
+
 + 2020-ECCV - Deep Local Shapes: Learning Local SDF Priors for Detailed 3D Reconstruction. [[Paper]](https://arxiv.org/abs/2003.10983)
 
 + 2020-ECCV - Combining Implicit Function Learning and Parametric Models for 3D Human Reconstruction. [[Paper]](https://arxiv.org/pdf/2007.11432.pdf)[[Code]](https://github.com/bharat-b7/IPNet)
