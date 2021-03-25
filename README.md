@@ -249,6 +249,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2020-ECCV - Curriculum DeepSDF. [[Paper]](https://arxiv.org/abs/2003.08593)[[Code]](https://github.com/haidongz-usc/Curriculum-DeepSDF)
 
++ 2020-ECCV - Convolutional occupancy networks. [[Paper]](https://arxiv.org/abs/2003.04618)[[Code]](https://github.com/autonomousvision/convolutional_occupancy_networks)
+
 + 2020-NIPS - Neural Unsigned Distance Fields for Implicit Function Learning. [[Paper]](https://arxiv.org/pdf/2010.13938.pdf)
 
 + 2020-NIPS - Learning Implicit Functions for Topology-Varying Dense 3D Shape Correspondence. [[Paper]](https://arxiv.org/pdf/2010.12320.pdf)
