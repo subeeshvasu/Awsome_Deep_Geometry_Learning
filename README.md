@@ -315,6 +315,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2019-TOG - SDM-NET: Deep generative network for structured deformable mesh. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3355089.3356488) [[Code]](http://geometrylearning.com/sdm-net/)
 
++ 2020-AAAI - Learning part generation and assembly for structure-aware shape synthesis. [[Paper]](https://arxiv.org/abs/1906.06693)
+
 + 2020-CVPR - BSP-Net: Generating compact meshes via binary space partitioning. [[Paper]](https://arxiv.org/abs/1911.06971)[[Code]](https://github.com/czq142857/BSP-NET-original)
 
 + 2020-CVPR - PQ-NET: A Generative Part Seq2Seq Network for 3D Shapes. [[Paper]](https://arxiv.org/abs/1911.10949)[[Code]](https://github.com/ChrisWu1997/PQ-NET)
