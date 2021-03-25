@@ -17,8 +17,6 @@ A curated list of resources for Deep Geometry Learning
 
 + 2016-CVPR - Volumetric and multi-view cnns for object classification on 3d data. [[Paper]](https://arxiv.org/abs/1604.03265)
 
-+ 2020-CVPR - Autolabeling 3D Objects with Differentiable Rendering of SDF Shape Priors. [[Paper]](https://arxiv.org/abs/1911.11288)[[Code]](https://github.com/TRI-ML/sdflabel)
-
 **Voxel-based methods**
 
 ***Dense Voxels***
@@ -440,6 +438,8 @@ A curated list of resources for Deep Geometry Learning
 + 2020-CVPR - Deep Parametric Shape Predictions using Distance Fields. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Smirnov_Deep_Parametric_Shape_Predictions_Using_Distance_Fields_CVPR_2020_paper.pdf)[[Code]](https://github.com/dmsm/DeepParametricShapes)
 
 + 2020-CVPR - Learning Generative Models of Shape Handles. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Gadelha_Learning_Generative_Models_of_Shape_Handles_CVPR_2020_paper.pdf)
+
++ 2020-CVPR - Autolabeling 3D Objects with Differentiable Rendering of SDF Shape Priors. [[Paper]](https://arxiv.org/abs/1911.11288)[[Code]](https://github.com/TRI-ML/sdflabel)
 
 + 2020-ECCV - ParSeNet: A Parametric Surface Fitting Network for 3D Point Clouds. [[Paper]](https://arxiv.org/pdf/2003.12181.pdf)[[Code]](https://github.com/Hippogriff/parsenet-codebase)
 
