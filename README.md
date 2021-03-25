@@ -429,6 +429,10 @@ A curated list of resources for Deep Geometry Learning
 
 + 2020-CVPR - Learning Generative Models of Shape Handles. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Gadelha_Learning_Generative_Models_of_Shape_Handles_CVPR_2020_paper.pdf)
 
++ 2020-CVPR - Local implicit grid representations for 3d scenes. [[Paper]](https://arxiv.org/abs/2003.08981)[[Code]](https://github.com/tensorflow/graphics/tree/master/tensorflow_graphics/projects/local_implicit_grid)
+
++ 2020-CVPR - Pifuhd: Multi-level pixel-aligned implicit function for high-resolution 3d human digitization. [[Paper]](https://arxiv.org/abs/2004.00452)[[Code]](https://shunsukesaito.github.io/PIFuHD/)
+
 + 2020-ECCV - ParSeNet: A Parametric Surface Fitting Network for 3D Point Clouds. [[Paper]](https://arxiv.org/pdf/2003.12181.pdf)[[Code]](https://github.com/Hippogriff/parsenet-codebase)
 
 + 2020-ECCV - Label-Efficient Learning on Point Clouds using Approximate Convex Decompositions. [[Paper]](https://arxiv.org/abs/2003.13834)[[Code]](https://github.com/matheusgadelha/PointCloudLearningACD)
