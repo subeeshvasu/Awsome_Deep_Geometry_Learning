@@ -235,9 +235,7 @@ A curated list of resources for Deep Geometry Learning
 
 + 2020-CVPR - Pifuhd: Multi-level pixel-aligned implicit function for high-resolution 3d human digitization. [[Paper]](https://arxiv.org/abs/2004.00452)[[Code]](https://shunsukesaito.github.io/PIFuHD/)
 
-+ 2020-Arxiv - Deep Local Shapes: Learning Local SDF Priors for Detailed 3D Reconstruction. [[Paper]](https://arxiv.org/abs/2003.10983)
-
-+ 2020 - MeshSDF: Differentiable Iso-Surface Extraction. [[Paper]](https://arxiv.org/pdf/2006.03997.pdf)
++ 2020-ECCV - Deep Local Shapes: Learning Local SDF Priors for Detailed 3D Reconstruction. [[Paper]](https://arxiv.org/abs/2003.10983)
 
 + 2020-ECCV - Combining Implicit Function Learning and Parametric Models for 3D Human Reconstruction. [[Paper]](https://arxiv.org/pdf/2007.11432.pdf)[[Code]](https://github.com/bharat-b7/IPNet)
 
@@ -258,6 +256,8 @@ A curated list of resources for Deep Geometry Learning
 + 2020-NIPS - Implicit Neural Representations with Periodic Activation Functions. [[Paper]](https://arxiv.org/abs/2006.09661)[[Code]](https://github.com/vsitzmann/siren)
 
 + 2020-NIPS - Fourier features let networks learn high frequency functions in low dimensional domains. [[Paper]](https://arxiv.org/pdf/2006.10739.pdf)[[Code]](https://github.com/tancik/fourier-feature-networks)
+
++ 2020-NIPS - MeshSDF: Differentiable Iso-Surface Extraction. [[Paper]](https://arxiv.org/pdf/2006.03997.pdf)[[Code]](https://github.com/cvlab-epfl/MeshSDF)
 
 + 2020 - PatchNets: Patch-Based Generalizable Deep Implicit 3D Shape Representations. [[Paper]](http://gvv.mpi-inf.mpg.de/projects/PatchNets/data/paper.pdf)
 
