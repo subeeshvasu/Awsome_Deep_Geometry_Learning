@@ -231,6 +231,10 @@ A curated list of resources for Deep Geometry Learning
 
 + 2020-CVPR - Implicit Functions in Feature Space for 3D Shape Reconstruction and Completion. [[Paper]](https://virtualhumans.mpi-inf.mpg.de/papers/chibane20ifnet/chibane20ifnet.pdf)[[Code]](https://github.com/jchibane/if-net)
 
++ 2020-CVPR - Local implicit grid representations for 3d scenes. [[Paper]](https://arxiv.org/abs/2003.08981)[[Code]](https://github.com/tensorflow/graphics/tree/master/tensorflow_graphics/projects/local_implicit_grid)
+
++ 2020-CVPR - Pifuhd: Multi-level pixel-aligned implicit function for high-resolution 3d human digitization. [[Paper]](https://arxiv.org/abs/2004.00452)[[Code]](https://shunsukesaito.github.io/PIFuHD/)
+
 + 2020-Arxiv - Deep Local Shapes: Learning Local SDF Priors for Detailed 3D Reconstruction. [[Paper]](https://arxiv.org/abs/2003.10983)
 
 + 2020 - MeshSDF: Differentiable Iso-Surface Extraction. [[Paper]](https://arxiv.org/pdf/2006.03997.pdf)
@@ -428,10 +432,6 @@ A curated list of resources for Deep Geometry Learning
 + 2020-CVPR - Deep Parametric Shape Predictions using Distance Fields. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Smirnov_Deep_Parametric_Shape_Predictions_Using_Distance_Fields_CVPR_2020_paper.pdf)[[Code]](https://github.com/dmsm/DeepParametricShapes)
 
 + 2020-CVPR - Learning Generative Models of Shape Handles. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Gadelha_Learning_Generative_Models_of_Shape_Handles_CVPR_2020_paper.pdf)
-
-+ 2020-CVPR - Local implicit grid representations for 3d scenes. [[Paper]](https://arxiv.org/abs/2003.08981)[[Code]](https://github.com/tensorflow/graphics/tree/master/tensorflow_graphics/projects/local_implicit_grid)
-
-+ 2020-CVPR - Pifuhd: Multi-level pixel-aligned implicit function for high-resolution 3d human digitization. [[Paper]](https://arxiv.org/abs/2004.00452)[[Code]](https://shunsukesaito.github.io/PIFuHD/)
 
 + 2020-ECCV - ParSeNet: A Parametric Surface Fitting Network for 3D Point Clouds. [[Paper]](https://arxiv.org/pdf/2003.12181.pdf)[[Code]](https://github.com/Hippogriff/parsenet-codebase)
 
