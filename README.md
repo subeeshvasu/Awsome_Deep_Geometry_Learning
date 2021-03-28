@@ -516,6 +516,8 @@ A curated list of resources for Deep Geometry Learning
 
 **Datasets**
 
++ 2019-ICCV - ShapeGlot: Learning Language for Shape Differentiation. [[Paper]](https://arxiv.org/pdf/1905.02925.pdf)[[Dataset]](http://ai.stanford.edu/~optas/shapeglot/)
+
 ***Part Labels***
 
 + 2009-TOG - A Benchmark for 3D Mesh Segmentation. [[Paper]](https://segeval.cs.princeton.edu/public/paper.pdf)[[Dataset]](https://segeval.cs.princeton.edu/)
