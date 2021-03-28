@@ -289,6 +289,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2021-Arxiv - Holistic 3D Scene Understanding from a Single Image with Implicit Representation. [[Paper]](https://arxiv.org/abs/2103.06422)
 
++ 2021-Arxiv - Deep Implicit Moving Least-Squares Functions for 3D Reconstruction. [[Paper]](https://arxiv.org/pdf/2103.12266.pdf)
+
 **Structure/Part-based representation**
 
 + 2011-EG - Symmetry hierarchy of man-made objects. [[Paper]](https://kevinkaixu.net/papers/wang_eg11_symh.pdf)
@@ -479,6 +481,10 @@ A curated list of resources for Deep Geometry Learning
 
 + 2021-Arxiv - On the Complexity of the CSG Tree Extraction Problem. [[Paper]](https://arxiv.org/abs/2103.06139)
 
++ 2021-Arxiv - Mixture of Volumetric Primitives for Efficient Neural Rendering. [[Paper]](https://arxiv.org/pdf/2103.01954.pdf)
+
+
+
 **Survey Papers**
 
 + 2019-Arxiv - Deep learning for 3D point clouds: A survey. [[Paper]](https://arxiv.org/abs/1912.12033)
@@ -498,6 +504,8 @@ A curated list of resources for Deep Geometry Learning
 + 2021-Arxiv - A comprehensive survey on point cloud registration. [[Paper]](https://arxiv.org/pdf/2103.02690.pdf)
 
 + 2021-Arxiv - 3D Semantic Scene Completion: a Survey. [[Paper]](https://arxiv.org/pdf/2103.07466.pdf)
+
++ 2021-Arxiv - A Revisit of Shape Editing Techniques: from the Geometric to the Neural Viewpoint. [[Paper]](https://arxiv.org/pdf/2103.01694.pdf)
 
 **Misc**
 
