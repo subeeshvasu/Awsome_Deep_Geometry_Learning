@@ -203,6 +203,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2020-ECCV - Weakly-supervised 3D Shape Completion in the Wild. [[Paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500273.pdf)
 
++ 2021-Arxiv - Learning Generative Models of Textured 3D Meshes from Real-World Images. [[Paper]](https://arxiv.org/pdf/2103.15627.pdf)
+
 **Implicit representation**
 
 + 2019-CVPR - Learning Implicit Fields for Generative Shape Modeling. [[Paper]](https://arxiv.org/abs/1812.02822) [[Code]](https://github.com/czq142857/implicit-decoder)
