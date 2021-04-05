@@ -411,6 +411,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2018-3DV - Parsing Geometry Using Structure-Aware Shape Templates. [[Paper]](https://arxiv.org/pdf/1808.01337.pdf)[[Code]](https://github.com/vigansub/StructureAwareShapeTemplates)
 
++ 2018-ACCV - Text2Shape: Generating Shapes from Natural Language by Learning Joint Embeddings. [[Paper]](https://arxiv.org/abs/1803.08495)[[Code]](https://github.com/kchen92/text2shape/)
+
 + 2019-CVPR - Supervised fitting of geometric primitives to 3d point clouds. [[Paper]](https://arxiv.org/abs/1811.08988)[[Code]](https://github.com/lingxiaoli94/SPFN)
 
 + 2019-CVPR - Superquadrics Revisited: Learning 3D Shape Parsing Beyond Cuboids. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Paschalidou_Superquadrics_Revisited_Learning_3D_Shape_Parsing_Beyond_Cuboids_CVPR_2019_paper.html)[[Code]](https://github.com/paschalidoud/superquadric_parsing)
