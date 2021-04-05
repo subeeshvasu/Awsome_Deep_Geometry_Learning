@@ -536,6 +536,10 @@ A curated list of resources for Deep Geometry Learning
 
 + 2019-CVPR - PartNet: A Large-scale Benchmark for Fine-grained and Hierarchical Part-level 3D Object Understanding. [[Paper]](https://arxiv.org/abs/1812.02713)[[Dataset]](https://github.com/daerduoCarey/partnet_dataset)
 
+***Classification Labels***
+
++ 2015-CVPR - ModelNet, 3D ShapeNets: A Deep Representation for Volumetric Shapes. [[Paper]](http://3dvision.princeton.edu/projects/2014/3DShapeNets/paper.pdf)[[Dataset]](http://modelnet.cs.princeton.edu/#)
+
 **Merics**
 
 + Earth Mover Distance (EMD) - [[Sparse]](https://github.com/daerduoCarey/PyTorchEMD)[[Dense]](https://github.com/Colin97/MSN-Point-Cloud-Completion/tree/master/emd)
