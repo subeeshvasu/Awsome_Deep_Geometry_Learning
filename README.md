@@ -540,6 +540,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2017-CVPR - Mesh labels on ShapeNet Data - 3D Shape Segmentation with Projective Convolutional Networks. [[Paper]](https://people.cs.umass.edu/~kalo/papers/shapepfcn/ShapePFCN.pdf)[[Dataset]](https://people.cs.umass.edu/~kalo/papers/shapepfcn/index.html)[[Code]](https://github.com/kalov/ShapePFCN)
 
++ 2018-AIGGRAPH-Asia - Learning to Group and Label Fine-Grained Shape Components. [[Paper]](https://arxiv.org/abs/1809.05050)[[Code & Dataset]](https://kevinkaixu.net/projects/fglabel.html)
+
 + 2019-CVPR - PartNet: A Large-scale Benchmark for Fine-grained and Hierarchical Part-level 3D Object Understanding. [[Paper]](https://arxiv.org/abs/1812.02713)[[Dataset]](https://github.com/daerduoCarey/partnet_dataset)
 
 + 2019-CVPR - PartNet: A Recursive Part Decomposition Network for Fine-grained and Hierarchical Shape Segmentation. [[Paper]](https://arxiv.org/abs/1903.00709)[[Dataset]](https://github.com/kevin-kaixu/partnet-symh)[[Code]](https://github.com/FENGGENYU/PartNet)
