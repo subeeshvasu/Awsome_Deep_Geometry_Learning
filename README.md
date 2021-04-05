@@ -522,6 +522,8 @@ A curated list of resources for Deep Geometry Learning
 
 ***Part Labels***
 
++ 2009-SMI - A framework for the objective evaluation of segmentation algorithms using a ground-truth of human segmented 3D-models. [[Paper]](https://ieeexplore.ieee.org/document/5170161)[[Dataset]](http://193.48.251.101:8080/3dsegbenchmark/index.html)
+
 + 2009-TOG - A Benchmark for 3D Mesh Segmentation. [[Paper]](https://segeval.cs.princeton.edu/public/paper.pdf)[[Dataset]](https://segeval.cs.princeton.edu/)
 
 + 2010-TOG - Learning 3D Mesh Segmentation and Labeling. [[Paper]](https://people.cs.umass.edu/~kalo/papers/LabelMeshes/LabelMeshes.pdf)[[Dataset]](https://people.cs.umass.edu/~kalo/papers/LabelMeshes/)
