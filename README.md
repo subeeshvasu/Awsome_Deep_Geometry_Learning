@@ -534,6 +534,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2016-TOG - Point labels on ShapeNet Data - A Scalable Active Framework for Region Annotation in 3D Shape Collections. [[Paper]](http://cs.stanford.edu/~ericyi/papers/part_annotation_16.pdf)[[Dataset]](https://cs.stanford.edu/~ericyi/project_page/part_annotation/)
 
++ 2017-SIGGRAPH - Learning Hierarchical Shape Segmentation and Labeling from Online Repositories. [[Paper]](https://arxiv.org/abs/1705.01661)[[Dataset]](https://cs.stanford.edu/~ericyi/project_page/hier_seg/index.html)
+
 + 2017-CVPR - Mesh labels on ShapeNet Data - 3D Shape Segmentation with Projective Convolutional Networks. [[Paper]](https://people.cs.umass.edu/~kalo/papers/shapepfcn/ShapePFCN.pdf)[[Dataset]](https://people.cs.umass.edu/~kalo/papers/shapepfcn/index.html)[[Code]](https://github.com/kalov/ShapePFCN)
 
 + 2019-CVPR - PartNet: A Large-scale Benchmark for Fine-grained and Hierarchical Part-level 3D Object Understanding. [[Paper]](https://arxiv.org/abs/1812.02713)[[Dataset]](https://github.com/daerduoCarey/partnet_dataset)
