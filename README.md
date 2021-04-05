@@ -528,6 +528,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2012-TOG - Active Co-Analysis of a Set of Shapes. [[Paper]](http://irc.cs.sdu.edu.cn/~yunhai/public_html/ssl/ssl.pdf)[[Dataset]](http://irc.cs.sdu.edu.cn/~yunhai/public_html/ssl/ssd.htm)[[Project Page]](http://irc.cs.sdu.edu.cn/~yunhai/public_html/ssl/ssl.htm)
 
++ 2013-TOG - Projective Analysis for 3D Shape Segmentation. [[Paper]](http://irc.cs.sdu.edu.cn/~yunhai/public_html/psa.html)[[Dataset]](http://irc.cs.sdu.edu.cn/~yunhai/public_html/psa/psad.html)
+
 + 2016-TOG - Point labels on ShapeNet Data - A Scalable Active Framework for Region Annotation in 3D Shape Collections. [[Paper]](http://cs.stanford.edu/~ericyi/papers/part_annotation_16.pdf)[[Dataset]](https://cs.stanford.edu/~ericyi/project_page/part_annotation/)
 
 + 2017-CVPR - Mesh labels on ShapeNet Data - 3D Shape Segmentation with Projective Convolutional Networks. [[Paper]](https://people.cs.umass.edu/~kalo/papers/shapepfcn/ShapePFCN.pdf)[[Dataset]](https://people.cs.umass.edu/~kalo/papers/shapepfcn/index.html)[[Code]](https://github.com/kalov/ShapePFCN)
