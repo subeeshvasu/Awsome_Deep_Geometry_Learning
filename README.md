@@ -538,6 +538,8 @@ A curated list of resources for Deep Geometry Learning
 
 ***Classification Labels***
 
++ 2004 - The princeton shape benchmark. [[Paper]](https://shape.cs.princeton.edu/benchmark/benchmark.pdf)[[Dataset]](https://shape.cs.princeton.edu/benchmark/)
+
 + 2015-CVPR - ModelNet, 3D ShapeNets: A Deep Representation for Volumetric Shapes. [[Paper]](http://3dvision.princeton.edu/projects/2014/3DShapeNets/paper.pdf)[[Dataset]](http://modelnet.cs.princeton.edu/#)
 
 **Merics**
