@@ -293,6 +293,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2021-Arxiv - Deep Implicit Moving Least-Squares Functions for 3D Reconstruction. [[Paper]](https://arxiv.org/pdf/2103.12266.pdf)
 
++ 2021-Arxiv - Sketch2Mesh: Reconstructing and Editing 3D Shapes from Sketches. [[Paper]](https://arxiv.org/pdf/2104.00482.pdf)
+
 **Structure/Part-based representation**
 
 + 2011-EG - Symmetry hierarchy of man-made objects. [[Paper]](https://kevinkaixu.net/papers/wang_eg11_symh.pdf)
