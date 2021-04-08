@@ -165,6 +165,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2020-Arxiv - Hausdorff Point Convolution with Geometric Priors. [[Paper]](https://arxiv.org/pdf/2012.13118.pdf)
 
++ 2021-CVPR - PAConv: Position Adaptive Convolution with Dynamic Kernel Assembling on Point Clouds. [[Paper]](https://arxiv.org/abs/2103.14635)[[Code]](https://github.com/CVMI-Lab/PAConv)
+
 + 2021-CG - LPMNet: Latent Part Modification and Generation for 3D Point Clouds. [[Paper]](https://arxiv.org/pdf/2008.03560.pdf)
 
 + 2021-Arxiv - Cycle4Completion: Unpaired Point Cloud Completion using Cycle Transformation with Missing Region Coding. [[Paper]](https://arxiv.org/abs/2103.07838)
