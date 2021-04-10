@@ -387,6 +387,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2020-ECCV - NASA Neural Articulated Shape Approximation. [[Paper]](https://arxiv.org/pdf/1912.03207.pdf)
 
++ 2021-Arxiv - NPMs: Neural Parametric Models for 3D Deformable Shapes. [[Paper]](https://arxiv.org/pdf/2104.00702.pdf)
+
 **Primitve-based methods**
 
 + 1971-CSSC - Visual perception by computer.
