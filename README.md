@@ -169,6 +169,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2021-CG - LPMNet: Latent Part Modification and Generation for 3D Point Clouds. [[Paper]](https://arxiv.org/pdf/2008.03560.pdf)
 
++ 2021-CAD - Part-based data-driven 3D shape interpolation. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0010448521000385)
+
 + 2021-Arxiv - Cycle4Completion: Unpaired Point Cloud Completion using Cycle Transformation with Missing Region Coding. [[Paper]](https://arxiv.org/abs/2103.07838)
 
 ***Mesh-based***
@@ -354,6 +356,8 @@ A curated list of resources for Deep Geometry Learning
 + 2020-ECCV - Learning 3D Part Assembly from a Single Image. [[Paper]](https://arxiv.org/abs/2003.09754)[[Code]](https://github.com/AntheaLi/3DPartAssembly)
 
 + 2020-Arxiv - TM-NET: Deep Generative Networks for Textured Meshes. [[Paper]](https://arxiv.org/pdf/2010.06217.pdf)
+
++ 2021-CAD - Part-based data-driven 3D shape interpolation. [[Paper]](https://arxiv.org/pdf/2104.01754.pdf)
 
 + 2021-Arxiv - Towards Generalising Neural Implicit Representations. [[Paper]](https://arxiv.org/pdf/2101.12690.pdf)
 
