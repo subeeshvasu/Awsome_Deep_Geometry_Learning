@@ -499,6 +499,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2021-Arxiv - Mixture of Volumetric Primitives for Efficient Neural Rendering. [[Paper]](https://arxiv.org/pdf/2103.01954.pdf)
 
++ 2021-Arxiv - ShapeMOD: Macro Operation Discovery for 3D Shape Programs. [[Paper]](https://arxiv.org/pdf/2104.06392.pdf)
+
 
 
 **Survey Papers**
