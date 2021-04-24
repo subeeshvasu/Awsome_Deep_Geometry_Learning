@@ -305,6 +305,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2021-Arxiv - Deep Implicit Moving Least-Squares Functions for 3D Reconstruction. [[Paper]](https://arxiv.org/pdf/2103.12266.pdf)
 
++ 2021-Arxiv - Signed Distance Function Computation from an Implicit Surface. [[Paper]](https://arxiv.org/pdf/2104.08057.pdf)
+
 **Structure/Part-based representation**
 
 + 2011-EG - Symmetry hierarchy of man-made objects. [[Paper]](https://kevinkaixu.net/papers/wang_eg11_symh.pdf)
@@ -364,6 +366,8 @@ A curated list of resources for Deep Geometry Learning
 + 2020-Arxiv - TM-NET: Deep Generative Networks for Textured Meshes. [[Paper]](https://arxiv.org/pdf/2010.06217.pdf)
 
 + 2021-CAD - Part-based data-driven 3D shape interpolation. [[Paper]](https://arxiv.org/pdf/2104.01754.pdf)
+
++ 2021-CVPR - Physically-aware Generative Network for 3D Shape Modeling. [[Paper]](http://www.lix.polytechnique.fr/~maks/papers/CVPR21_Phys_Gen_Networks.pdf)
 
 + 2021-Arxiv - Towards Generalising Neural Implicit Representations. [[Paper]](https://arxiv.org/pdf/2101.12690.pdf)
 
@@ -506,6 +510,8 @@ A curated list of resources for Deep Geometry Learning
 + 2021-Arxiv - Mixture of Volumetric Primitives for Efficient Neural Rendering. [[Paper]](https://arxiv.org/pdf/2103.01954.pdf)
 
 + 2021-Arxiv - ShapeMOD: Macro Operation Discovery for 3D Shape Programs. [[Paper]](https://arxiv.org/pdf/2104.06392.pdf)
+
++ 2021-Arxiv - Engineering Sketch Generation for Computer-Aided Design. [[Paper]](https://arxiv.org/pdf/2104.09621.pdf)
 
 
 
