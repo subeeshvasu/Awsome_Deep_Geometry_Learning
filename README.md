@@ -379,6 +379,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2021-Arxiv - Decomposing 3D Scenes into Objects via Unsupervised Volume Segmentation. [[Paper]](https://arxiv.org/pdf/2104.01148.pdf)
 
++ 2021-Arxiv - Spectral Unions of Partial Deformable 3D Shapes. [[Paper]](https://arxiv.org/pdf/2104.00514.pdf)
+
 **Deformation-based methods**
 
 + 2016-TOG - Efficient and flexible deformation representation for data-driven surface modeling. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2908736)
