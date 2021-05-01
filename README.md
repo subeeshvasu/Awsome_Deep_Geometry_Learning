@@ -171,6 +171,10 @@ A curated list of resources for Deep Geometry Learning
 
 + 2021-CAD - Part-based data-driven 3D shape interpolation. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0010448521000385)
 
++ 2021-TIP - SGAN: Hierarchical Graph Learning for Point Cloud Generation. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9409723)
+
++ 2021-CVPR - Unsupervised 3D Shape Completion through GAN Inversion. [[Paper]](https://arxiv.org/pdf/2104.13366.pdf)
+
 + 2021-Arxiv - Cycle4Completion: Unpaired Point Cloud Completion using Cycle Transformation with Missing Region Coding. [[Paper]](https://arxiv.org/abs/2103.07838)
 
 + 2021-Arxiv - PAConv: Position Adaptive Convolution with Dynamic Kernel Assembling on Point Clouds. [[Paper]](https://arxiv.org/pdf/2103.14635.pdf)
@@ -288,6 +292,8 @@ A curated list of resources for Deep Geometry Learning
 + 2020-Arxiv - Deep Implicit Templates for 3D Shape Representation. [[Paper]](https://arxiv.org/pdf/2011.14565.pdf)
 
 + 2020-Arxiv - NeuralFusion: Online Depth Fusion in Latent Space. [[Paper]](https://arxiv.org/pdf/2011.14791.pdf)
+
+2021-CVPR - Iso-Points: Optimizing Neural Implicit Surfaces with Hybrid Representations. [[Paper]](https://arxiv.org/pdf/2012.06434.pdf)
 
 + 2021-Arxiv - Neural Geometric Level of Detail: Real-time Rendering with Implicit 3D Shapes. [[Paper]](https://arxiv.org/pdf/2101.10994.pdf)[[Code]](https://github.com/nv-tlabs/nglod)
 
