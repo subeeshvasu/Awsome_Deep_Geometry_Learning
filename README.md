@@ -523,6 +523,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2021-Arxiv - Engineering Sketch Generation for Computer-Aided Design. [[Paper]](https://arxiv.org/pdf/2104.09621.pdf)
 
++ 2021-Arxiv - Cuboids Revisited: Learning Robust 3D Shape Fitting to Single RGB Images. [[Paper]](https://arxiv.org/pdf/2105.02047.pdf)
+
 
 
 **Survey Papers**
