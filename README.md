@@ -295,6 +295,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2021-CVPR - Deep Implicit Moving Least-Squares Functions for 3D Reconstruction. [[Paper]](https://arxiv.org/pdf/2103.12266.pdf)
 
++ 2021-CVPR - 3D Shape Generation With Grid-Based Implicit Functions.
+
 + 2021-Arxiv - Neural Geometric Level of Detail: Real-time Rendering with Implicit 3D Shapes. [[Paper]](https://arxiv.org/pdf/2101.10994.pdf)[[Code]](https://github.com/nv-tlabs/nglod)
 
 + 2021-Arxiv - Secrets of 3D Implicit Object Shape Reconstruction in the Wild. [[Paper]](https://arxiv.org/pdf/2101.06860.pdf)
