@@ -237,8 +237,6 @@ A curated list of resources for Deep Geometry Learning
 
 + 2019-Arxiv - Deep structured implicit functions. [[Paper]](https://arxiv.org/abs/1912.06126)
 
-+ 2019-Arxiv - Learning shape templates with structured implicit functions. [[Paper]](https://arxiv.org/abs/1904.06447)
-
 + 2020-CVPR -  Differentiable Volumetric Rendering: Learning Implicit 3D Representations without 3D Supervision. [[Paper]](http://www.cvlibs.net/publications/Niemeyer2020CVPR.pdf)[[Code]](https://github.com/autonomousvision/differentiable_volumetric_rendering)
 
 + 2020-CVPR - Dist: Rendering deep implicit signed distance function with differentiable sphere tracing. [[Paper]](http://b1ueber2y.me/projects/DIST-Renderer/dist-paper.pdf)[[Code]](https://github.com/B1ueber2y/DIST-Renderer)
@@ -288,8 +286,6 @@ A curated list of resources for Deep Geometry Learning
 + 2020-Arxiv - Learning Occupancy Function from Point Clouds for Surface Reconstruction. [[Paper]](https://arxiv.org/pdf/2010.11378.pdf)
 
 + 2020-Arxiv - DUDE: Deep Unsigned Distance Embeddings for Hi-Fidelity Representation of Complex 3D Surfaces. [[Paper]](https://arxiv.org/abs/2011.02570)
-
-+ 2020-Arxiv - Deep Implicit Templates for 3D Shape Representation. [[Paper]](https://arxiv.org/pdf/2011.14565.pdf)
 
 + 2020-Arxiv - NeuralFusion: Online Depth Fusion in Latent Space. [[Paper]](https://arxiv.org/pdf/2011.14791.pdf)
 
