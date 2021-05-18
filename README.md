@@ -293,7 +293,7 @@ A curated list of resources for Deep Geometry Learning
 
 + 2020-Arxiv - NeuralFusion: Online Depth Fusion in Latent Space. [[Paper]](https://arxiv.org/pdf/2011.14791.pdf)
 
-2021-CVPR - Iso-Points: Optimizing Neural Implicit Surfaces with Hybrid Representations. [[Paper]](https://arxiv.org/pdf/2012.06434.pdf)
++ 2021-CVPR - Iso-Points: Optimizing Neural Implicit Surfaces with Hybrid Representations. [[Paper]](https://arxiv.org/pdf/2012.06434.pdf)
 
 + 2021-Arxiv - Neural Geometric Level of Detail: Real-time Rendering with Implicit 3D Shapes. [[Paper]](https://arxiv.org/pdf/2101.10994.pdf)[[Code]](https://github.com/nv-tlabs/nglod)
 
