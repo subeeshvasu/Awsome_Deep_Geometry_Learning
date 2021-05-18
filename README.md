@@ -293,6 +293,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2021-CVPR - Deep Implicit Templates for 3D Shape Representation. [[Paper]](https://arxiv.org/pdf/2011.14565.pdf)
 
++ 2021-CVPR - Deep Implicit Moving Least-Squares Functions for 3D Reconstruction. [[Paper]](https://arxiv.org/pdf/2103.12266.pdf)
+
 + 2021-Arxiv - Neural Geometric Level of Detail: Real-time Rendering with Implicit 3D Shapes. [[Paper]](https://arxiv.org/pdf/2101.10994.pdf)[[Code]](https://github.com/nv-tlabs/nglod)
 
 + 2021-Arxiv - Secrets of 3D Implicit Object Shape Reconstruction in the Wild. [[Paper]](https://arxiv.org/pdf/2101.06860.pdf)
@@ -303,13 +305,9 @@ A curated list of resources for Deep Geometry Learning
 
 + 2021-Arxiv - Holistic 3D Scene Understanding from a Single Image with Implicit Representation. [[Paper]](https://arxiv.org/abs/2103.06422)
 
-+ 2021-Arxiv - Deep Implicit Moving Least-Squares Functions for 3D Reconstruction. [[Paper]](https://arxiv.org/pdf/2103.12266.pdf)
-
 + 2021-Arxiv - Sketch2Mesh: Reconstructing and Editing 3D Shapes from Sketches. [[Paper]](https://arxiv.org/pdf/2104.00482.pdf)
 
 + 2021-Arxiv - A-SDF: Learning Disentangled Signed Distance Functions for Articulated Shape Representation. [[Paper]](https://arxiv.org/pdf/2104.07645.pdf)[[Code]](https://jitengmu.github.io/A-SDF/)
-
-+ 2021-Arxiv - Deep Implicit Moving Least-Squares Functions for 3D Reconstruction. [[Paper]](https://arxiv.org/pdf/2103.12266.pdf)
 
 + 2021-Arxiv - Signed Distance Function Computation from an Implicit Surface. [[Paper]](https://arxiv.org/pdf/2104.08057.pdf)
 
