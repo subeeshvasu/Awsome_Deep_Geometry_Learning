@@ -523,6 +523,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2021-Arxiv - Cuboids Revisited: Learning Robust 3D Shape Fitting to Single RGB Images. [[Paper]](https://arxiv.org/pdf/2105.02047.pdf)
 
++ 2021-Arxiv - Fit4CAD: A point cloud benchmark for fitting simple geometric primitives in CAD models. [[Paper]](https://arxiv.org/pdf/2105.06858.pdf)
+
 
 
 **Survey Papers**
