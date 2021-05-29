@@ -527,7 +527,7 @@ A curated list of resources for Deep Geometry Learning
 
 + 2021-Arxiv - DeepCAD: A Deep Generative Network for Computer-Aided Design Models. [[Paper]](https://arxiv.org/pdf/2105.09492.pdf)
 
-
++ 2021-Arxiv - HPNet: Deep Primitive Segmentation Using Hybrid Representations. [[Paper]](https://arxiv.org/pdf/2105.10620.pdf)
 
 **Survey Papers**
 
