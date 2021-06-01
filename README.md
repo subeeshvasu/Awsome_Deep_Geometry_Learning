@@ -217,6 +217,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2021-Arxiv - Learning Generative Models of Textured 3D Meshes from Real-World Images. [[Paper]](https://arxiv.org/pdf/2103.15627.pdf)
 
++ 2021-Arxiv - MeshCNN Fundamentals: Geometric Learning through a Reconstructable Representation. [[Paper]](https://arxiv.org/pdf/2105.13277.pdf)
+
 **Implicit representation**
 
 + 2019-CVPR - Learning Implicit Fields for Generative Shape Modeling. [[Paper]](https://arxiv.org/abs/1812.02822) [[Code]](https://github.com/czq142857/implicit-decoder)
