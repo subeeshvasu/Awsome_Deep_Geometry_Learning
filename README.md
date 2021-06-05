@@ -531,6 +531,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2021-Arxiv - HPNet: Deep Primitive Segmentation Using Hybrid Representations. [[Paper]](https://arxiv.org/pdf/2105.10620.pdf)
 
++ 2021-Arxiv - Boundary-Sampled Halfspaces: A New Representation for Constructive Solid Modeling. [[Paper]](https://www.researchgate.net/profile/Xingyi_Du3/publication/351787830_Boundary-Sampled_Halfspaces_A_New_Representation_for_Constructive_Solid_Modeling/links/60aadb7092851ca9dcddaf64/Boundary-Sampled-Halfspaces-A-New-Representation-for-Constructive-Solid-Modeling.pdf)
+
 **Survey Papers**
 
 + 2019-Arxiv - Deep learning for 3D point clouds: A survey. [[Paper]](https://arxiv.org/abs/1912.12033)
