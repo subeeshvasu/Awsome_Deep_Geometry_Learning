@@ -315,6 +315,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2021-Arxiv - Signed Distance Function Computation from an Implicit Surface. [[Paper]](https://arxiv.org/pdf/2104.08057.pdf)
 
++ 2021-Arxiv - Spline Positional Encoding for Learning 3D Implicit Signed Distance Fields. [[Paper]](https://arxiv.org/pdf/2106.01553.pdf)
+
 **Structure/Part-based representation**
 
 + 2011-EG - Symmetry hierarchy of man-made objects. [[Paper]](https://kevinkaixu.net/papers/wang_eg11_symh.pdf)
