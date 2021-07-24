@@ -545,6 +545,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2021-Arxiv - Creating 3d Shape Abstractions Using Superquadric Surfaces. [[Paper]](https://nemertes.library.upatras.gr/jspui/bitstream/10889/14977/3/Nemertes_Fotis%28ele%29.pdf)
 
++ 2021-CAD - Learning Cuboid Abstraction of 3D Shapes via Iterative Error Feedback. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0010448521001032)
+
 **Survey Papers**
 
 + 2019-Arxiv - Deep learning for 3D point clouds: A survey. [[Paper]](https://arxiv.org/abs/1912.12033)
