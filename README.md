@@ -451,7 +451,7 @@ A curated list of resources for Deep Geometry Learning
 
 + 2019-CVPR - Supervised fitting of geometric primitives to 3d point clouds. [[Paper]](https://arxiv.org/abs/1811.08988)[[Code]](https://github.com/lingxiaoli94/SPFN)
 
-+ 2019-CVPR - Superquadrics Revisited: Learning 3D Shape Parsing Beyond Cuboids. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Paschalidou_Superquadrics_Revisited_Learning_3D_Shape_Parsing_Beyond_Cuboids_CVPR_2019_paper.html)[[Code]](https://github.com/paschalidoud/superquadric_parsing)
++ 2019-CVPR - Superquadrics Revisited: Learning 3D Shape Parsing Beyond Cuboids. [[Paper]](https://arxiv.org/abs/1904.09970)[[Code]](https://github.com/paschalidoud/superquadric_parsing)
 
 + 2019-CVPR - Unsupervised Primitive Discovery for Improved 3D Generative Modeling. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Khan_Unsupervised_Primitive_Discovery_for_Improved_3D_Generative_Modeling_CVPR_2019_paper.pdf)
 
