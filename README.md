@@ -437,7 +437,7 @@ A curated list of resources for Deep Geometry Learning
 
 + 2018-CVPR - Im2struct: Recovering 3d shape structure from a single RGB image. [[Paper]](https://arxiv.org/abs/1804.05469)[[Code]](https://github.com/chengjieniu/Im2Struct)
 
-+ 2018-ECCV - Physical Primitive Decomposition. [[Paper]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Zhijian_Liu_Physical_Primitive_Decomposition_ECCV_2018_paper.pdf)
++ 2018-ECCV - Physical Primitive Decomposition. [[Paper]](https://arxiv.org/pdf/1809.05070.pdf)
 
 + 2018-NIPS - Learning to Infer Graphics Programs from Hand-Drawn Images. [[Paper]](https://arxiv.org/pdf/1707.09627.pdf)[[Code]](https://github.com/ellisk42/TikZ)
 
