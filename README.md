@@ -515,6 +515,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2021-CVPR - Inferring CAD Modeling Sequences Using Zone Graphs. [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Xu_Inferring_CAD_Modeling_Sequences_Using_Zone_Graphs_CVPR_2021_paper.pdf)
 
++ 2021-CVPR - Cuboids Revisited: Learning Robust 3D Shape Fitting to Single RGB Images. [[Paper]](https://arxiv.org/pdf/2105.02047.pdf)
+
 + 2021-Arxiv - Mixture of Volumetric Primitives for Efficient Neural Rendering. [[Paper]](https://arxiv.org/pdf/2103.01954.pdf)
 
 + 2021-Arxiv - EllipsoidNet: Ellipsoid Representation for Point Cloud Classification and Segmentation. [[Paper]](https://arxiv.org/pdf/2103.02517.pdf)
@@ -528,8 +530,6 @@ A curated list of resources for Deep Geometry Learning
 + 2021-Arxiv - ShapeMOD: Macro Operation Discovery for 3D Shape Programs. [[Paper]](https://arxiv.org/pdf/2104.06392.pdf)
 
 + 2021-Arxiv - Engineering Sketch Generation for Computer-Aided Design. [[Paper]](https://arxiv.org/pdf/2104.09621.pdf)
-
-+ 2021-Arxiv - Cuboids Revisited: Learning Robust 3D Shape Fitting to Single RGB Images. [[Paper]](https://arxiv.org/pdf/2105.02047.pdf)
 
 + 2021-Arxiv - Fit4CAD: A point cloud benchmark for fitting simple geometric primitives in CAD models. [[Paper]](https://arxiv.org/pdf/2105.06858.pdf)
 
