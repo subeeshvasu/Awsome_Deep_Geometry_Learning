@@ -455,7 +455,7 @@ A curated list of resources for Deep Geometry Learning
 
 + 2019-CVPR - Unsupervised Primitive Discovery for Improved 3D Generative Modeling. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Khan_Unsupervised_Primitive_Discovery_for_Improved_3D_Generative_Modeling_CVPR_2019_paper.pdf)
 
-+ 2019-ICCV - Learning Shape Templates with Structured Implicit Functions. [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Genova_Learning_Shape_Templates_With_Structured_Implicit_Functions_ICCV_2019_paper.pdf)[[Code]](https://github.com/google/ldif)
++ 2019-ICCV - Learning Shape Templates with Structured Implicit Functions. [[Paper]](https://arxiv.org/abs/1904.06447)[[Code]](https://github.com/google/ldif)
 
 + 2019-NIPS - Learning elementary structures for 3d shape generation and matching. [[Paper]](https://arxiv.org/abs/1908.04725)[[Code]](https://github.com/TheoDEPRELLE/AtlasNetV2)
 
