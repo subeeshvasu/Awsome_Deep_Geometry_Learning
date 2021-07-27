@@ -469,17 +469,17 @@ A curated list of resources for Deep Geometry Learning
 
 + 2019-TPAMI - PRS-Net: Planar Reflective Symmetry Detection Net for 3D Models. [[Paper]](https://arxiv.org/pdf/1910.06511.pdf)
 
-+ 2020-CVPR - Learning Unsupervised Hierarchical Part Decomposition of 3D Objects from a Single RGB Image. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Paschalidou_Learning_Unsupervised_Hierarchical_Part_Decomposition_of_3D_Objects_From_a_CVPR_2020_paper.pdf)[[Code]](https://github.com/paschalidoud/hierarchical_primitives)
++ 2020-CVPR - Learning Unsupervised Hierarchical Part Decomposition of 3D Objects from a Single RGB Image. [[Paper]](https://arxiv.org/abs/2004.01176)[[Code]](https://github.com/paschalidoud/hierarchical_primitives)
 
 + 2020-CVPR - DualSDF: Semantic Shape Manipulation using a Two-Level Representation. [[Paper]](https://arxiv.org/pdf/2004.02869.pdf)[[Code]](https://github.com/zekunhao1995/DualSDF)
 
-+ 2020-CVPR - CvxNet: Learnable Convex Decomposition. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Deng_CvxNet_Learnable_Convex_Decomposition_CVPR_2020_paper.html)[[Code]](https://github.com/tensorflow/graphics/tree/master/tensorflow_graphics/projects/cvxnet)
++ 2020-CVPR - CvxNet: Learnable Convex Decomposition. [[Paper]](https://arxiv.org/abs/1909.05736)[[Code]](https://github.com/tensorflow/graphics/tree/master/tensorflow_graphics/projects/cvxnet)
 
 + 2020-CVPR - Local Deep Implicit Functions for 3D Shape. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Genova_Local_Deep_Implicit_Functions_for_3D_Shape_CVPR_2020_paper.pdf)[[Code]](https://github.com/google/ldif)
 
-+ 2020-CVPR - Deep Parametric Shape Predictions using Distance Fields. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Smirnov_Deep_Parametric_Shape_Predictions_Using_Distance_Fields_CVPR_2020_paper.pdf)[[Code]](https://github.com/dmsm/DeepParametricShapes)
++ 2020-CVPR - Deep Parametric Shape Predictions using Distance Fields. [[Paper]](https://arxiv.org/abs/1904.08921)[[Code]](https://github.com/dmsm/DeepParametricShapes)
 
-+ 2020-CVPR - Learning Generative Models of Shape Handles. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Gadelha_Learning_Generative_Models_of_Shape_Handles_CVPR_2020_paper.pdf)
++ 2020-CVPR - Learning Generative Models of Shape Handles. [[Paper]](https://arxiv.org/abs/2004.03028)
 
 + 2020-CVPR - Autolabeling 3D Objects with Differentiable Rendering of SDF Shape Priors. [[Paper]](https://arxiv.org/abs/1911.11288)[[Code]](https://github.com/TRI-ML/sdflabel)
 
