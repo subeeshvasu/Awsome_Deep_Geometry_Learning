@@ -319,6 +319,9 @@ A curated list of resources for Deep Geometry Learning
 
 + 2021-Arxiv - Geometry-Consistent Neural Shape Representation with Implicit Displacement Fields. [[Paper]](https://arxiv.org/pdf/2106.05187.pdf)
 
++ 2021-Arxiv - A Deep Signed Directional Distance Function for Object Shape Representation. [[Paper]](https://arxiv.org/pdf/2107.11024.pdf)
+
+
 **Structure/Part-based representation**
 
 + 2011-EG - Symmetry hierarchy of man-made objects. [[Paper]](https://kevinkaixu.net/papers/wang_eg11_symh.pdf)
