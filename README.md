@@ -394,6 +394,9 @@ A curated list of resources for Deep Geometry Learning
 
 + 2021-Arxiv - Spectral Unions of Partial Deformable 3D Shapes. [[Paper]](https://arxiv.org/pdf/2104.00514.pdf)
 
++ 2021-Arxiv - RGL-NET: A Recurrent Graph Learning framework for Progressive Part Assembly. [[Paper]](https://arxiv.org/pdf/2107.12859.pdf)
+
+
 **Deformation-based methods**
 
 + 2016-TOG - Efficient and flexible deformation representation for data-driven surface modeling. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2908736)
