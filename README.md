@@ -553,6 +553,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2021-CAD - Learning Cuboid Abstraction of 3D Shapes via Iterative Error Feedback. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0010448521001032)
 
++ 2021-Arxiv - Discovering 3D Parts from Image Collections. [[Paper]](https://arxiv.org/pdf/2107.13629.pdf)
+
 **Survey Papers**
 
 + 2019-Arxiv - Deep learning for 3D point clouds: A survey. [[Paper]](https://arxiv.org/abs/1912.12033)
