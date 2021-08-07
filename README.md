@@ -555,6 +555,8 @@ A curated list of resources for Deep Geometry Learning
 
 + 2021-Arxiv - Discovering 3D Parts from Image Collections. [[Paper]](https://arxiv.org/pdf/2107.13629.pdf)
 
++ 2021-Arxiv - ELLIPSDF: Joint Object Pose and Shape Optimization with a Bi-level Ellipsoid and Signed Distance Function Description. [[Paper]](https://arxiv.org/pdf/2108.00355.pdf)
+
 **Survey Papers**
 
 + 2019-Arxiv - Deep learning for 3D point clouds: A survey. [[Paper]](https://arxiv.org/abs/1912.12033)
