@@ -624,6 +624,7 @@ A curated list of resources for Deep Geometry Learning
 
 + Earth Mover Distance (EMD) - [[Sparse]](https://github.com/daerduoCarey/PyTorchEMD)[[Dense]](https://github.com/Colin97/MSN-Point-Cloud-Completion/tree/master/emd)
 + Chamfer Distance (CD) - [[Code]](https://github.com/facebookresearch/DeepSDF/blob/master/deep_sdf/metrics/chamfer.py)
++ IoU, f-score - [[Code]](https://github.com/cvlab-epfl/UCLID-Net/blob/c3464ab799544657c4feb169fe2b082668124579/utils.py#L94)
 
 
 **Other Resources**
